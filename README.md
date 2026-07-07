@@ -2,6 +2,8 @@
 This is a beta so people can try out the backend see if there are any issues and i can fix them its unrelastic for me to be testing every single version/feature but in general Diamene should work atleast from testing from 1.10 to latest,
 there will be some things/features missing but they will be added eventually.
 
+*shouldnt need saying but there will be bugs, thats to be expected*
+
 ## About Diamene
 Diamene is a rewrite of the NeoniteV2 backend but in golang
 
@@ -24,4 +26,4 @@ route("GET", "/ping", function(req) {
     };
 });
 ```
-but as of right now mainly just need people to test this and make an issue if you have one on the repo.
+but as of right now mainly just need people to test this and make an issue if you have one on the repo and the fortnite version included aswell.
