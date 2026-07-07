@@ -14,7 +14,7 @@ Config file:
 - Various Other Map Changes aswell
 
 
-Now i know its kind of limiting to not be able to add your own routes so im also looking into [Goja](github.com/dop251/goja) as a solution for that as a sort of a javascript route pluings kind of thing
+Now i know its kind of limiting to not be able to add your own routes so im also looking into [Goja](github.com/dop251/goja) as a solution for that as a sort of a javascript route plugins kind of thing
 as an example:
 
 ```javascript
