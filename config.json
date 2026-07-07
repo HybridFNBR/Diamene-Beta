@@ -1,0 +1,54 @@
+{
+    "ItemShopRefreshInterval": 30,
+    "bRefreshKeychainViaTimeline": false,
+    "bRefreshKeychainViaKeychainEndpoint": true,
+    "TimelineConfigs":{
+        "TimelineRefreshInterval": 30,
+        "CH1S10":{
+            "bEnableRuinHouseBeacon": false,
+            "10.31_bEnableGothemCityBeacon": false,
+            "bEnableGreasyGroveBeacon": false,
+            "bEnableMoistyPalmsBeacon": false,
+            "bEnableFrenzyFieldsBeacon": false,
+            "bEnableOakBeacon": false,
+            "bEnableVoidBeacon": false,
+            "bEnableRetailRowBeacon": false,
+            "bEnableFloatingCubeIsland": false
+        },
+        "WaterLevels":{
+            "WaterLevel_0": true,
+            "WaterLevel_1": false,
+            "WaterLevel_2": false,
+            "WaterLevel_3": false,
+            "WaterLevel_4": false,
+            "WaterLevel_5": false,
+            "WaterLevel_6": false,
+            "WaterLevel_7": false
+        },
+        "S27":{
+            "Stage1": false,
+            "Stage2": false,
+            "Stage3": true
+        },
+        "TMNTTabStages":{
+            "Stage1": true,
+            "Stage2": false,
+            "Stage3": false
+        },
+        "AvatarIcebergStages":{
+            "Stage1": false,
+            "Stage2": false,
+            "Stage3": false
+        },
+        "RemixMapStages":{
+            "Stage1": true, 
+            "Stage2": false,
+            "Stage3": false,
+            "Stage4": false,
+            "JuiceWRLDPOIStage1": false,
+            "JuiceWRLDPOIStage2": false,
+            "JuiceWRLDPOIStage3": false
+        }
+    }
+
+}
