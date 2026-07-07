@@ -5,7 +5,7 @@ there will be some things/features missing but they will be added eventually.
 ## About Diamene
 Diamene is a rewrite of the NeoniteV2 backend but in golang
 
-##Features
+## Features
 Config file:
 - Change the timeline refresh interval/Item Shop Refresh
 - Keychain
