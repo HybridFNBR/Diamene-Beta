@@ -26,4 +26,4 @@ route("GET", "/ping", function(req) {
     };
 });
 ```
-but as of right now mainly just need people to test this and make an issue if you have one on the repo.
+but as of right now mainly just need people to test this and make an issue if you have one on the repo and the fortnite version included aswell.
