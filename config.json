@@ -1,9 +1,24 @@
 {
-    "ItemShopRefreshInterval": 30,
-    "bRefreshKeychainViaTimeline": false,
-    "bRefreshKeychainViaKeychainEndpoint": true,
+    "GeneralSettings":{
+        "ItemShopRefreshInterval": 30,
+        "bRefreshKeychainViaTimeline": false,
+        "bRefreshKeychainViaKeychainEndpoint": true,
+        "bEnableCustomLobbyBackground": false,
+        "CustomLobbyBackgroundImageUrl": "",
+        "bEnableDowntimeScreen": false
+    },
     "TimelineConfigs":{
         "TimelineRefreshInterval": 30,
+        "CH1S9MechStages":{
+            "Stage1": false,
+            "Stage2": false,
+            "Stage3": false,
+            "Stage4": false,
+            "Stage5": false,
+            "Stage6": false,
+            "Stage7": false,
+            "Stage8": false
+        },
         "CH1S10":{
             "bEnableRuinHouseBeacon": false,
             "10.31_bEnableGothemCityBeacon": false,
@@ -15,8 +30,8 @@
             "bEnableRetailRowBeacon": false,
             "bEnableFloatingCubeIsland": false
         },
-        "WaterLevels":{
-            "WaterLevel_0": true,
+        "S13WaterLevel":{
+            "WaterLevel_0": false,
             "WaterLevel_1": false,
             "WaterLevel_2": false,
             "WaterLevel_3": false,
@@ -25,7 +40,7 @@
             "WaterLevel_6": false,
             "WaterLevel_7": false
         },
-        "S27":{
+        "S27MapStages":{
             "Stage1": false,
             "Stage2": false,
             "Stage3": true
