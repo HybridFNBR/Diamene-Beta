@@ -7,6 +7,12 @@
         "CustomLobbyBackgroundImageUrl": "",
         "bEnableDowntimeScreen": false
     },
+    "SpritesConfig":{
+        "EnableSpriteStarterScreen": false,
+        "OwnAllSprites": false,
+        "MasterAllSprites": false,
+        "SpriteXP": 0
+    },
     "TimelineConfigs": {
         "TimelineRefreshInterval": 30,
         "CH1S9MechStages": {
