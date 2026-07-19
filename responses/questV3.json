@@ -1,0 +1,26 @@
+{
+    "questProgress": {},
+    "accountXp": {
+        "dynamicXp": {
+            "timespan": 0,
+            "bucketXp": 0,
+            "bankXp": 0,
+            "bankXpMult": 0,
+            "boosterBucketXp": 0,
+            "boosterXpMult": 0,
+            "weeklyExcessXpMult": 1,
+            "currentWeekXp": 0,
+            "currentWeek": 9
+        },
+        "playtimeXp": {
+            "currentWeek": 9,
+            "currentWeekXp": 0
+        },
+        "restedXp": 0,
+        "seasonXp": 0,
+        "seasonLevel": 0,
+        "seasonNumber": 0,
+        "seasonBegin": "2025-06-01T13:00:00Z",
+        "timeDilation": 0
+    }
+}

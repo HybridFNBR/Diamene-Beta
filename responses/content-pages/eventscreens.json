@@ -1,0 +1,643 @@
+{
+  "eventScreenGroup": {
+    "_type": "Event Screen Group",
+    "eventScreens": [
+      {
+        "purchasePremiumTrackHeader": "BUY \u003Ctext color=\"E779FF\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+        "resourceHeader": "Ooze",
+        "moreInfoHeader": "COWABUNGA",
+        "eventCMSId": "LinedNotebookEvent",
+        "inspectSpecialItemUnowned": "Collect all 6 \u003Ctext color=\"A8E40C\"\u003EBlueprints\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E by completing quests to get the Krang Backbling!",
+        "_type": "Event Screen Data",
+        "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+        "rewardTrackLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Cowabunga Pass available through February 27 at 9:00 am ET. Some rewards require quests to be completed in Battle Royale / Zero-Build mode in order to be earned.",
+        "eventCTACompleted": "\u003Ctext color=\"A8E40C\"\u003EYOU HAVE BECOME A TRUE NINJA!\u003C/\u003E",
+        "inspectSpecialPremiumItemOwned": "Claimed with the \u003Ctext color=\"7E51FF\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+        "starterHeader": "Complete quests to find Ooze!",
+        "moreInfoSubHeader": "\u003Ctext color=\"A8E40C\"\u003ECowabunga pass runs from 2/9/2024 to 2/27/2024\u003C/\u003E",
+        "premiumUpsellUnownedBody": "Includes the \u003Ctext color=\"E779FF\"\u003ESHREDDER Outfit\u003C/\u003E and access to the bottom track for 1,000 V-Bucks",
+        "purchasePremiumTrackBodyList": [
+          "Instantly claim the \u003Ctext color=\"E779FF\"\u003ESHREDDER Fortnite Style\u003C/\u003E and \u003Ctext color=\"E779FF\"\u003ESHREDDER LEGO Style!\u003C/\u003E",
+          "\u003Ctext color=\"E779FF\"\u003EAccess the bottom reward track and\u003C/\u003E earn more rewards!",
+          "If you've earned \u003Ctext color=\"A8E40C\"\u003EOoze\u003C/\u003E before purchasing the Premium Reward Track, you'll automatically claim the \u003Ctext color=\"E779FF\"\u003Eupgraded rewards\u003C/\u003E you've earned up to that point!",
+          "\u003Ctext color=\"E779FF\"\u003EPremium Reward Track \u003C/\u003E items may be available in the Item Shop at a later date."
+        ],
+        "completionHeader": "\u003Ctext color=\"A8E40C\"\u003EYOU HAVE BECOME A TRUE NINJA!\u003C/\u003E",
+        "premiumUpsellOwnedBody": "\u003Ctext color=\"E779FF\"\u003ESHREDDER Fortnite Style\u003C/\u003E and \u003Ctext color=\"E779FF\"\u003ELEGO Style\u003C/\u003E CLAIMED!",
+        "eventDescription": "Gain \u003Ctext color=\"A8E40C\"\u003EOoze\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E and \u003Ctext color=\"A8E40C\"\u003EBlueprints\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E as you complete quests and shell out justice.",
+        "eventName": "COWABUNGA",
+        "inspectSpecialItemOwned": "Krang Backbling Obtained!",
+        "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+        "moreInfoLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Cowabunga Pass available through February 27 at 9:00 am ET.  Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics ",
+        "inspectSpecialPremiumItemUnowned": "\u003Cimg id=\"LockIcon\"/\u003E Included with the \u003Ctext color=\"7E51FF\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+        "purchaseLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Cowabunga Pass available through February 27 at 9:00 am ET.  Some rewards require quests to be completed in Battle Royale / Zero-Build mode in order to be earned. Not all cosmetics are usable in all experiences.  "
+      },
+      {
+        "purchasePremiumTrackHeader": "BUY THE PREMIUM REWARD TRACK",
+        "resourceHeader": "FESTIVAL POINTS",
+        "moreInfoHeader": "UNLOCK YOUR TALENT",
+        "eventCMSId": "SparksPackS02Event",
+        "_type": "Event Screen Data",
+        "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+        "rewardTrackLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. UNLOCK YOUR TALENT pass available through April 22nd, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+        "moreInfoGroups": [
+          {
+            "_type": "Event Screen More Info Group",
+            "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-01-256x128-bc4fa249fae3.png",
+            "header": "THE REWARD TRACK",
+            "body": "Gain Festival Points by completing Festival Quests. Unlock rewards when you fill each section on the track!\n\nPurchase the Premium Reward Track at any time during the event for 1,800 V-Bucks. You'll automatically claim the rewards you've earned up to that point. \n\nPlease note that all in-game rewards are not exclusive to UNLOCK YOUR TALENT and may be available later in the Item Shop for purchase. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+          },
+          {
+            "_type": "Event Screen More Info Group",
+            "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-02-256x128-7361bf56c84f.png",
+            "header": "BUYING REWARDS",
+            "body": "If you’ve purchased the Premium Reward Track, you’ll then have the option to buy rewards from both tracks simultaneously!\n\nThe \"Buy Rewards\" button appears at the bottom of the screen after you purchase the Premium Reward Track, and from there you can choose how many rewards you would like to buy."
+          }
+        ],
+        "starterHeader": "Earn Festival Points by completing quests!",
+        "moreInfoSubHeader": "UNLOCK YOUR TALENT runs through April 22nd, 2024",
+        "premiumUpsellUnownedBody": "Includes the Glitch Groove Aura and access to the Premium Reward Track for 1,800 V-Bucks",
+        "purchasePremiumTrackBodyList": [
+          "Instantly claim the Glitch Groove Aura",
+          "Access the premium reward track and earn more rewards!",
+          "If you've earned Festival Points before purchasing the Premium Reward Track, you'll automatically claim the upgraded rewards you've earned up to that point!",
+          "Premium Reward Track items may be available in the Item Shop at a later date."
+        ],
+        "completionHeader": "UNLOCK YOUR TALENT is complete!",
+        "premiumUpsellOwnedBody": "GLITCH GROOVE AURA CLAIMED",
+        "eventDescription": "Take center stage and complete Festival Quests to gain Festival Points during UNLOCK YOUR TALENT",
+        "eventName": "UNLOCK YOUR TALENT",
+        "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+        "moreInfoLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. UNLOCK YOUR TALENT pass available through April 22nd, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+        "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. UNLOCK YOUR TALENT pass available through April 22nd, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+      },
+      {
+        "purchasePremiumTrackHeader": "BUY PREMIUM REWARD TRACK",
+        "resourceHeader": "FESTIVAL POINTS",
+        "moreInfoHeader": "OPENING NIGHT",
+        "eventCMSId": "SparksPackS01Event",
+        "eventCTA": "Event Call To Action",
+        "_type": "Event Screen Data",
+        "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+        "rewardTrackLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Opening Night pass available through February 22nd, 2024. ",
+        "eventCTACompleted": "Event Call To Action Completed",
+        "moreInfoGroups": [
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "THE REWARD TRACK",
+            "body": "Complete Festival Quests to gain Festival Points. Claim rewards as each section of the track is filled. \n\n\nPurchase the Premium Reward Track at any time during the event for 1,800 V-Bucks. You'll automatically claim the rewards you've earned up to that point.\n\nPlease note that all in-game rewards are not exclusive to Opening Night and may be available later in the Item Shop for purchase at a potentially higher price."
+          },
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "BUYING REWARDS",
+            "body": "If you’ve purchased the Premium Reward Track, you’ll then have the option to buy rewards from both tracks simultaneously!\n\nThe “Buy Rewards” button appears at the bottom of the screen after you purchase the Premium Reward Track, and from there you can choose how many rewards you would like to buy."
+          }
+        ],
+        "starterHeader": "Complete quests to earn Festival Points!",
+        "moreInfoSubHeader": "OPENING NIGHT runs through February 22nd, 2024 at 10:00pm ET",
+        "premiumUpsellUnownedBody": "Includes the Rift Rock Aura and access to the Premium Reward Track for 1,800 V-Bucks",
+        "purchasePremiumTrackBodyList": [
+          "Instantly claim the Rift Rock Aura",
+          "Access the bottom reward track and earn more rewards",
+          "If you've earned Festival Points before purchasing the Premium Reward Track, you'll automaticaly claim the upgraded rewards you've earned up to that point.",
+          "Premium Reward Track items may be available in the Item Shop at a later date."
+        ],
+        "completionHeader": "Opening Night is complete!",
+        "premiumUpsellOwnedBody": "RIFT ROCK AURA CLAIMED",
+        "eventDescription": "Take center stage and complete Festival Quests to gain Festival Points during OPENING NIGHT. \n",
+        "eventName": "OPENING NIGHT",
+        "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+        "moreInfoLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Opening Night pass available through February 22nd, 2024. ",
+        "purchaseLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Opening Night pass available through February 22nd, 2024. "
+      },
+      {
+        "purchasePremiumTrackHeader": "BUY \u003Ctext color=\"7E51FF\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+        "resourceHeader": "CURSED ENERGY",
+        "moreInfoHeader": "BREAK THE CURSE!",
+        "eventCMSId": "BelongTreatyEvent",
+        "inspectSpecialItemUnowned": "Collect \u003Ctext color=\"33DAFF\"\u003ESORCERER GRADES\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E by completing the Sorcerer Grade quest bundles. \u003Ctext color=\"33DAFF\"\u003EClaim the NUE Glider when you collect them all!\u003C/\u003E",
+        "_type": "Event Screen Data",
+        "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+        "rewardTrackLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Break the Curse! event available through Aug 25 at 2:00am ET.",
+        "inspectSpecialPremiumItemOwned": "Included with the PREMIUM REWARD TRACK",
+        "moreInfoGroups": [
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "THE REWARD TRACK",
+            "body": "Complete \u003Ctext color=\"F9FE49\"\u003Equests\u003C/\u003E to increase your \u003Ctext color=\"F9FE49\"\u003ECURSED ENERGY\u003C/\u003E. Claim rewards when you fill each section on the track!\n\n\u003Cimg id=\"LockIcon\"/\u003E \u003Ctext color=\"FFFFFF\"\u003EPremium Reward Track\u003C/\u003E\nYou can unlock the bottom reward track at any time for \u003Ctext color=\"F9FE49\"\u003E1,000 V–Bucks\u003C/\u003E. You'll automatically claim the rewards you've earned up to that point.\n\nPlease note that all in-game rewards are not exclusive to Break the Curse! and may be available later in the Item Shop for purchase at a potentially higher price."
+          },
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "BONUS GOAL",
+            "body": "Earn \u003Ctext color=\"F9FE49\"\u003ESORCERER GRADES\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E by completing quests in each Sorcerer Grade quest bundle. \u003Ctext color=\"F9FE49\"\u003EClaim the NUE Glider when you collect them all!\u003C/\u003E\n\nPlease note the \u003Ctext color=\"F9FE49\"\u003ENUE Glider\u003C/\u003E may be available later in the Item Shop for purchase."
+          },
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "BUYING REWARDS",
+            "body": "If you’ve purchased the Premium Reward Track, you’ll then have the \u003Ctext color=\"F9FE49\"\u003Eoption to buy rewards from both tracks simultaneously\u003C/\u003E!\n\nThe \u003Ctext color=\"F9FE49\"\u003E“Buy Rewards” button appears at the bottom of the screen\u003C/\u003E after you purchase the Premium Reward Track, and from there you can choose how many rewards you would like to buy."
+          }
+        ],
+        "starterHeader": "Complete quests to earn CURSED ENERGY!",
+        "moreInfoSubHeader": "BREAK THE CURSE! runs from Aug 8 to Aug 25 at 2:00am ET",
+        "premiumUpsellUnownedBody": "\u003Ctext color=\"7E51FF\"\u003EIncludes the\u003C/\u003E STREETWEAR YUJI ITADORI Outfit \u003Ctext color=\"7E51FF\"\u003Eand access to the bottom track for 1,000 V–Bucks\u003C/\u003E",
+        "purchasePremiumTrackBodyList": [
+          "Instantly \u003Ctext color=\"7E51FF\"\u003Eclaim the\u003C/\u003E STREETWEAR YUJI ITADORI Outfit!",
+          "\u003Ctext color=\"7E51FF\"\u003EAccess the bottom reward track and\u003C/\u003E earn more rewards!",
+          "\u003Ctext color=\"7E51FF\"\u003EIf you've earned CURSED ENERGY before purchasing the Premium Reward Track, you'll\u003C/\u003E automatically claim \u003Ctext color=\"7E51FF\"\u003Ethe upgraded rewards you've earned up to that point!\u003C/\u003E",
+          "\u003Ctext color=\"7E51FF\"\u003EPremium Reward Track items may be available in the Item Shop at a later date.\u003C/\u003E"
+        ],
+        "completionHeader": "YOUR TRAINING IS COMPLETE!",
+        "premiumUpsellOwnedBody": "STREETWEAR YUJI ITADORI OUTFIT CLAIMED",
+        "eventDescription": "Gain \u003Ctext color=\"33DAFF\"\u003ECURSED ENERGY\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E and \u003Ctext color=\"33DAFF\"\u003ESORCERER GRADES\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E as you complete quests and fight curses.",
+        "eventName": "BREAK THE CURSE!",
+        "inspectSpecialItemOwned": "NUE Glider obtained!",
+        "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+        "moreInfoLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Break the Curse! event available through Aug 25 at 2:00am ET.",
+        "inspectSpecialPremiumItemUnowned": "\u003Cimg id=\"LockIcon\"/\u003E Included with the \u003Ctext color=\"7E51FF\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+        "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Break the Curse! event available through Aug 25 at 2:00am ET."
+      },
+      {
+        "purchasePremiumTrackHeader": "BUY \u003Ctext color=\"FF3A3A\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+        "resourceHeader": "GALACTIC REPUTATION",
+        "moreInfoHeader": "FIND THE FORCE",
+        "eventCMSId": "PlotTwistEvent",
+        "inspectSpecialItemUnowned": "\u003Ctext color=\"6DCAEE\"\u003ECollect all\u003C/\u003E 3 SITH HOLOCRONS \u003Cimg id=\"TokenIcon\"/\u003E\u003Ctext color=\"6DCAEE\"\u003E by\u003C/\u003E completing quests \u003Ctext color=\"6DCAEE\"\u003Eto get the\u003C/\u003E SITH INFILTRATOR \u003Ctext color=\"6DCAEE\"\u003EGlider!\u003C/\u003E",
+        "_type": "Event Screen Data",
+        "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+        "rewardTrackLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Find the Force event available through May 23 at 9:00am ET.",
+        "inspectSpecialPremiumItemOwned": "Included with the PREMIUM REWARD TRACK",
+        "moreInfoGroups": [
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "THE REWARD TRACK",
+            "body": "Complete \u003Ctext color=\"F9FE49\"\u003Equests\u003C/\u003E to increase your \u003Ctext color=\"F9FE49\"\u003EGALACTIC REPUTATION\u003C/\u003E. Claim rewards when you fill each section on the track!\n\n\u003Cimg id=\"LockIcon\"/\u003E \u003Ctext color=\"FFFFFF\"\u003EPremium Reward Track\u003C/\u003E\nYou can unlock the bottom reward track at any time for \u003Ctext color=\"F9FE49\"\u003E1,000 V-Bucks\u003C/\u003E. You'll automatically claim the rewards you've earned up to that point.\n\nPlease note that all in-game rewards are not exclusive to Find the Force and may be available later in the Item Shop for purchase at a potentially higher price."
+          },
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "BONUS GOAL",
+            "body": "Collect \u003Ctext color=\"F9FE49\"\u003ESITH HOLOCRONS\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E by completing the Find the Force quests. \u003Ctext color=\"F9FE49\"\u003EClaim the SITH INFILTRATOR Glider when you collect them all!\u003C/\u003E\n\nPlease note the \u003Ctext color=\"F9FE49\"\u003ESITH INFILTRATOR Glider\u003C/\u003E may be available later in the Item Shop for purchase."
+          },
+          {
+            "_type": "Event Screen More Info Group",
+            "header": "BUYING REWARDS",
+            "body": "If you’ve purchased the Premium Reward Track, you’ll then have the \u003Ctext color=\"F9FE49\"\u003Eoption to buy rewards from both tracks simultaneously\u003C/\u003E!\n\nThe \u003Ctext color=\"F9FE49\"\u003E“Buy Rewards” button appears at the bottom of the screen\u003C/\u003E after you purchase the Premium Reward Track, and from there you can choose how many rewards you would like to buy."
+          }
+        ],
+        "starterHeader": "Complete quests to earn GALACTIC REPUTATION!",
+        "moreInfoSubHeader": "FIND THE FORCE runs from May 2 to May 23 at 9:00am ET",
+        "premiumUpsellUnownedBody": "\u003Ctext color=\"FF7070\"\u003EIncludes the\u003C/\u003E CORUSCANT GUARD Outfit \u003Ctext color=\"FF7070\"\u003Eand access to the bottom track for 1,000 V–Bucks\u003C/\u003E",
+        "purchasePremiumTrackBodyList": [
+          "Instantly \u003Ctext color=\"FF7070\"\u003Eclaim the\u003C/\u003E CORUSCANT GUARD Outfit!",
+          "\u003Ctext color=\"FF7070\"\u003EAccess the bottom reward track and\u003C/\u003E earn more rewards!",
+          "\u003Ctext color=\"FF7070\"\u003EIf you've earned GALACTIC REPUTATION before purchasing the Premium Reward Track, you'll\u003C/\u003E automatically claim \u003Ctext color=\"FF7070\"\u003Ethe upgraded rewards you've earned up to that point!\u003C/\u003E",
+          "\u003Ctext color=\"FF7070\"\u003EPremium Reward Track items may be available in the Item Shop at a later date.\u003C/\u003E"
+        ],
+        "completionHeader": "CONGRATULATIONS, YOUR TRAINING IN THE FORCE IS COMPLETE!",
+        "premiumUpsellOwnedBody": "CORUSCANT GUARD OUTFIT CLAIMED",
+        "eventDescription": "Gain \u003Ctext color=\"FFFFFF\"\u003EGALACTIC REPUTATION\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E and \u003Ctext color=\"FFFFFF\"\u003ESITH HOLOCRONS\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E as you complete quests and learn the ways of the Force.",
+        "eventName": "FIND THE FORCE",
+        "inspectSpecialItemOwned": "SITH INFILTRATOR obtained!",
+        "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+        "moreInfoLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Find the Force event available through May 23 at 9:00am ET.",
+        "inspectSpecialPremiumItemUnowned": "\u003Cimg id=\"LockIcon\"/\u003E Included with the \u003Ctext color=\"FF7070\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+        "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Find the Force event available through May 23 at 9:00am ET."
+      },
+      {
+        "resourceHeader": "INFAMY",
+        "moreInfoHeader": "MOST WANTED",
+        "eventCMSId": "VaultbreakersEvent",
+        "eventCTA": "Collect all \u003Ctext color=\"E5B842\"\u003E5 COLD BLOODED MEDALLIONS\u003C/\u003E to unlock the \u003Ctext color=\"E5B842\"\u003ESOLID SKULL\u003C/\u003E Back Bling!",
+        "_type": "Event Screen Data",
+        "eventCTACompleted": "You stole the SOLID SKULL Back Bling!",
+        "rewardTrackLegal": "All INFAMY rewards can be obtained without purchase.",
+        "headerCTA": "SOLID SKULL",
+        "moreInfoGroups": [
+          {
+            "_type": "Event Screen More Info Group",
+            "body": "MOST WANTED is a set of challenges that allow you to increase your \u003Ctext color=\"F7FF19\"\u003EINFAMY\u003C/\u003E and earn COLD BLOODED MEDALLIONS.\n\nCompleting MOST WANTED quests will grant you INFAMY, and will advance you along the reward track, unlocking cosmetic in-game rewards at certain intervals.\n\nThe \u003Ctext color=\"F7FF19\"\u003EMOST WANTED\u003C/\u003E quests will unlock the SOLID SKULL Back Bling when you collect all \u003Ctext color=\"F7FF19\"\u003ECOLD BLOODED MEDALLIONS\u003C/\u003E!\n\nPlease note that in-game rewards, including the SOLID SKULL Back Bling, are not exclusive to MOST WANTED and may be available later in the Item Shop for purchase at a potentially higher price."
+          }
+        ],
+        "starterHeader": "COMPLETE QUESTS TO GAIN INFAMY!",
+        "moreInfoSubHeader": "MOST WANTED runs from 02/14/2023 to 02/28/2023",
+        "completionHeader": "YOU PULLED OFF THE ULTIMATE HEIST... NOW SOLID SKULL AWAITS!",
+        "eventDescription": "The MOST WANTED need your help to pull off heists targeting the COLD BLOODED's loot!\n\nComplete Most Wanted quests to unlock \u003Ctext color=\"7AFD02\"\u003EINFAMY\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E rewards and earn COLD BLOODED MEDALLIONS!",
+        "eventName": "MOST WANTED",
+        "purchaseLegal": "All Most Wanted rewards can be obtained for free by completing quests. Buying rewards is optional."
+      },
+      {
+        "resourceHeader": "Your Power Level",
+        "moreInfoHeader": "Dragon Ball - Power Unleashed!",
+        "eventCMSId": "StaminaEvent",
+        "eventCTA": "Collect \u003Ctext color=\"FCE104FF\"\u003EDragon Balls\u003C/\u003E to unlock the Shenron glider!",
+        "_type": "Event Screen Data",
+        "eventCTACompleted": "Shenron granted your wish!",
+        "moreInfoGroups": [
+          {
+            "_type": "Event Screen More Info Group",
+            "body": "Dragon Ball - Power Unleashed! is a set of challenges that allow you to increase your Power Level and earn Dragon Balls.\n\nCompleting quests will grant you Power Level and will advance you along the item track, unlocking cosmetic in-game rewards at certain intervals.\n\nComplete three quests from each category to earn Dragon Balls, and unlock the Shenron Glider when you collect all seven!\n\nAll Power Unleashed rewards can be obtained without purchase by completing quests. Buying rewards is optional."
+          }
+        ],
+        "starterHeader": "Complete Quests to Increase Power Level!",
+        "moreInfoSubHeader": "August 16, 2022 9AM ET to August 30, 2022 2AM ET",
+        "completionHeader": "CONGRATULATIONS! YOUR POWER LEVEL TRAINING IS COMPLETE!",
+        "eventDescription": "Complete quests to increase your \u003Ctext color=\"FCE104FF\"\u003EPower Level\u003C/\u003E and earn \u003Ctext color=\"FCE104FF\"\u003EDragon Balls\u003C/\u003E to unlock various in-game rewards.\n\nCollect all 7 Dragon Balls to unlock the \u003Ctext color=\"FCE104FF\"\u003EShenron Glider\u003C/\u003E!\n\nAll Power Unleashed rewards can be obtained without purchase.",
+        "eventName": "DRAGON BALL\nPOWER UNLEASHED!",
+        "resourceGroupOverrides": [
+          {
+            "_type": "Event Screen Resource Group",
+            "resourceValue": 150000000
+          }
+        ],
+        "moreInfoLegal": "Please note that in-game rewards, including the Shenron Glider, are not exclusive to Dragon Ball - Power Unleashed! and may be available later in the Item Shop for purchase at a potentially higher price.",
+        "purchaseLegal": "All Power Unleashed rewards can be obtained without purchase by completing quests. Buying rewards is optional."
+      }
+    ]
+  },
+  "_title": "EventScreens",
+  "_noIndex": false,
+  "_activeDate": "2024-04-12T12:20:00.000Z",
+  "lastModified": "2024-11-04T21:50:49.671Z",
+  "_locale": "en-US",
+  "_templateName": "FortGameEventScreens",
+  "colddayevent": {
+    "_title": "ColdDayEvent",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "BUY \u003Ctext color=\"D57403\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "resourceHeader": "Chi",
+      "moreInfoHeader": "ELEMENTS",
+      "eventCMSId": "ColdDayEvent",
+      "inspectSpecialItemUnowned": "\u003CRegularText\u003ECollect all 6 \u003C/\u003EChakras \u003Cimg id=\"TokenIcon\"/\u003E \u003CRegularText\u003Eby completing quests to get the \u003C/\u003E\u003CBoldBlackChase\u003EAppa Glider!\u003C/\u003E",
+      "_type": "Event Screen Data",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "rewardTrackLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Elements Pass available through May 3 at 2:00am ET. Some rewards require quests to be completed in Battle Royale / Zero-Build mode in order to be earned.",
+      "eventCTACompleted": "\u003Ctext color=\"3086BE\"\u003EYOU HAVE MASTERED THE ELEMENTS!\u003C/\u003E",
+      "inspectSpecialPremiumItemOwned": "\u003CRegularText\u003EClaimed with the\u003C/\u003E \u003Ctext color=\"D57403\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "starterHeader": "Complete quests to raise your Chi!",
+      "moreInfoSubHeader": "Elements pass runs from 4/12/2024 to 5/03/2024",
+      "premiumUpsellUnownedBody": "Includes the \u003Ctext color=\"D57403\"\u003EAANG Outfit\u003C/\u003E and access to the bottom track for 1,000 V-Bucks",
+      "purchasePremiumTrackBodyList": [
+        "Instantly claim the \u003Ctext color=\"D57403\"\u003EAANG Fortnite Style and AANG LEGO Style!\u003C/\u003E ",
+        "\u003Ctext color=\"D57403\"\u003EAccess the bottom reward track and\u003C/\u003E earn more rewards!",
+        "If you've earned \u003Ctext color=\"3086BE\"\u003EChi\u003C/\u003E before purchasing the Premium Reward Track, you'll automatically claim the \u003Ctext color=\"D57403\"\u003Eupgraded rewards\u003C/\u003E you've earned up to that point!",
+        "\u003Ctext color=\"D57403\"\u003EPremium Reward Track\u003C/\u003E items may be available in the Item Shop at a later date."
+      ],
+      "completionHeader": "\u003Ctext color=\"3086BE\"\u003EYOU HAVE MASTERED THE ELEMENTS!\u003C/\u003E",
+      "premiumUpsellOwnedBody": "\u003Ctext color=\"D57403\"\u003EAANG Fortnite Style\u003C/\u003E and \u003Ctext color=\"D57403\"\u003ELEGO Style\u003C/\u003E CLAIMED!",
+      "eventDescription": "Gain \u003Ctext color=\"3086BE\"\u003EChi\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E and \u003Ctext color=\"3086BE\"\u003EChakras\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E as you complete quests and master the elements.",
+      "eventName": "ELEMENTS",
+      "inspectSpecialItemOwned": "Appa Glider \u003CRegularText\u003Eobtained!\u003C/\u003E",
+      "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+      "moreInfoLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Elements Pass available through May 3 at 2:00 am ET.  Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics.",
+      "inspectSpecialPremiumItemUnowned": "\u003Cimg id=\"LockIcon\"/\u003E \u003CRegularText\u003EIncluded with the \u003C/\u003E\u003Ctext color=\"D57403\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "purchaseLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Elements Pass available through May 3 at 2:00 am ET.  Some rewards require quests to be completed in Battle Royale / Zero-Build mode in order to be earned. Not all cosmetics are usable in all experiences."
+    },
+    "_activeDate": "2024-04-12T12:30:00.000Z",
+    "lastModified": "2024-04-08T19:42:06.293Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "sparkspacks03event": {
+    "_title": "sparkspacks03event",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "BUY THE PREMIUM REWARD TRACK",
+      "resourceHeader": "FESTIVAL POINTS",
+      "moreInfoHeader": "FESTIVAL SEASON 3",
+      "eventCMSId": "SparksPackS03Event",
+      "_type": "Event Screen Data",
+      "rewardTrackLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 3 pass available through June 13th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "moreInfoGroups": [
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-01-256x128-256x128-c2fff93f9ce4.png",
+          "header": "THE REWARD TRACK",
+          "body": "Gain Festival Points by completing Festival Quests. Unlock rewards when you fill each section on the track!\n\nPurchase the Premium Reward Track at any time during the event for 1,800 V-Bucks. You'll automatically claim the rewards you've earned up to that point. \n\nPlease note that some items may be available later in the Item Shop. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+        },
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-02-256x128-256x128-7dad9ba5ef49.png",
+          "header": "BUYING REWARDS",
+          "body": "If you’ve purchased the Premium Reward Track, you’ll then have the option to buy rewards from both tracks simultaneously!\n\nThe \"Buy Rewards\" button appears at the bottom of the screen after you purchase the Premium Reward Track, and from there you can choose how many rewards you would like to buy."
+        }
+      ],
+      "starterHeader": "Earn Festival Points by completing quests!",
+      "moreInfoSubHeader": "FESTIVAL SEASON 3 runs through June 13th, 2024",
+      "premiumUpsellUnownedBody": "Includes the Green Roots Billie Outfit and access to the Premium Reward Track for 1,800 V-Bucks",
+      "purchasePremiumTrackBodyList": [
+        "Instantly claim the Green Roots Billie Outfit",
+        "Access the premium reward track and earn more rewards!",
+        "If you've earned Festival Points before purchasing the Premium Reward Track, you'll automatically claim the upgraded rewards you've earned up to that point!",
+        "Premium Reward Track items may be available in the Item Shop at a later date."
+      ],
+      "completionHeader": "FESTIVAL SEASON 3 is complete!",
+      "premiumUpsellOwnedBody": "GREEN ROOTS BILLIE OUTFIT CLAIMED",
+      "eventDescription": "Take center stage and complete Festival Quests to gain Festival Points during FESTIVAL SEASON 3",
+      "eventName": "FESTIVAL SEASON 3",
+      "moreInfoLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 3 pass available through June 13th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+      "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+      "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 3 pass available through June 13th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+    },
+    "_activeDate": "2024-04-23T08:00:00.000Z",
+    "lastModified": "2024-04-18T21:07:38.956Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "osirisevent2": {
+    "_title": "osirisevent2",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "Buy the \u003CPaidColorPurchasePremiumTitle\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "resourceHeader": "Studs",
+      "moreInfoHeader": "REBEL ADVENTURE",
+      "eventCMSId": "OsirisEvent",
+      "_type": "Event Screen Data",
+      "rewardTrackLegal": "Please note that all in-game rewards are not exclusive to REBEL ADVENTURE LEGO® Pass and may be available later in the Item Shop. These cosmetics grant no competitive advantage. LEGO® Fortnite content can be placed in your own and up to 8 other friends' worlds per week. In Survival Mode, you must gather all required resources before you can build this owned item. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "moreInfoGroups": [
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/osirispassmoreinfo-01-256x128-bc4fa249fae3-256x128-615c26b3f41e.png",
+          "header": "REWARD TRACK",
+          "body": "Complete quests to increase your Studs. Unlock rewards when you fill each section on the track! \n\nPlease note that all in-game rewards are not exclusive to the REBEL ADVENTURE LEGO® Pass and may be available later in the Item Shop for purchase at a potentially different price."
+        },
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/osirispassmoreinfo-02-256x128-7361bf56c84f-256x128-209cd0fe6085.png",
+          "header": "REWARDS",
+          "body": "You have the option to buy rewards immediately!\n\nThe \"Buy Rewards\" button appears at the bottom of the screen and from there you can choose how many rewards you would like to buy."
+        }
+      ],
+      "starterHeader": "Earn Studs by completing quests!",
+      "moreInfoSubHeader": "LEGO® Pass runs through 7/23/2024",
+      "premiumUpsellUnownedBody": "Get \u003CPaidColorUpsell\u003EChewbacca\u003C/\u003E instantly plus access to \u003CPaidColorUpsell\u003Emore rewards\u003C/\u003E for \u003CPaidColorUpsell\u003E1,400 V-Bucks.\u003C/\u003E",
+      "purchasePremiumTrackBodyList": [
+        "\u003CBulletpointHighlight\u003EInstantly claim the Chewbacca outfit and LEGO® style\u003C/\u003E",
+        "\u003CBulletpointHighlight\u003EAccess the premium reward track and earn more rewards!\u003C/\u003E",
+        "\u003CBulletpointHighlight\u003EIf you've earned Studs before purchasing the Premium Reward Track, you'll automatically claim the upgraded rewards you've earned up to that point.\u003C/\u003E",
+        "\u003CBulletpointHighlight\u003EPremium Reward Track items may be available in the Item Shop at a later date.\u003C/\u003E"
+      ],
+      "completionHeader": "REBEL ADVENTURE LEGO® PASS is complete!",
+      "premiumUpsellOwnedBody": "\u003CPaidColorUpsell\u003EChewbacca outfit and LEGO® style\u003C/\u003E claimed",
+      "eventDescription": "Gain \u003CDescBold\u003EStuds\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E as you complete quests and help the Rebels settle in the world of LEGO® Fortnite",
+      "eventName": "REBEL ADVENTURE",
+      "moreInfoLegal": "REBEL ADVENTURE LEGO® Pass is available through 7/23/2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics.",
+      "premiumUpsellUnownedHeader": "PREMIUM TRACK UPGRADE",
+      "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. REBEL ADVENTURE LEGO® Pass is available through 7/23/2024.",
+      "inspectSpecialPremiumItemUnowned": "\u003CDescBold\u003EIncluded with the Premium Reward Track\u003C/\u003E"
+    },
+    "_activeDate": "2024-05-03T08:00:00.000Z",
+    "lastModified": "2024-05-07T17:33:50.414Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "sparkspacks04event": {
+    "_title": "sparkspacks04event",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "BUY THE PREMIUM REWARD TRACK",
+      "resourceHeader": "FESTIVAL POINTS",
+      "moreInfoHeader": "FESTIVAL SEASON 4",
+      "eventCMSId": "SparksPassS04Event",
+      "_type": "Event Screen Data",
+      "rewardTrackLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 4 pass available through August 16th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "moreInfoGroups": [
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-01-256x128-bc4fa249fae3.png",
+          "header": "THE REWARD TRACK",
+          "body": "Gain Festival Points by completing Festival Quests. Unlock rewards when you fill each section on the track!\n\nPurchase the Premium Reward Track at any time during the event for 1,800 V-Bucks. You'll automatically claim the rewards you've earned up to that point. \n\nPurchasing and completing the Premium Reward Track also unlocks your ability to earn additional Festival Pass Bonus Rewards!"
+        },
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-02-256x128-7361bf56c84f.png",
+          "header": "BUYING REWARDS",
+          "body": "If you’ve purchased the Premium Reward Track, you’ll then have the option to buy rewards from both tracks simultaneously!\n\nThe \"Buy Rewards\" button appears at the bottom of the screen after you purchase the Premium Reward Track, and from there you can choose how many rewards you would like to buy.\n\nPlease note that some items may be available later in the Item Shop. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+        }
+      ],
+      "starterHeader": "Earn Festival Points by completing quests!",
+      "moreInfoSubHeader": "FESTIVAL SEASON 4 runs through August 16th, 2024",
+      "premiumUpsellUnownedBody": "Includes the Lars Ulrich Outfit and access to the Premium Reward Track for 1,800 V-Bucks",
+      "purchasePremiumTrackBodyList": [
+        "Instantly claim the Lars Ulrich Outfit",
+        "Access the premium reward track and earn more rewards!",
+        "If you've earned Festival Points before purchasing the Premium Reward Track, you'll automatically claim the upgraded rewards you've earned up to that point!",
+        "Premium Reward Track items may be available in the Item Shop at a later date."
+      ],
+      "completionHeader": "FESTIVAL SEASON 4 is complete!",
+      "premiumUpsellOwnedBody": "LARS ULRICH OUTFIT CLAIMED",
+      "eventDescription": "Take center stage and complete Festival Quests to gain Festival Points during FESTIVAL SEASON 4",
+      "eventName": "FESTIVAL SEASON 4",
+      "moreInfoLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 4 pass available through August 16th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+      "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+      "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 4 pass available through August 16th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+    },
+    "_activeDate": "2024-06-13T08:00:00.000Z",
+    "lastModified": "2024-06-11T16:24:53.604Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "greenhouseevent": {
+    "_title": "GreenhouseEvent",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "BUY THE \u003Ctext color=\"FFC01E\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "resourceHeader": "Cursed Gold",
+      "moreInfoHeader": "CURSED SAILS INFO",
+      "eventCMSId": "GreenhouseEvent",
+      "inspectSpecialItemUnowned": "\u003CRegularTextRewardDetails\u003ECollect all 8 \u003C/\u003E\u003Ctext color=\"ACF960\"\u003EMap Pieces\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E \u003CRegularTextRewardDetails\u003Eby completing quests to get \u003C/\u003E\u003Ctext color=\"FFFFFF\"\u003EJack's Ship Glider!\u003C/\u003E",
+      "_type": "Event Screen Data",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "rewardTrackLegal": "Cursed Sails Pass available through Aug 06 at 4:00am ET.",
+      "eventCTACompleted": "\u003Ctext color=\"ACF960\"\u003EYOU CAN SAIL THROUGH ANY TIDE!\u003C/\u003E",
+      "inspectSpecialPremiumItemOwned": "\u003CRegularTextRewardDetails\u003EClaimed with the \u003C/\u003E\u003Ctext color=\"FFC01E\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "starterHeader": "QUEST TO EARN CURSED GOLD!",
+      "moreInfoSubHeader": "Cursed Sails Pass runs from 07/19/2024 to 08/06/2024",
+      "premiumUpsellUnownedBody": "Includes the \u003Ctext color=\"FFC01E\"\u003EJACK SPARROW Outfit\u003C/\u003E and access to the bottom track for 1,000 V-Bucks",
+      "purchasePremiumTrackBodyList": [
+        "Instantly claim the \u003Ctext color=\"FFC01E\"\u003EJACK SPARROW Fortnite Style and JACK SPARROW LEGO® Style!\u003C/\u003E",
+        "Access the \u003Ctext color=\"FFC01E\"\u003Ebottom reward track\u003C/\u003E and earn more rewards!",
+        "If you've earned \u003Ctext color=\"ACF960\"\u003ECursed Gold\u003C/\u003E before purchasing the Premium Reward Track, you'll automatically claim the \u003Ctext color=\"FFC01E\"\u003Eupgraded rewards\u003C/\u003E you've earned up to that point!",
+        "\u003Ctext color=\"FFC01E\"\u003EPremium Reward Track\u003C/\u003E items may be available in the Item Shop at a later date."
+      ],
+      "completionHeader": "\u003Ctext color=\"ACF960\"\u003EYOU CAN SAIL THROUGH ANY TIDE!\u003C/\u003E",
+      "premiumUpsellOwnedBody": "\u003Ctext color=\"FFC01E\"\u003EJACK SPARROW Fortnite Style\u003C/\u003E and \u003Ctext color=\"FFC01E\"\u003ELEGO® Style\u003C/\u003E CLAIMED!",
+      "eventDescription": "Gain \u003Ctext color=\"ACF960\"\u003ECursed Gold\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E and \u003Ctext color=\"ACF960\"\u003EMap Pieces\u003C/\u003E \u003Cimg id=\"TokenIcon\"/\u003E as you complete quests and become notorious.",
+      "eventName": "CURSED SAILS",
+      "inspectSpecialItemOwned": "\u003CRegularTextRewardDetails\u003EJack's Ship Glider obtained!\u003C/\u003E",
+      "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+      "moreInfoLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Cursed Sails Pass available through Aug 06 at 4:00am ET.  Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics.",
+      "inspectSpecialPremiumItemUnowned": "\u003Cimg id=\"LockIcon\"/\u003E \u003CRegularTextRewardDetails\u003EIncluded with the \u003C/\u003E\u003Ctext color=\"FFC01E\"\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "purchaseLegal": "Purchases of Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. Cursed Sails Pass available through Aug 06 at 4:00am ET. Not all cosmetics are usable in all experiences."
+    },
+    "_activeDate": "2024-07-19T12:30:00.000Z",
+    "lastModified": "2024-07-16T14:51:22.740Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "sparkspacks05event": {
+    "_title": "sparkspacks05event",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "BUY THE PREMIUM REWARD TRACK",
+      "resourceHeader": "FESTIVAL POINTS",
+      "moreInfoHeader": "FESTIVAL SEASON 5",
+      "eventCMSId": "SparksPassS05Event",
+      "_type": "Event Screen Data",
+      "rewardTrackLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 5 pass available through November 1st, 2024. Not all cosmetics are usable in all experiences.",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "moreInfoGroups": [
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-01-256x128-bc4fa249fae3.png",
+          "header": "THE REWARD TRACK",
+          "body": "Gain Festival Points by completing Festival Quests. Unlock rewards when you fill each section on the track!\n\nPurchase the Premium Reward Track at any time during the event for 1,800 V-Bucks. You'll automatically claim the rewards you've earned up to that point. \n\nPurchasing and completing the Premium Reward Track also unlocks your ability to earn additional Festival Pass Bonus Rewards!"
+        },
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-02-256x128-7361bf56c84f.png",
+          "header": "BUYING REWARDS",
+          "body": "If you’ve purchased the Premium Reward Track, you’ll then have the option to buy rewards from both tracks simultaneously!\n\nThe \"Buy Rewards\" button appears at the bottom of the screen after you purchase the Premium Reward Track, and from there you can choose how many rewards you would like to buy.\n\nPlease note that some items may be available later in the Item Shop. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+        }
+      ],
+      "starterHeader": "Earn Festival Points by completing quests!",
+      "moreInfoSubHeader": "FESTIVAL SEASON 5 runs through November 1st, 2024",
+      "premiumUpsellUnownedBody": "Includes the Bichota Season Karol G Outfit and access to the Premium Reward Track for 1,800 V-Bucks",
+      "purchasePremiumTrackBodyList": [
+        "Instantly claim the Bichota Season Karol G Outfit",
+        "Access the premium reward track and earn more rewards!",
+        "If you've earned Festival Points before purchasing the Premium Reward Track, you'll automatically claim the upgraded rewards you've earned up to that point!",
+        "Premium Reward Track items may be available in the Item Shop at a later date."
+      ],
+      "completionHeader": "FESTIVAL SEASON 5 is complete!",
+      "premiumUpsellOwnedBody": "BICHOTA SEASON KAROL G OUTFIT CLAIMED",
+      "eventDescription": "Take center stage and complete Festival Quests to gain Festival Points during FESTIVAL SEASON 5",
+      "eventName": "FESTIVAL SEASON 5",
+      "moreInfoLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 5 pass available through November 1st, 2024. Not all cosmetics are usable in all experiences.",
+      "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+      "purchaseLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 5 pass available through November 1st, 2024. Not all cosmetics are usable in all experiences."
+    },
+    "_activeDate": "2024-08-16T05:00:00.000Z",
+    "lastModified": "2024-08-13T12:48:58.453Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "buttercakeevent": {
+    "_title": "buttercakeevent",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "Buy the \u003CPaidColorPurchasePremiumTitle\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "resourceHeader": "Studs",
+      "moreInfoHeader": "Tropical Treasures",
+      "eventCMSId": "ButtercakeEvent",
+      "_type": "Event Screen Data",
+      "rewardTrackLegal": "All in-game rewards are not exclusive to LEGO Pass: Tropical Treasures and may be available later in the Item Shop. These cosmetics grant no competitive advantage. LEGO® Fortnite content can be placed in your own and up to 8 other friends' worlds per week. In Survival Mode, you must gather all required resources before you can build this owned item. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "starterHeader": "Earn Studs by completing quests!",
+      "moreInfoSubHeader": "LEGO Pass: Tropical Treasures runs through October 11th, 2024",
+      "premiumUpsellUnownedBody": "Get \u003CPaidColorUpsell\u003EIsland Adventure Peely\u003C/\u003E instantly plus access to \u003CPaidColorUpsell\u003Emore rewards\u003C/\u003E for \u003CPaidColorUpsell\u003E1,400 V-Bucks.\u003C/\u003E",
+      "purchasePremiumTrackBodyList": [
+        "\u003CBulletpointHighlight\u003EInstantly claim the\u003C/\u003E Island Adventure Peely outfit and LEGO® style",
+        "\u003CBulletpointHighlight\u003EAccess the\u003C/\u003E premium reward track \u003CBulletpointHighlight\u003Eand earn\u003C/\u003E more rewards!",
+        "\u003CBulletpointHighlight\u003EIf you've earned\u003C/\u003E Studs \u003CBulletpointHighlight\u003Ebefore purchasing the Premium Reward Track, you'll \u003C/\u003Eautomatically claim the upgraded rewards \u003CBulletpointHighlight\u003Eyou've earned up to that point.\u003C/\u003E",
+        "\u003CBulletpointHighlight\u003EPremium Reward Track items may be\u003C/\u003E available in the Item Shop \u003CBulletpointHighlight\u003Eat a later date.\u003C/\u003E"
+      ],
+      "completionHeader": "Tropical Treasures is complete!",
+      "premiumUpsellOwnedBody": "\u003CPaidColorUpsell\u003EIsland Adventure Peely outfit and LEGO® style\u003C/\u003E claimed",
+      "eventDescription": "Gain \u003CDescBold\u003EStuds\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E as you complete quests and explore the Lost Isles in the world of LEGO® Fortnite",
+      "eventName": "Tropical Treasures",
+      "moreInfoLegal": "LEGO Pass: Tropical Treasures is available through October 11th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics.",
+      "premiumUpsellUnownedHeader": "PREMIUM TRACK UPGRADE",
+      "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. LEGO Pass: Tropical Treasures is available through October 11th, 2024.",
+      "inspectSpecialPremiumItemUnowned": "\u003CDescBold\u003EIncluded with the Premium Reward Track\u003C/\u003E"
+    },
+    "_activeDate": "2024-09-17T04:00:00.000Z",
+    "lastModified": "2024-09-03T15:41:14.411Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "spooktacularevent": {
+    "_title": "spooktacularevent",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "Buy the \u003CPaidColorPurchasePremiumTitle\u003EPREMIUM REWARD TRACK\u003C/\u003E",
+      "resourceHeader": "XP",
+      "moreInfoHeader": "Brick or Treat",
+      "eventCMSId": "SpooktacularEvent",
+      "_type": "Event Screen Data",
+      "rewardTrackLegal": "All in-game rewards are not exclusive to LEGO Pass: Brick or Treat and may be available later in the Item Shop. These cosmetics grant no competitive advantage. LEGO® Fortnite content can be placed in your own and up to 8 other friends' worlds per week. In Survival Mode, you must gather all required resources before you can build this owned item. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "starterHeader": "Earn XP by completing quests!",
+      "moreInfoSubHeader": "LEGO Pass: Brick or Treat runs through December 10th, 2024",
+      "premiumUpsellUnownedBody": "Get \u003CPaidColorUpsell\u003EAndy Fangerson\u003C/\u003E instantly plus access to \u003CPaidColorUpsell\u003Emore rewards\u003C/\u003E for \u003CPaidColorUpsell\u003E1,400 V-Bucks.\u003C/\u003E",
+      "purchasePremiumTrackBodyList": [
+        "\u003CBulletpointHighlight\u003EInstantly claim the\u003C/\u003E Andy Fangerson outfit and LEGO® style",
+        "\u003CBulletpointHighlight\u003EAccess the\u003C/\u003E premium reward track \u003CBulletpointHighlight\u003Eand earn\u003C/\u003E more rewards!",
+        "\u003CBulletpointHighlight\u003EIf you've earned\u003C/\u003E XP \u003CBulletpointHighlight\u003Ebefore purchasing the Premium Reward Track, you'll \u003C/\u003Eautomatically claim the upgraded rewards \u003CBulletpointHighlight\u003Eyou've earned up to that point.\u003C/\u003E",
+        "\u003CBulletpointHighlight\u003EPremium Reward Track items may be\u003C/\u003E available in the Item Shop \u003CBulletpointHighlight\u003Eat a later date.\u003C/\u003E"
+      ],
+      "completionHeader": "Brick or Treat is complete!",
+      "premiumUpsellOwnedBody": "\u003CPaidColorUpsell\u003EAndy Fangerson outfit and LEGO® style\u003C/\u003E claimed",
+      "eventDescription": "Gain \u003CDescBold\u003EXP\u003C/\u003E \u003Cimg id=\"ResourceIcon\"/\u003E as you complete quests, Trick-or-Treat, and get goosebumps in the world of LEGO® Fortnite",
+      "eventName": "Brick or Treat",
+      "moreInfoLegal": "LEGO Pass: Brick or Treat is available through December 10th, 2024. Not all cosmetics are usable in all experiences. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics.",
+      "premiumUpsellUnownedHeader": "PREMIUM TRACK UPGRADE",
+      "purchaseLegal": "Buying rewards is optional. Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. LEGO Pass: Brick or Treat is available through December 10th, 2024.",
+      "inspectSpecialPremiumItemUnowned": "\u003CDescBold\u003EIncluded with the Premium Reward Track\u003C/\u003E"
+    },
+    "_activeDate": "2024-12-01T05:00:00.000Z",
+    "lastModified": "2024-11-04T21:50:49.671Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "sparkspacks06event": {
+    "_title": "sparkspacks06event",
+    "_noIndex": false,
+    "eventScreenData": {
+      "purchasePremiumTrackHeader": "BUY THE PREMIUM REWARD TRACK",
+      "resourceHeader": "XP",
+      "moreInfoHeader": "MUSIC PASS",
+      "eventCMSId": "SparksPassS06Event",
+      "_type": "Event Screen Data",
+      "rewardTrackLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 6 MUSIC PASS pass available through January 13th, 2025. Not all cosmetics are usable in all experiences.",
+      "premiumUpsellOwnedHeader": "TRACK UPGRADED",
+      "moreInfoGroups": [
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-01-256x128-bc4fa249fae3.png",
+          "header": "THE REWARD TRACK",
+          "body": "Gain XP by completing quests in any Fortnite experience. Unlock rewards when you fill each section of the track.\n\nPurchase the Premium Reward Track at any time during the season for 1,400 V-Bucks. You'll automatically claim the rewards you've earned up to that point. \n\nPlease note that some items may be available later in the Item Shop. For more details on cosmetics variations and limitations of use, see fn.gg/cosmetics"
+        },
+        {
+          "_type": "Event Screen More Info Group",
+          "icon": "https://cdn2.unrealengine.com/sparkspassmoreinfo-02-256x128-7361bf56c84f.png",
+          "header": "BUYING REWARDS",
+          "body": "If you’ve purchased the Premium Reward Track, you’ll then have the option to buy rewards from both tracks simultaneously!\n\nThe \"Buy Rewards\" button appears at the bottom of the screen after you purchase the Reward Track Upgrade, and from there you can choose how many rewards you would like to buy.\n\nBuying rewards for the Music Pass does not unlock rewards for other active passes. Your purchase only applies to the Music Pass."
+        }
+      ],
+      "starterHeader": "Earn XP to get rewards!",
+      "moreInfoSubHeader": "FESTIVAL SEASON 6 MUSIC PASS available through January 13th, 2025.",
+      "premiumUpsellUnownedBody": "Includes the LBC '93 Dogg Outfit and access to the Premium Reward Track for 1,400 V-Bucks",
+      "purchasePremiumTrackBodyList": [
+        "Instantly claim the LBC '93 Dogg Outfit",
+        "Access the premium reward track and earn more rewards!",
+        "If you've earned XP before purchasing the Premium Reward Track, you'll automatically claim the upgraded rewards you've earned up to that point!",
+        "Premium Reward Track items may be available in the Item Shop at a later date."
+      ],
+      "completionHeader": "MUSIC PASS is complete!",
+      "premiumUpsellOwnedBody": "LBC '93 DOGG OUTFIT CLAIMED",
+      "eventDescription": "Play any Fortnite experience to gain XP during FESTIVAL SEASON 6",
+      "eventName": "MUSIC PASS",
+      "moreInfoLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 6 MUSIC PASS pass available through January 13th, 2025. Not all cosmetics are usable in all experiences.",
+      "premiumUpsellUnownedHeader": "PREMIUM REWARD TRACK",
+      "purchaseLegal": "Purchases of the Premium Reward Track are not eligible for returns through Fortnite Cancel Purchase or Return Tickets. FESTIVAL SEASON 6 MUSIC PASS pass available through January 13th, 2025. Not all cosmetics are usable in all experiences."
+    },
+    "_activeDate": "2024-11-02T08:00:00.000Z",
+    "lastModified": "2024-10-29T23:24:44.923Z",
+    "_locale": "en-US",
+    "_templateName": "FortGameEventScreen"
+  },
+  "_suggestedPrefetch": []
+}
