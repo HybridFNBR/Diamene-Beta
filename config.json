@@ -36,6 +36,11 @@
             "bEnableRetailRowBeacon": false,
             "bEnableFloatingCubeIsland": false
         },
+         "TravisScottStage_Stages":{
+            "Stage1": false,
+            "Stage2": false,
+            "Stage3": false
+        },
         "S13WaterLevel": {
             "WaterLevel_0": false,
             "WaterLevel_1": false,
