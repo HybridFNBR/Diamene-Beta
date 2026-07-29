@@ -7,7 +7,7 @@
         "CustomLobbyBackgroundImageUrl": "",
         "bEnableDowntimeScreen": false
     },
-    "SpritesConfig":{
+    "SpritesConfig": {
         "EnableSpriteStarterScreen": false,
         "OwnAllSprites": false,
         "MasterAllSprites": false,
@@ -36,7 +36,7 @@
             "bEnableRetailRowBeacon": false,
             "bEnableFloatingCubeIsland": false
         },
-         "TravisScottStage_Stages":{
+        "TravisScottStage_Stages": {
             "Stage1": false,
             "Stage2": false,
             "Stage3": false
@@ -55,6 +55,17 @@
             "Stage1": false,
             "Stage2": false,
             "Stage3": true
+        },
+        "Ch7S1": {
+            "BattleBusConstructionStage1": false,
+            "BattleBusConstructionStage2": false,
+            "BattleBusConstructionStage3": false,
+            "BattleBusConstructionStage4": false,
+            "DarkHarvestarStarterIsland": false,
+            "DarkHarvestarOcean": false,
+            "Shard1DelivaryStage1": false,
+            "Shard1DelivaryStage2": false,
+            "Shard1DelivaryStage3": false
         },
         "TMNTTabStages": {
             "Stage1": true,
