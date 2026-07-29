@@ -15,6 +15,12 @@ Config file:
 - CH1S10 Beacons
 - Various Other Map Changes aswell
 
+## Shop Files for different versions:
+- "Shopv1.json" | for really old fortnite builds/"Cert" Versions
+- "ShopV2.json" | Chapter 1 - Chapter 4(26.20)
+- "ShopV3.json" | Chapter 4(26.30) - Chapter 5(30.00)
+- "ShopV4.json" | Chapter 5(30.10+)
+
 
 Now i know its kind of limiting to not be able to add your own routes so im also looking into [Goja](github.com/dop251/goja) as a solution for that as a sort of a javascript route plugins kind of thing
 as an example:
