@@ -63,9 +63,11 @@
             "BattleBusConstructionStage4": false,
             "DarkHarvestarStarterIsland": false,
             "DarkHarvestarOcean": false,
-            "Shard1DelivaryStage1": false,
-            "Shard1DelivaryStage2": false,
-            "Shard1DelivaryStage3": false
+            "Shard1DeliveryStage1": false,
+            "Shard1DeliveryStage2": false,
+            "Shard1DeliveryStage3": false,
+            "RedRiftStage1": false,
+            "RedRiftStage2": false
         },
         "TMNTTabStages": {
             "Stage1": true,
