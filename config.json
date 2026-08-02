@@ -56,7 +56,33 @@
             "Stage2": false,
             "Stage3": true
         },
-        "Ch7S1": {
+        "CH6S2":{
+            "DeathStarStage1": false,
+            "DeathStarStage2": false,
+            "DeathStarStage3": false,
+            "DeathStarStage4": false,
+            "DeathStarStage5": false
+        },
+        "CH6MS1":{
+            "DeathStarStage1": false,
+            "DeathStarStage2": false,
+            "DeathStarStage3": false,
+            "DeathStarStage4": false
+        },
+         "CH6S4":{
+            "AlienOverlordsEventBuildupStage1": false,
+            "AlienOverlordsEventBuildupStage2": false,
+            "AlienOverlordsEventBuildupStage3": false,
+            "AlienOverlordsEventBuildupTreeFX1": false,
+            "AlienOverlordsEventBuildupTreeFX2": false
+        },
+        "CH6MS2":{
+            "HomerSimpsonCloudStage1": false,
+            "HomerSimpsonCloudStage2": false,
+            "HomerSimpsonCloudStage3": false,
+            "HomerSimpsonOcean": false
+        },
+        "CH7S1": {
             "BattleBusConstructionStage1": false,
             "BattleBusConstructionStage2": false,
             "BattleBusConstructionStage3": false,
@@ -69,7 +95,7 @@
             "RedRiftStage1": false,
             "RedRiftStage2": false
         },
-         "Ch7S2": {
+         "CH7S2": {
             "OGDarkHarvesterStage1": true,
             "OGDarkHarvesterStage2": false,
             "OGDarkHarvesterStage3": false,
