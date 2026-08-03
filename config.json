@@ -56,6 +56,12 @@
             "Stage2": false,
             "Stage3": true
         },
+        "CH5S4":{
+            "RemixPreludeEventBuildUpStage1": false,
+            "RemixPreludeEventBuildUpStage2": false,
+            "RemixPreludeEventBuildUpStage3": false,
+            "RemixPreludeEventBuildUpStage4": false
+        },
         "CH6S2":{
             "DeathStarStage1": false,
             "DeathStarStage2": false,
