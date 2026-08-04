@@ -23,7 +23,8 @@
             "Stage5": false,
             "Stage6": false,
             "Stage7": false,
-            "Stage8": false
+            "Stage8": false,
+            "Stage9": false
         },
         "CH1S10": {
             "bEnableRuinHouseBeacon": false,
@@ -118,6 +119,15 @@
             "Shard6DeliveryStage2": false,
             "Shard6DeliveryStage3": false,
             "Shard6Delivered": false
+        },
+        "CH7S3OGMechStages": {
+            "Stage1": false,
+            "Stage2": false,
+            "Stage3": false,
+            "Stage4": false,
+            "Stage5": false,
+            "Stage6": false,
+            "Stage7": false
         },
         "TMNTTabStages": {
             "Stage1": true,
