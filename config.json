@@ -1,5 +1,6 @@
 {
     "GeneralSettings": {
+        "Gold": 0,
         "ItemShopRefreshInterval": 30,
         "bRefreshKeychainViaTimeline": false,
         "bRefreshKeychainViaKeychainEndpoint": true,
