@@ -16,8 +16,8 @@ Config file:
 - Various Other Map Changes aswell
 
 ## Shop Files for different versions:
-- "Shopv1.json" | for really old fortnite builds/"Cert" Versions
-- "ShopV2.json" | Chapter 1 - Chapter 4(26.20)
+- "Shopv1.json" | fortnite "Cert" - Ch1S6(6.31)
+- "ShopV2.json" | Chapter 1(7.00) - Chapter 4(26.20)
 - "ShopV3.json" | Chapter 4(26.30) - Chapter 5(30.00)
 - "ShopV4.json" | Chapter 5(30.10+)
 
