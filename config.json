@@ -38,7 +38,7 @@
             "bEnableRetailRowBeacon": false,
             "bEnableFloatingCubeIsland": false
         },
-        "RiskyReelsStarWarsBuildUpStages":{
+        "RiskyReelsStarWarsBuildUpStages": {
             "Stage1": false,
             "Stage2": false,
             "Stage3": false
@@ -49,47 +49,47 @@
             "Stage3": false
         },
         "S13WaterLevel": {
-            "WaterLevel_0": false,
-            "WaterLevel_1": false,
-            "WaterLevel_2": false,
-            "WaterLevel_3": false,
-            "WaterLevel_4": false,
-            "WaterLevel_5": false,
+            "WaterLevel_7": false,
             "WaterLevel_6": false,
-            "WaterLevel_7": false
+            "WaterLevel_5": false,
+            "WaterLevel_4": false,
+            "WaterLevel_3": false,
+            "WaterLevel_2": false,
+            "WaterLevel_1": false,
+            "WaterLevel_0": false
         },
         "S27MapStages": {
             "Stage1": false,
             "Stage2": false,
             "Stage3": true
         },
-        "CH5S4":{
+        "CH5S4": {
             "RemixPreludeEventBuildUpStage1": false,
             "RemixPreludeEventBuildUpStage2": false,
             "RemixPreludeEventBuildUpStage3": false,
             "RemixPreludeEventBuildUpStage4": false
         },
-        "CH6S2":{
+        "CH6S2": {
             "DeathStarStage1": false,
             "DeathStarStage2": false,
             "DeathStarStage3": false,
             "DeathStarStage4": false,
             "DeathStarStage5": false
         },
-        "CH6MS1":{
+        "CH6MS1": {
             "DeathStarStage1": false,
             "DeathStarStage2": false,
             "DeathStarStage3": false,
             "DeathStarStage4": false
         },
-         "CH6S4":{
+        "CH6S4": {
             "AlienOverlordsEventBuildupStage1": false,
             "AlienOverlordsEventBuildupStage2": false,
             "AlienOverlordsEventBuildupStage3": false,
             "AlienOverlordsEventBuildupTreeFX1": false,
             "AlienOverlordsEventBuildupTreeFX2": false
         },
-        "CH6MS2":{
+        "CH6MS2": {
             "HomerSimpsonCloudStage1": false,
             "HomerSimpsonCloudStage2": false,
             "HomerSimpsonCloudStage3": false,
@@ -108,7 +108,7 @@
             "RedRiftStage1": false,
             "RedRiftStage2": false
         },
-         "CH7S2": {
+        "CH7S2": {
             "OGDarkHarvesterStage1": true,
             "OGDarkHarvesterStage2": false,
             "OGDarkHarvesterStage3": false,
