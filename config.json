@@ -38,6 +38,11 @@
             "bEnableRetailRowBeacon": false,
             "bEnableFloatingCubeIsland": false
         },
+        "RiskyReelsStarWarsBuildUpStages":{
+            "Stage1": false,
+            "Stage2": false,
+            "Stage3": false
+        },
         "TravisScottStage_Stages": {
             "Stage1": false,
             "Stage2": false,
