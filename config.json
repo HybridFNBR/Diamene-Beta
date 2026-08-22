@@ -14,6 +14,31 @@
         "MasterAllSprites": false,
         "SpriteXP": 0
     },
+    "AdminPanelConfig":{
+        "command1":[
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope"
+        ],
+        "candy":[
+             "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope"
+
+        ],
+        "command3":[
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope"
+
+        ]
+    },
     "TimelineConfigs": {
         "TimelineRefreshInterval": 30,
         "CH1S9MechStages": {

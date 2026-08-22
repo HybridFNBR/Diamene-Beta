@@ -934,5 +934,293 @@
       "summonCost" : 2700
     },
     "templateId" : "ExtractableRelic:spitfire_variation_quack"
+  },
+  "KillswitchSprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2100
+    },
+    "templateId" : "ExtractableRelic:killswitchsprite_variant_gold"
+  },
+  "BushRangerSprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:bushrangersprite_variant_cheatmaster"
+  },
+  "NarrowFleaSprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:narrowfleasprite_variant_a"
+  },
+  "NarrowFleaSprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1800
+    },
+    "templateId" : "ExtractableRelic:narrowfleasprite_variant_cheatmaster"
+  },
+  "CosmicThunderDoubleJumpSprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1750
+    },
+    "templateId" : "ExtractableRelic:cosmicthunderdoublejumpsprite_variant_a"
+  },
+  "CrownSprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2400
+    },
+    "templateId" : "ExtractableRelic:crownsprite_variant_cheatmaster"
+  },
+  "Jonesy_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:jonesy_variant_gold"
+  },
+  "BushRangerSprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : true,
+      "summonCost" : 100
+    },
+    "templateId" : "ExtractableRelic:bushrangersprite_variant_a"
+  },
+  "KillswitchSprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2100
+    },
+    "templateId" : "ExtractableRelic:killswitchsprite_variant_cheatmaster"
+  },
+  "StormScoutSprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1250
+    },
+    "templateId" : "ExtractableRelic:stormscoutsprite_variant_a"
+  },
+  "Jonesy_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : true,
+      "summonCost" : 100
+    },
+    "templateId" : "ExtractableRelic:jonesy_variant_a"
+  },
+  "StormScoutSprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:stormscoutsprite_variant_cheatmaster"
+  },
+  "StormScoutSprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:stormscoutsprite_variant_gold"
+  },
+  "CrownSprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2400
+    },
+    "templateId" : "ExtractableRelic:crownsprite_variant_gold"
+  },
+  "Dwarf_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:dwarf_variant_gold"
+  },
+  "Klombo_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2400
+    },
+    "templateId" : "ExtractableRelic:klombo_variant_cheatmaster"
+  },
+  "NarrowFleaMonkeySprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:narrowfleamonkeysprite_variant_a"
+  },
+  "NarrowFleaMonkeySprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1800
+    },
+    "templateId" : "ExtractableRelic:narrowfleamonkeysprite_variant_cheatmaster"
+  },
+  "8BitBlaster_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:8bitblaster_variant_cheatmaster"
+  },
+  "Dwarf_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : true,
+      "summonCost" : 100
+    },
+    "templateId" : "ExtractableRelic:dwarf_variant_a"
+  },
+  "8BitBlaster_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:8bitblaster_variant_gold"
+  },
+  "Klombo_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2400
+    },
+    "templateId" : "ExtractableRelic:klombo_variant_gold"
+  },
+  "NarrowFleaMonkeySprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1800
+    },
+    "templateId" : "ExtractableRelic:narrowfleamonkeysprite_variant_gold"
+  },
+  "ReloadOverTimeSprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1800
+    },
+    "templateId" : "ExtractableRelic:reloadovertimesprite_variant_cheatmaster"
+  },
+  "NarrowFleaSprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1800
+    },
+    "templateId" : "ExtractableRelic:narrowfleasprite_variant_gold"
+  },
+  "Klombo_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2000
+    },
+    "templateId" : "ExtractableRelic:klombo_variant_a"
+  },
+  "KillswitchSprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1750
+    },
+    "templateId" : "ExtractableRelic:killswitchsprite_variant_a"
+  },
+  "ReloadOverTimeSprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:reloadovertimesprite_variant_a"
+  },
+  "CosmicThunderDoubleJumpSprite_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2100
+    },
+    "templateId" : "ExtractableRelic:cosmicthunderdoublejumpsprite_variant_cheatmaster"
+  },
+  "Jonesy_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:jonesy_variant_cheatmaster"
+  },
+  "ReloadOverTimeSprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1800
+    },
+    "templateId" : "ExtractableRelic:reloadovertimesprite_variant_gold"
+  },
+  "CosmicThunderDoubleJumpSprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2100
+    },
+    "templateId" : "ExtractableRelic:cosmicthunderdoublejumpsprite_variant_gold"
+  },
+  "8BitBlaster_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1250
+    },
+    "templateId" : "ExtractableRelic:8bitblaster_variant_a"
+  },
+  "BushRangerSprite_Variant_Gold" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:bushrangersprite_variant_gold"
+  },
+  "Dwarf_Variant_CheatMaster" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 1500
+    },
+    "templateId" : "ExtractableRelic:dwarf_variant_cheatmaster"
+  },
+  "CrownSprite_Variant_A" : {
+    "_private" : false,
+    "attributes" : {
+      "bIsStarter" : false,
+      "summonCost" : 2000
+    },
+    "templateId" : "ExtractableRelic:crownsprite_variant_a"
   }
 }
