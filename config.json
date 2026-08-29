@@ -83,6 +83,12 @@
             "WaterLevel_1": false,
             "WaterLevel_0": false
         },
+        "CH2S7": {
+            "MoveMotherShipToSlurpySwamp": false,
+            "MotherShipSlurpySwampDoorsOpen": false,
+            "MotherShipSlurpySwampAbductionWarmup": false,
+            "MotherShipSlurpySwampAbduction": false
+        },
         "S27MapStages": {
             "Stage1": false,
             "Stage2": false,
