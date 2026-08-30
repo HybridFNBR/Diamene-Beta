@@ -87,7 +87,20 @@
             "MoveMotherShipToSlurpySwamp": false,
             "MotherShipSlurpySwampDoorsOpen": false,
             "MotherShipSlurpySwampAbductionWarmup": false,
-            "MotherShipSlurpySwampAbduction": false
+            "MotherShipSlurpySwampAbduction": false,
+            "MoveMotherShipToCoralCastle": false,
+            "MotherShipCoralCastleDoorsOpen": false,
+            "MotherShipCoralCastleAbductionWarmup": false,
+            "MotherShipCoralCastleAbduction": false,
+            "MoveMotherShipToCornyComplex": false,
+            "MotherShipCornyComplexDoorsOpen": false,
+            "MotherShipCornyComplexAbductionWarmup": false,
+            "MotherShipCornyComplexAbduction": false
+        },
+        "CH2S8": {
+            "CubeTownStage1": false,
+            "CubeTownStage2": false,
+            "CubeTownStage3": false
         },
         "S27MapStages": {
             "Stage1": false,
