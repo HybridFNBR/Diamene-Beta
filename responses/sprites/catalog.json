@@ -1222,5 +1222,205 @@
       "summonCost" : 2000
     },
     "templateId" : "ExtractableRelic:crownsprite_variant_a"
+  },
+  "OvershieldSprite_Variant_A": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:overshieldsprite_variant_a"
+  },
+  "OvershieldSprite_Variant_CheatMaster": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:overshieldsprite_variant_cheatmaster"
+  },
+  "OvershieldSprite_Variant_Gold": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:overshieldsprite_variant_gold"
+  },
+  "OvershieldSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:overshieldsprite_variant_loothacker"
+  },
+  "ImprovedSlide_Variant_A": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:improvedslide_variant_a"
+  },
+  "WinnerBSprite_Variant_A": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnerbsprite_variant_a"
+  },
+  "WinnerBSprite_Variant_CheatMaster": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnerbsprite_variant_cheatmaster"
+  },
+  "WinnerBSprite_Variant_Gold": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnerbsprite_variant_gold"
+  },
+  "WinnerBSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnerbsprite_variant_loothacker"
+  },
+  "WinnerCSprite_Variant_A": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnercsprite_variant_a"
+  },
+  "WinnerCSprite_Variant_CheatMaster": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnercsprite_variant_cheatmaster"
+  },
+  "WinnerCSprite_Variant_Gold": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnercsprite_variant_gold"
+  },
+  "WinnerCSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:winnercsprite_variant_loothacker"
+  },
+  "CosmicThunderDoubleJumpSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:cosmicthunderdoublejumpsprite_variant_loothacker"
+  },
+  "NarrowFleaMonkeySprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:narrowfleamonkeysprite_variant_loothacker"
+  },
+  "ReloadOverTimeSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:reloadovertimesprite_variant_loothacker"
+  },
+  "BushRangerSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:bushrangersprite_variant_loothacker"
+  },
+  "KillswitchSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:killswitchsprite_variant_loothacker"
+  },
+  "DwarfSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:dwarfsprite_variant_loothacker"
+  },
+  "KlomboSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:klombosprite_variant_loothacker"
+  },
+  "JonesySprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:jonesysprite_variant_loothacker"
+  },
+  "NarrowFleaSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:narrowfleasprite_variant_loothacker"
+  },
+  "CrownSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:crownsprite_variant_loothacker"
+  },
+  "8BitBlasterSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:8bitblastersprite_variant_loothacker"
+  },
+  "StormScoutSprite_Variant_LootHacker": {
+    "_private": false,
+    "attributes": {
+      "bIsStarter": false,
+      "summonCost": 6750
+    },
+    "templateId": "ExtractableRelic:stormscoutsprite_variant_loothacker"
   }
 }

@@ -1,0 +1,98 @@
+{
+    "image_urls": {
+            "url_s": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_42-10_C1SX_DiscoverTile_480x270-8d2a8f48.jpg",
+            "url_m": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_42-10_C1SX_DiscoverTile_640x360-46512efb.jpg",
+            "url": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-fdc0df7f.jpg"
+        },
+    "lobby_background_image_urls": {
+        "url": "http://localhost:5595/cdn2-unrealengine/links-admin-OGS10_LobbyBG_3840x2022_compressed-82841877.jpg"
+    },
+    "image_url": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-fdc0df7f.jpg",
+    "alt_image_urls": {
+            "de": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-DE_FN_OG_42-10_C1SX_DiscoverTile_480x270-aac8fb8f.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-DE_FN_OG_42-10_C1SX_DiscoverTile_640x360-1f9af69e.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-DE_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-c5ec3476.jpg"
+            },
+            "ru": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-RU_FN_OG_42-10_C1SX_DiscoverTile_480x270-da13ba90.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-RU_FN_OG_42-10_C1SX_DiscoverTile_640x360-6b0c1bac.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-RU_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-84866a9b.jpg"
+            },
+            "ko": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-KR_FN_OG_42-10_C1SX_DiscoverTile_480x270-abc16c36.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-KR_FN_OG_42-10_C1SX_DiscoverTile_640x360-4af3f5fc.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-KR_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-35659c50.jpg"
+            },
+            "zh-hant": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-zhTW_FN_OG_42-10_C1SX_DiscoverTile_480x270-d5d0811c.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-zhTW_FN_OG_42-10_C1SX_DiscoverTile_640x360-8a5e7115.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-zhTW_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-1d34e9bc.jpg"
+            },
+            "pt-BR": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-PT-BR_FN_OG_42-10_C1SX_DiscoverTile_480x270-2e46c5f6.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-PT-BR_FN_OG_42-10_C1SX_DiscoverTile_640x360-4b36170d.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-PT-BR_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-ca52c2ea.jpg"
+            },
+            "zh-hans": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-zhCN_FN_OG_42-10_C1SX_DiscoverTile_480x270-7004d998.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-zhCN_FN_OG_42-10_C1SX_DiscoverTile_640x360-aaad89e6.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-zhCN_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-31d05ed9.jpg"
+            },
+            "it": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-IT_FN_OG_42-10_C1SX_DiscoverTile_480x270-46a00d6d.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-IT_FN_OG_42-10_C1SX_DiscoverTile_640x360-f7ce36f7.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-IT_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-8f459493.jpg"
+            },
+            "fr": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-FR_FN_OG_42-10_C1SX_DiscoverTile_480x270-6c0e04bb.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-FR_FN_OG_42-10_C1SX_DiscoverTile_640x360-26c7f798.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-FR_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-b26f44df.jpg"
+            },
+            "es": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-ES-ES_FN_OG_42-10_C1SX_DiscoverTile_480x270-e42dbd40.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-ES-ES_FN_OG_42-10_C1SX_DiscoverTile_640x360-5910b02e.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-ES-ES_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-428ccb61.jpg"
+            },
+            "ar": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-AR_FN_OG_42-10_C1SX_DiscoverTile_480x270-cc256b7c.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-AR_FN_OG_42-10_C1SX_DiscoverTile_640x360-2e0df9c8.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-AR_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-b4401394.jpg"
+            },
+            "vi": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-VI_FN_OG_42-10_C1SX_DiscoverTile_480x270-06581507.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-VI_FN_OG_42-10_C1SX_DiscoverTile_640x360-6954a807.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-VI_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-ab77ab67.jpg"
+            },
+            "th": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-TH_FN_OG_42-10_C1SX_DiscoverTile_480x270-edf380d2.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-TH_FN_OG_42-10_C1SX_DiscoverTile_640x360-35f5179c.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-TH_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-cdb7e963.jpg"
+            },
+            "ja": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-JP_FN_OG_42-10_C1SX_DiscoverTile_480x270-bfd0ed5e.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-JP_FN_OG_42-10_C1SX_DiscoverTile_640x360-9d303ac4.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-JP_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-1d661082.jpg"
+            },
+            "id": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-ID_FN_OG_42-10_C1SX_DiscoverTile_480x270-366331c3.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-ID_FN_OG_42-10_C1SX_DiscoverTile_640x360-e8ebcce3.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-ID_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-b96ba445.jpg"
+            },
+            "pl": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-PL_FN_OG_42-10_C1SX_DiscoverTile_480x270-e7aa1916.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-PL_FN_OG_42-10_C1SX_DiscoverTile_640x360-225f5bd4.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-PL_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-7ab18296.jpg"
+            },
+            "es-419": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-ES-MX_FN_OG_42-10_C1SX_DiscoverTile_480x270-ddb9d50c.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-ES-MX_FN_OG_42-10_C1SX_DiscoverTile_640x360-2233b5fa.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-ES-MX_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-fead4a2c.jpg"
+            },
+            "tr": {
+                "url_s": "https://cdn2.unrealengine.com/links-admin-TR_FN_OG_42-10_C1SX_DiscoverTile_480x270-b1fa27de.jpg",
+                "url_m": "https://cdn2.unrealengine.com/links-admin-TR_FN_OG_42-10_C1SX_DiscoverTile_640x360-c0779d1d.jpg",
+                "url": "https://cdn2.unrealengine.com/links-admin-TR_FN_OG_42-10_C1SX_DiscoverTile_1920x1080-d983bbd4.jpg"
+            }
+        }
+}
