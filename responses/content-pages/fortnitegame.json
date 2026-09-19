@@ -37331,7 +37331,7 @@
     "_locale": "en-US",
     "_templateName": "FortniteGameMPItemShop"
   },
-  "shopoffervisuals": {
+ "shopoffervisuals": {
     "visualsList": {
       "visuals": [
         {
@@ -38602,6 +38602,674 @@
           "_type": "ShopOfferPresentationData",
           "presentations": [
             {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-loanfloat-br-01-2048x2048-d479b777c318.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-loanfloat-br-02-2048x2048-92c1482a0127.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-loanfloat-jn-01-2048x2048-c12db6e1b091.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-loanfloat-jn-02-2048x2048-3460a8c34110.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S37/DAv2_Bundle_Featured_LoanFloat.DAv2_Bundle_Featured_LoanFloat"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-792-slurpmonster-1024x1024-8a88cc86ed72.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/Content/NewDisplayAssets/DAv2_BID_792_SlurpMonsterSummer.DAv2_BID_792_SlurpMonsterSummer"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-362-athena-commando-f-bandageninja-1024x1024-72488fbeaed8.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-362-athena-commando-f-bandageninja-02-1024x1024-fcc577810db2.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-bandageninjab-1024x1024-2c37c7268079.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/DAv2_CID_362_F_BandageNinja.DAv2_CID_362_F_BandageNinja"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-scribespider-2048x2048-fbe442901d3e.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-scribespider-02-2048x2048-1ff5d345a59d.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-scribespider-02-figure-2048x2048-0426398b1f19.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-scribespider-figure-2048x2048-719cd507a995.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S42/DAv2_Bundle_Featured_ScribeSpider.DAv2_Bundle_Featured_ScribeSpider"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bigguy-2048x2048-efe4e3ebfd59.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bigguy-02-2048x2048-f07336fa0716.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bigguy-03-2048x2048-71ed53342b3d.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bigguy-04-2048x2048-6b496b09005c.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_Bundle_Featured_Bigguy.DAv2_Bundle_Featured_Bigguy"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-featured-pickaxes-ciderpetalclover-2048x2048-835e91a877c5.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-featured-pickaxes-ciderpetalclover-reactive-2048x2048-bb2ff317d6b7.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_pickaxe_ciderpetalclover.DAv2_pickaxe_ciderpetalclover"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-ciderpetalclover-2048x2048-ae94959d37c0.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-ciderpetalclover-reactive-2048x2048-ef71188c6ddf.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_backpack_ciderpetalclover.DAv2_backpack_ciderpetalclover"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-gatorceladonuniversal-2048x2048-231ba150907a.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S39/DAv2_Backpack_GatorCeladon.DAv2_Backpack_GatorCeladon"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-794-jurassicarchaeologysummer-ruby-1024x1024-87e320d80f12.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-794-jurassicarchaeologysummer-topaz-1024x1024-02c9d93b84c9.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-794-jurassicarchaeologysummer-amethyst-1024x1024-4809fba9859e.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-794-jurassicarchaeologysummer-emerald-1024x1024-8da3e2088567.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/Content/NewDisplayAssets/DAv2_BID_794_JurassicArchaeologySummer.DAv2_BID_794_JurassicArchaeologySummer"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-featured-glider-009-1024x1024-0d5e050796a2.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/DAv2_Glider_ID_009_CandyCoat.DAv2_Glider_ID_009"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenaemotes-tangle-2048x2048-eb6ae75e7e8b.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_EID_Tangle.DAv2_EID_Tangle"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-solardusk-01-2048x2048-3675283b37f2.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-solardusk-02-2048x2048-b5e34b413331.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-solardusk-2048x2048-38c081760a3f.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_character_solardusk.DAv2_character_solardusk"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-trustfan-2048x2048-f1ee4bb3aae7.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-trustfan-2048x2048-1dae53795de5.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_Character_TrustFan.DAv2_Character_TrustFan"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-trustfan-2048x2048-f8d67f4a4acb.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-trustfan-jn-2048x2048-074f01c6224f.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_Bundle_Featured_TrustFan.DAv2_Bundle_Featured_TrustFan"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-lto-acepack-storetile-4x1-2048x2048-8a9693c5850a.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_RMT_AceStarterPack_TargetedPack.DAv2_RMT_AceStarterPack_TargetedPack"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-lto-acepack-storetile-4x1-2048x2048-8a9693c5850a.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S41/DAv2_RMT_AcePack_StarterPack.DAv2_RMT_AcePack_StarterPack"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-vehicle-web-scarb-override-6-1024x675-41f1ab18bb27.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_Bundle_Featured_Scarb.DAv2_Bundle_Featured_Scarb"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-revoltcrush-2048x2048-666c039f25fc.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-revoltcrush-02-2048x2048-62d0ab4d6b8c.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-revoltcrush-03-2048x2048-db1317f44426.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S37/DAv2_Bundle_Featured_RevoltCrush.DAv2_Bundle_Featured_RevoltCrush"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-puzzleshed-2048x2048-4fbdad213d0e.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-puzzleshed-gradient-2048x2048-d09b35716457.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-puzzleshed-2048x2048-eeb9ff10a033.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S34/DAv2_Character_PuzzleShed.DAv2_Character_PuzzleShed"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/79c89e6d-16d9-4a3d-a9df-4d0e91a2505a-1024x1024-485a0922dc9a.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "OfferCatalog/Content/NewDisplayAssets/DAv2_BID_817_CometSummer.DAv2_BID_817_CometSummer"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-660-bandage-ninja-blue-2048x2048-6774942f4570.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-bandageninjablueb-2048x2048-3eb07d4e9484.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_CID_660_BandageNinjaBlue.DAv2_CID_660_BandageNinjaBlue"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-tech-llama-2048x2048-f1e6016a1eb0.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-figure-techllamab-2048x2048-50d6f435b5fc.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_CID_619_Athena_Commando_F_TechLlama.DAv2_CID_619_Athena_Commando_F_TechLlama"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-coppertoll-2048x2048-f4013b43ed44.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-coppertolla-1024x1024-86e52aa06f9d.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S29/DAv2_Character_CopperToll.DAv2_Character_CopperToll"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-shintoll-2048x2048-bcd2021ced3e.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_backpack_shintoll.DAv2_backpack_shintoll"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-786-golfmale-1024x1024-d00e2d73ea68.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenabackpack-786-golfmale-yellow-1024x1024-86f32c870901.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/Content/NewDisplayAssets/DAv2_BID_786_GolfMale.DAv2_BID_786_GolfMale"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-trackwaver-2048x2048-3dbbe95e45cf.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-trackwaver-yes-2048x2048-3a302997a7c5.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-trackwaver-2048x2048-f8bc279b6638.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_Character_TrackWaver.DAv2_Character_TrackWaver"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-featured-pickaxes-trackwaver-swipe-01-2048x2048-74e8a2393ca3.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-featured-pickaxes-trackwaver-yes-2048x2048-4e30e62621dc.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_pickaxe_trackwaver.DAv2_pickaxe_trackwaver"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-stairgummy-2048x2048-6271f6d0a931.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_Character_StairGummy.DAv2_Character_StairGummy"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-prizetray-2048x2048-f0fa380afc46.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_Character_PrizeTray.DAv2_Character_PrizeTray"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-pandaspeak-2048x2048-da3bbb8caf04.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_Character_PandaSpeak.DAv2_Character_PandaSpeak"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-healedscar-2048x2048-f01e7fced90c.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-healedscar-sand-2048x2048-e616c2c86ed7.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-healedscar-1024x1024-15fa5ddb436d.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_HealedScar.DAv2_Character_HealedScar"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-geneaglet-1024x1024-25bc5eadebcc.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-geneaglet-fly-1024x1024-866727cda974.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-geneaglet-hoodoff-1024x1024-57780777d8ac.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-geneaglet-1024x1024-bcb4eb46d03d.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S35/DAv2_Character_GeneAglet.DAv2_Character_GeneAglet"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-457-athena-commando-f-spacegirl-1024x1024-8bab88e91698.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-spacegirlb-1024x1024-9350baef5721.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/DAv2_CID_457_F_SpaceGirl.DAv2_CID_457_F_SpaceGirl"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-hero-calavera-2048x2048-34a3aba4df32.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-hero-calavera-vibrant-alt-2048x2048-6a469492ad32.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-hero-calavera-vibrant-2048x2048-6b14cc26d896.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-calaveraa-1024x1024-be4fa0d4a156.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S22/DAv2_Character_Calavera.DAv2_Character_Calavera"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-sequinpie-v2-1024x1024-d4b82aa9d5ad.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-sequinpie-1024x1024-f1889d69db79.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Bundle_Featured_SequinPie_Static.DAv2_Bundle_Featured_SequinPie_Static"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechopro-2048x2048-b57187e6fc87.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechopro-style-2048x2048-a7e9d4f23c51.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechopro-cloak-2048x2048-79220a86644a.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-distantechoproa-1024x1024-8c688b2d2ee5.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S22/DAv2_Character_DistantEchoPro.DAv2_Character_DistantEchoPro"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechopilot-2048x2048-5e58ad9a7438.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechopilot-style-2048x2048-08cbc7bf6b25.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechopilot-cloak-2048x2048-d879748ca344.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-distantechopilota-1024x1024-4d82997c7bc2.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S22/DAv2_Character_DistantEchoPilot.DAv2_Character_DistantEchoPilot"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechocastle-2048x2048-40eddbdc57bc.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechocastlef-style-alt-2048x2048-dbe0dae8d557.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-distantechocastle-style-2048x2048-5a5f5d64f3e2.png",
+              "productTag": "Product.BR",
+              "_type": "ShopOfferPresentation"
+            },
+            {
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-distantechocastleb-1024x1024-da0379109a8e.png",
+              "productTag": "Product.Juno",
+              "_type": "ShopOfferPresentation"
+            }
+          ],
+          "visualId": "/OfferCatalog/NewDisplayAssets/S22/DAv2_Character_DistantEchoCastle.DAv2_Character_DistantEchoCastle"
+        },
+        {
+          "_type": "ShopOfferPresentationData",
+          "presentations": [
+            {
               "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-tameeagle-2048x2048-0359989085b1.png",
               "productTag": "Product.BR",
               "_type": "ShopOfferPresentation"
@@ -38776,27 +39444,6 @@
             }
           ],
           "visualId": "/OfferCatalog/NewDisplayAssets/S40/DAv2_Character_BiomeHose.DAv2_Character_BiomeHose"
-        },
-        {
-          "_type": "ShopOfferPresentationData",
-          "presentations": [
-            {
-              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-362-athena-commando-f-bandageninja-01-1024x1024-7cfc543b83c6.png",
-              "productTag": "Product.BR",
-              "_type": "ShopOfferPresentation"
-            },
-            {
-              "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-362-athena-commando-f-bandageninja-02-1024x1024-c24dd4bb5ac6.png",
-              "productTag": "Product.BR",
-              "_type": "ShopOfferPresentation"
-            },
-            {
-              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-bandageninjab-1024x1024-42d79c13b4df.png",
-              "productTag": "Product.Juno",
-              "_type": "ShopOfferPresentation"
-            }
-          ],
-          "visualId": "/OfferCatalog/NewDisplayAssets/DAv2_CID_362_F_BandageNinja.DAv2_CID_362_F_BandageNinja"
         },
         {
           "_type": "ShopOfferPresentationData",
@@ -39214,7 +39861,7 @@
               "_type": "ShopOfferPresentation"
             },
             {
-              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-junksamuraia-2048x2048-4143aed1bae3.png",
+              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-junksamuraia-2048x2048-68b4cf36c1a7.png",
               "productTag": "Product.Juno",
               "_type": "ShopOfferPresentation"
             }
@@ -39771,27 +40418,6 @@
           "_type": "ShopOfferPresentationData",
           "presentations": [
             {
-              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-companion-wartybark-2048x2048-889685e03df5.png",
-              "productTag": "Product.BR",
-              "_type": "ShopOfferPresentation"
-            },
-            {
-              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-companion-wartybark-b-2048x2048-48bb086aa269.png",
-              "productTag": "Product.BR",
-              "_type": "ShopOfferPresentation"
-            },
-            {
-              "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-companion-wartybark-c-2048x2048-aea6f7e4b3ea.png",
-              "productTag": "Product.BR",
-              "_type": "ShopOfferPresentation"
-            }
-          ],
-          "visualId": "/OfferCatalog/NewDisplayAssets/S38/DAv2_Companion_WartyBark.DAv2_Companion_WartyBark"
-        },
-        {
-          "_type": "ShopOfferPresentationData",
-          "presentations": [
-            {
               "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-f-arcticcamo-2048x2048-51e3049c7c20.png",
               "productTag": "Product.BR",
               "_type": "ShopOfferPresentation"
@@ -40211,17 +40837,6 @@
             }
           ],
           "visualId": "/OfferCatalog/NewDisplayAssets/S38/DAv2_Bundle_Featured_Architect_PartyValet.DAv2_Bundle_Featured_Architect_PartyValet"
-        },
-        {
-          "_type": "ShopOfferPresentationData",
-          "presentations": [
-            {
-              "renderImage": "https://cdn2.unrealengine.com/t-ui-vehicle-web-eagle-2-1024x875-5fa6d9fe766a.png",
-              "productTag": "Product.BR",
-              "_type": "ShopOfferPresentation"
-            }
-          ],
-          "visualId": "/OfferCatalog/NewDisplayAssets/S38/DAv2_Bundle_Featured_Eagle.DAv2_Bundle_Featured_Eagle"
         },
         {
           "_type": "ShopOfferPresentationData",
@@ -41341,8 +41956,8 @@
     },
     "_title": "shopOfferVisuals",
     "_noIndex": true,
-    "_activeDate": "2025-12-10T23:30:00.000Z",
-    "lastModified": "2026-05-01T23:15:47.105Z",
+    "_activeDate": "2026-05-30T00:00:00.000Z",
+    "lastModified": "2026-09-01T22:52:42.031Z",
     "_locale": "en-US",
     "_templateName": "FortniteGameShopOfferVisuals"
   },

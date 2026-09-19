@@ -1,5 +1,6 @@
 {
     "GeneralSettings": {
+        "DiameneAutoUpdatesEnabled": true,
         "Gold": 0,
         "ItemShopRefreshInterval": 30,
         "bRefreshKeychainViaTimeline": false,
@@ -23,7 +24,7 @@
             "AthenaCharacter:Character_JadeTowelHope"
         ],
         "candy":[
-             "AthenaCharacter:Character_JadeTowelHope",
+            "AthenaCharacter:Character_JadeTowelHope",
             "AthenaCharacter:Character_JadeTowelHope",
             "AthenaCharacter:Character_JadeTowelHope",
             "AthenaCharacter:Character_JadeTowelHope",
