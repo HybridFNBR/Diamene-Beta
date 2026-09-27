@@ -205,639 +205,1028 @@
         "playlistId": "Playlist_DefaultSolo",
         "playlist_settings": {
             "FFortReleaseVersion": {
-                "VersionName": ""
-            },
-            "PlaylistId": 1,
-            "PlaylistName": "Playlist_DefaultSolo",
-            "GameType": "BR",
-            "TimeOfDayManager": "",
-            "PreloadPersistentLevel": "",
-            "MinPlayers": 0,
-            "MaxPlayers": 0,
-            "MaxPriority": 0,
-            "bUnderfillMatchmaking": false,
-            "UnderfilledMaxPlayers": 0,
-            "bOverrideMaxPlayers": false,
-            "MaxHumanAndBotParticipants": 0,
-            "MaxTeamCount": 0,
-            "MaxTeamSize": 0,
-            "MaxSocialPartySize": 0,
-            "MaxSquadSize": 0,
-            "MaxSquads": 0,
-            "EnforceSquadFill": false,
-            "bAllowSquadFillOption": false,
-            "bShouldFillWhenNoSquadFillOption": false,
-            "bAllowJoinInProgress": false,
-            "JoinInProgressMatchType": {
-                "Category": "",
-                "NativeCulture": "",
-                "Namespace": "",
-                "LocalizedStrings": [],
-                "bIsMinimalPatch": false,
-                "NativeString": "",
-                "Key": ""
-            },
-            "EndOfMatchXpFirstElim": 0,
-            "EndOfMatchXpMultiplier": 0,
-            "bEnableBackfillDuringWarmupPhase": false,
-            "TimeAfterWarmupToDisableBackfill": 0,
-            "bAllowKeepPlayingTogether": false,
-            "bAllowPartyRift": false,
-            "bAllowSquadSizeTracking": false,
-            "MapExtraParams": [],
-            "GameModeClassOverride": "",
-            "bLoadAdditionalLevelsInPIE": false,
-            "AdditionalLevels": [],
-            "AdditionalLevelsServerOnly": [],
-            "BuiltInGameFeaturePluginsToLoad": [],
-            "OverrideLinkIdToDownload": "",
-            "DefaultFirstTeam": 0,
-            "DefaultLastTeam": 0,
-            "GameplayTagContainer": {
-                "GameplayTags": [
-                    {
-                        "TagName": ""
-                    },
-                    {
-                        "TagName": ""
-                    }
-                ]
-            },
-            "FriendlyFireType": "",
-            "bUseFriendlyFireAimAssist": false,
-            "LootLevel": 0,
-            "LootTagQuery": {
-                "TokenStreamVersion": 0,
-                "TagDictionary": [
-                    {
-                        "TagName": ""
-                    },
-                    {
-                        "TagName": ""
-                    }
-                ],
-                "QueryTokenStream": "",
-                "UserDescription": "",
-                "AutoDescription": ""
-            },
-            "BuildingLevelOverride": 0,
-            "SpawnImmunityTime": {
-                "Value": 0
-            },
-            "SkippedGamePhaseNotification": [],
-            "ModifierList": [],
-            "bIgnoreWeatherEvents": false,
-            "ItemsToFullyLoad": [],
-            "bIsDefaultPlaylist": false,
-            "UIDisplayName": {
-                "Category": "",
-                "NativeCulture": "",
-                "Namespace": "",
-                "LocalizedStrings": [],
-                "bIsMinimalPatch": false,
-                "NativeString": "",
-                "Key": ""
-            },
-            "UIDescription": {
-                "Category": "",
-                "NativeCulture": "",
-                "Namespace": "",
-                "LocalizedStrings": [],
-                "bIsMinimalPatch": false,
-                "NativeString": "",
-                "Key": ""
-            },
-            "HUDElementsToHide": {
-                "GameplayTags": [
-                    {
-                        "TagName": ""
-                    },
-                    {
-                        "TagName": ""
-                    }
-                ]
-            },
-            "bUseCustomInGameState": false,
-            "LootTierData": "",
-            "LootPackages": "",
-            "BaseCurveTableOverrides": [
-                {
-                    "BaseTable": "",
-                    "OverrideTable": ""
-                }
+            "VersionName": "15.00"
+          },
+          "PlaylistId": 2,
+          "PlaylistName": "Playlist_DefaultSolo",
+          "GameType": "EFortGameType::BR",
+          "TimeOfDayManager": "",
+          "PreloadPersistentLevel": "",
+          "MinPlayers": 0,
+          "MaxPlayers": 100,
+          "MaxPriority": 0,
+          "bUnderfillMatchmaking": false,
+          "UnderfilledMaxPlayers": 0,
+          "bOverrideMaxPlayers": true,
+          "MaxHumanAndBotParticipants": 100,
+          "MaxTeamCount": 100,
+          "MaxTeamSize": 1,
+          "MaxSocialPartySize": 1,
+          "MaxSquadSize": 1,
+          "MaxSquads": 100,
+          "EnforceSquadFill": false,
+          "bAllowSquadFillOption": false,
+          "bShouldFillWhenNoSquadFillOption": false,
+          "bAllowJoinInProgress": false,
+          "JoinInProgressMatchType": {
+            "Category": "",
+            "NativeCulture": "",
+            "Namespace": "",
+            "LocalizedStrings": [],
+            "bIsMinimalPatch": false,
+            "NativeString": "",
+            "Key": ""
+          },
+          "EndOfMatchXpFirstElim": 0,
+          "EndOfMatchXpMultiplier": 0,
+          "bEnableBackfillDuringWarmupPhase": false,
+          "TimeAfterWarmupToDisableBackfill": 0,
+          "bAllowKeepPlayingTogether": false,
+          "bAllowPartyRift": false,
+          "bAllowSquadSizeTracking": false,
+          "MapExtraParams": [],
+          "GameModeClassOverride": "",
+          "bLoadAdditionalLevelsInPIE": false,
+          "AdditionalLevels": [],
+          "AdditionalLevelsServerOnly": [],
+          "BuiltInGameFeaturePluginsToLoad": [],
+          "OverrideLinkIdToDownload": "",
+          "DefaultFirstTeam": 0,
+          "DefaultLastTeam": 0,
+          "GameplayTagContainer": {
+            "GameplayTags": [
+              {
+                "TagName": "Athena.Playlist.DefaultXP"
+              },
+              {
+                "TagName": "Athena.Playlist.Default"
+              },
+              {
+                "TagName": "Athena.Playlist.Core"
+              },
+              {
+                "TagName": "Athena.Playlist.Solo"
+              },
+              {
+                "TagName": "Athena.Plugin.GameMod.Gasket"
+              },
+              {
+                "TagName": "Athena.Quests.NoBuild.Exclude"
+              },
+              {
+                "TagName": "Behavior.Playlist.UseTimeSlicedWorldReady"
+              }
+            ]
+          },
+          "FriendlyFireType": "",
+          "bUseFriendlyFireAimAssist": false,
+          "LootLevel": 1,
+          "LootTagQuery": {
+            "TokenStreamVersion": 0,
+            "TagDictionary": [
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              }
             ],
-            "BaseDataTablesOverride": [
-                {
-                    "BaseTable": "",
-                    "OverrideTable": ""
-                }
-            ],
-            "RangedWeapons": "",
-            "GameData": "",
-            "SkydiveMusic": "",
-            "SkydiveMusicOutroStinger": "",
-            "RespawnStinger": "",
-            "MatchMakingSucceededSound": "",
-            "GarbageCollectionFrequency": 0,
-            "ServerPerformanceEventFrequency": 0,
-            "ServerMetricsEventFrequency": 0,
-            "bUseLocalizationService": false,
-            "GameFeaturePluginURLsToLoad": [],
-            "bEnablePlaylistXPLogging": false,
-            "bRewardsTrackPlacement": false,
-            "bRewardsAllowXPProgression": false,
-            "bRewardForRevivingTeammates": false,
-            "RewardsPlacementThreshold": 0,
-            "RewardTimePlayedType": "",
-            "RewardTimePlayedXPPerMinute": 0,
-            "RewardTimePlayedXPFlatValue": 0,
-            "InMatchXPRewardScalar": {
-                "Value": 0
+            "QueryTokenStream": "",
+            "UserDescription": "",
+            "AutoDescription": ""
+          },
+          "BuildingLevelOverride": 0,
+          "SpawnImmunityTime": {
+            "Value": 100
+          },
+          "SkippedGamePhaseNotification": [],
+          "ModifierList": [
+            "/Game/Athena/Playlists/DefaultModifiers/MaterialDropOnElim_Default.MaterialDropOnElim_Default",
+            "/Game/Athena/Playlists/ContextTutorial/ContextTutorial_AthenaContextTutorial.ContextTutorial_AthenaContextTutorial",
+            "/Game/Athena/AI/Phoebe/GameplayMod_Phoebe_DM_Solo.GameplayMod_Phoebe_DM_Solo",
+            "/Game/Athena/Playlists/Deimos/GameplayMod_DeimosAI.GameplayMod_DeimosAI",
+            "/Game/Athena/Playlists/RufusGameplayModifiers/Rufus_SafeZoneBlacklist_Modifier.Rufus_SafeZoneBlacklist_Modifier"
+          ],
+          "bIgnoreWeatherEvents": false,
+          "ItemsToFullyLoad": [],
+          "bIsDefaultPlaylist": true,
+          "UIDisplayName": {
+            "Category": "",
+            "NativeCulture": "",
+            "Namespace": "",
+            "LocalizedStrings": [],
+            "bIsMinimalPatch": false,
+            "NativeString": "Solo",
+            "Key": "01D48B6841B636C086E7BBA829B0F432"
+          },
+          "UIDescription": {
+            "Category": "",
+            "NativeCulture": "",
+            "Namespace": "",
+            "LocalizedStrings": {
+
             },
-            "FirstWinRewards": [],
-            "CalendarEventsForEndOfMatchUpdate": [],
-            "RewardPlacementBonusType": "",
-            "bAllowSinglePartyMatches": false,
-            "bRequeueAfterFailedSessionAssignment": false,
-            "bIsTournament": false,
-            "bIsLanTournament": false,
-            "bUseMultidivisionQueues": false,
-            "Strategy": "",
-            "CompetitivePointClamp": 0,
-            "BotVersionPlaylistName": "",
-            "MaxBucketCapacity": 0,
-            "MaxPendingMatches": 0,
-            "PriorityRatingExpansion": [
-                {
-                    "Priority": 0,
-                    "RatingDelta": 0
-                }
-            ],
-            "BracketDefinitions": [
-                {
-                    "MaxScore": 0,
-                    "MaxPriority": 1.2
-                }
-            ],
-            "FillRateTable": {
-                "MinMmr": 0,
-                "MaxMmr": 0,
-                "MinFillPct": 0,
-                "MaxFillPct": 0,
-                "MaxPriority": 0
+            "bIsMinimalPatch": false,
+            "NativeString": "Go it alone in a battle to be the last one standing.",
+            "Key": "0C08C0CB4F22661348F7F08031BEFB01"
+          },
+          "HUDElementsToHide": {
+            "GameplayTags": [
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              }
+            ]
+          },
+          "bUseCustomInGameState": false,
+          "LootTierData": "/Game/Athena/Playlists/AthenaCompositeLTD.AthenaCompositeLTD",
+          "LootPackages": "/BRPlaylists/Athena/Playlists/AthenaCompositeLP.AthenaCompositeLP",
+          "BaseCurveTableOverrides": [
+            {
+              "BaseTable": "",
+              "OverrideTable": ""
             },
-            "BotFillMMRCutoff": 0,
-            "ForceOnlyBotsThreshold": 0,
-            "PlayerRatingBrackets": [
-                {
-                    "MinMmr": 0,
-                    "MaxMmr": 0
-                }
-            ],
-            "MinBracketSize": 0,
-            "MaxBracketSize": 0,
-            "BracketBalanceMergeInterval": "",
-            "BracketBalanceSplitInterval": "",
-            "OutlierBracketBalanceMergeInterval": "",
-            "MinBracketPriority": 0,
-            "MaxBracketPriority": 0,
-            "MaxOutlierBracketPriority": 0,
-            "MaxOutlierBracketMergeMmrGap": 0,
-            "MmrThresholdForPrioritySession": 0,
-            "MinBackfillMatchPlayers": 0,
-            "MaxTeamScoreAllowedForBackfill": 0,
-            "MinPlayersForPrivateServer": 0,
-            "MaxTeamScoreDiscrepancyPercent": 0,
-            "bUsePlayerRating": false,
-            "bEnableRatingUpdate": false,
-            "bRestrictSquadFillToSoloPlayers": false,
-            "bIsRankedMode": false,
-            "bUseReloadRankedFormula": false,
-            "bUseRankScaling": false,
-            "bAllowBackfill": false,
-            "bCheckSquadFillMapForAvailableSlotsInBackfill": false,
-            "RankLossMax": 0,
-            "RankLossFloorMod": 0,
-            "KillerRankShare": 0,
-            "RankScalingMinDelta": 0,
-            "RankScalingMaxDelta": 0,
-            "RankScalingStandardDeviation": 0,
-            "RankKillFarmCutoff": 0,
-            "RankKillFarmFloor": 0,
-            "RankKillFarmMultiplier": 0,
-            "DamageTakenMax": 0,
-            "PlacementLossMin": 0,
-            "PlacementGainMin": 0,
-            "SeasonNumber": 0,
-            "RatingType": "",
-            "bLimitedPoolMatchmakingEnabled": false,
-            "bAllowedInLeto": false,
-            "bEnableDynamicBotBackfill": false,
-            "bRequireCrossplayEnabled": false,
-            "LastQueuedPlaylistPriority": 0,
-            "bAllowInGameMatchMaking": false,
-            "bAllowReturnToMatchmakingOriginOnMatchEnd": false,
-            "bAllowBotsInHumanTeams": false,
-            "bForceNewPlayerStateOnReconnect": false,
-            "bShouldErrorOnAdditionalContentFailure": false,
-            "bRemoveFromSquadOnLogout": false,
-            "bUseKeepTogetherId": false,
-            "bForceEncryptionKeychainRefresh": false,
-            "DADTestValue": 0,
-            "DelayForPreServerTransitionAnimation": 0,
-            "KeepTogetherIdExpirationInSeconds": 0,
-            "RequiredEntitlementToken": "",
-            "TimedWinConditionTime": {
-                "Value": 0
+            {
+              "BaseTable": "",
+              "OverrideTable": ""
             },
-            "FinalWinConditionTime": {
-                "Value": 0
+            {
+              "BaseTable": "",
+              "OverrideTable": ""
+            }
+          ],
+          "BaseDataTablesOverride": [
+            {
+              "BaseTable": "",
+              "OverrideTable": ""
             },
-            "ScoringData": {
-                "GoalScore": {
-                    "Value": 0
+            {
+              "BaseTable": "",
+              "OverrideTable": ""
+            },
+            {
+              "BaseTable": "",
+              "OverrideTable": ""
+            }
+          ],
+          "RangedWeapons": "",
+          "GameData": "/Game/Athena/Playlists/AthenaCompositeGameData.AthenaCompositeGameData",
+          "SkydiveMusic": "",
+          "SkydiveMusicOutroStinger": "",
+          "RespawnStinger": "",
+          "MatchMakingSucceededSound": "",
+          "GarbageCollectionFrequency": 0,
+          "ServerPerformanceEventFrequency": 0,
+          "ServerMetricsEventFrequency": 0,
+          "bUseLocalizationService": false,
+          "GameFeaturePluginURLsToLoad": [
+            "installbundle:../../Plugins/GameFeatures/InstallBundles/GameplayAthena/GFIBGameplayAthenaRequired/GFIBGameplayAthenaRequired.uplugin?Bundles=FortniteBR",
+            "file:../../Plugins/GameFeatures/BRRoot/BRRoot.uplugin"
+          ],
+          "bEnablePlaylistXPLogging": false,
+          "bRewardsTrackPlacement": false,
+          "bRewardsAllowXPProgression": false,
+          "bRewardForRevivingTeammates": false,
+          "RewardsPlacementThreshold": 0,
+          "RewardTimePlayedType": "",
+          "RewardTimePlayedXPPerMinute": 0,
+          "RewardTimePlayedXPFlatValue": 0,
+          "InMatchXPRewardScalar": {
+            "Value": 1
+          },
+          "FirstWinRewards": [],
+          "CalendarEventsForEndOfMatchUpdate": [],
+          "RewardPlacementBonusType": "ERewardPlacementBonusType::Solo",
+          "bAllowSinglePartyMatches": false,
+          "bRequeueAfterFailedSessionAssignment": false,
+          "bIsTournament": false,
+          "bIsLanTournament": false,
+          "bUseMultidivisionQueues": false,
+          "Strategy": "",
+          "CompetitivePointClamp": 0,
+          "BotVersionPlaylistName": "",
+          "MaxBucketCapacity": 0,
+          "MaxPendingMatches": 0,
+          "PriorityRatingExpansion": [
+            {
+              "Priority": 0,
+              "RatingDelta": 0
+            },
+            {
+              "Priority": 0,
+              "RatingDelta": 0
+            },
+            {
+              "Priority": 0,
+              "RatingDelta": 0
+            },
+            {
+              "Priority": 0,
+              "RatingDelta": 0
+            },
+            {
+              "Priority": 0,
+              "RatingDelta": 0
+            }
+          ],
+          "BracketDefinitions": [
+            {
+              "MaxScore": 0,
+              "MaxPriority": 0
+            },
+            {
+              "MaxScore": 0,
+              "MaxPriority": 0
+            },
+            {
+              "MaxScore": 0,
+              "MaxPriority": 0
+            },
+            {
+              "MaxScore": 0,
+              "MaxPriority": 0
+            }
+          ],
+          "FillRateTable": [
+            {
+              "MinMmr": 0,
+              "MaxMmr": 400,
+              "MinFillPct": 0.2,
+              "MaxFillPct": 0.2,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 401,
+              "MaxMmr": 600,
+              "MinFillPct": 0.2,
+              "MaxFillPct": 0.25,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 601,
+              "MaxMmr": 800,
+              "MinFillPct": 0.2,
+              "MaxFillPct": 0.25,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 801,
+              "MaxMmr": 1000,
+              "MinFillPct": 0.2,
+              "MaxFillPct": 0.25,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 1001,
+              "MaxMmr": 1100,
+              "MinFillPct": 0.2,
+              "MaxFillPct": 0.25,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 1101,
+              "MaxMmr": 1200,
+              "MinFillPct": 0.2,
+              "MaxFillPct": 0.25,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 1201,
+              "MaxMmr": 1300,
+              "MinFillPct": 0.25,
+              "MaxFillPct": 0.35,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 1301,
+              "MaxMmr": 1400,
+              "MinFillPct": 0.4,
+              "MaxFillPct": 0.7,
+              "MaxPriority": 60
+            },
+            {
+              "MinMmr": 1401,
+              "MaxMmr": 1500,
+              "MinFillPct": 0.5,
+              "MaxFillPct": 0.75,
+              "MaxPriority": 119
+            },
+            {
+              "MinMmr": 1501,
+              "MaxMmr": 2000,
+              "MinFillPct": 0.5,
+              "MaxFillPct": 0.85,
+              "MaxPriority": 119
+            }
+          ],
+          "BotFillMMRCutoff": 0,
+          "ForceOnlyBotsThreshold": 0,
+          "PlayerRatingBrackets": [
+            {
+              "MinMmr": 0,
+              "MaxMmr": 0
+            },
+            {
+              "MinMmr": 0,
+              "MaxMmr": 0
+            },
+            {
+              "MinMmr": 0,
+              "MaxMmr": 0
+            },
+            {
+              "MinMmr": 0,
+              "MaxMmr": 0
+            },
+            {
+              "MinMmr": 0,
+              "MaxMmr": 0
+            },
+            {
+              "MinMmr": 0,
+              "MaxMmr": 0
+            }
+          ],
+          "MinBracketSize": 0,
+          "MaxBracketSize": 0,
+          "BracketBalanceMergeInterval": "",
+          "BracketBalanceSplitInterval": "",
+          "OutlierBracketBalanceMergeInterval": "",
+          "MinBracketPriority": 0,
+          "MaxBracketPriority": 0,
+          "MaxOutlierBracketPriority": 0,
+          "MaxOutlierBracketMergeMmrGap": 0,
+          "MmrThresholdForPrioritySession": 0,
+          "MinBackfillMatchPlayers": 0,
+          "MaxTeamScoreAllowedForBackfill": 0,
+          "MinPlayersForPrivateServer": 0,
+          "MaxTeamScoreDiscrepancyPercent": 0,
+          "bUsePlayerRating": false,
+          "bEnableRatingUpdate": false,
+          "bRestrictSquadFillToSoloPlayers": false,
+          "bIsRankedMode": false,
+          "bUseReloadRankedFormula": false,
+          "bUseRankScaling": false,
+          "bAllowBackfill": false,
+          "bCheckSquadFillMapForAvailableSlotsInBackfill": false,
+          "RankLossMax": 0,
+          "RankLossFloorMod": 0,
+          "KillerRankShare": 0,
+          "RankScalingMinDelta": 0,
+          "RankScalingMaxDelta": 0,
+          "RankScalingStandardDeviation": 0,
+          "RankKillFarmCutoff": 0,
+          "RankKillFarmFloor": 0,
+          "RankKillFarmMultiplier": 0,
+          "DamageTakenMax": 0,
+          "PlacementLossMin": 0,
+          "PlacementGainMin": 0,
+          "SeasonNumber": 0,
+          "RatingType": "",
+          "bLimitedPoolMatchmakingEnabled": false,
+          "bAllowedInLeto": false,
+          "bEnableDynamicBotBackfill": false,
+          "bRequireCrossplayEnabled": false,
+          "LastQueuedPlaylistPriority": 0,
+          "bAllowInGameMatchMaking": false,
+          "bAllowReturnToMatchmakingOriginOnMatchEnd": false,
+          "bAllowBotsInHumanTeams": false,
+          "bForceNewPlayerStateOnReconnect": false,
+          "bShouldErrorOnAdditionalContentFailure": false,
+          "bRemoveFromSquadOnLogout": false,
+          "bUseKeepTogetherId": false,
+          "bForceEncryptionKeychainRefresh": false,
+          "DADTestValue": 0,
+          "DelayForPreServerTransitionAnimation": 0,
+          "KeepTogetherIdExpirationInSeconds": 0,
+          "RequiredEntitlementToken": "",
+          "TimedWinConditionTime": {
+            "Value": 0
+          },
+          "FinalWinConditionTime": {
+            "Value": 0
+          },
+          "ScoringData": {
+            "GoalScore": {
+              "Value": 0
+            },
+            "BigScoreThreshold": {
+              "Value": 0
+            },
+            "ScoreDataList": [
+              {
+                "ScoringEvent": 0,
+                "ScoreNameText": {
+                  "Category": "",
+                  "NativeCulture": "",
+                  "Namespace": "",
+                 "LocalizedStrings": [],
+                  "bIsMinimalPatch": false,
+                  "NativeString": "",
+                  "Key": ""
                 },
-                "BigScoreThreshold": {
-                    "Value": 0
-                },
-                "ScoreDataList": [
+                "EventInclusionTags": {
+                  "GameplayTags": [
                     {
-                        "ScoringEvent": 0,
-                        "ScoreNameText": {
-                            "Category": "",
-                            "NativeCulture": "",
-                            "Namespace": "",
-                            "LocalizedStrings": null,
-                            "bIsMinimalPatch": false,
-                            "NativeString": "",
-                            "Key": ""
-                        },
-                        "EventInclusionTags": {
-                            "GameplayTags": [
-                                {
-                                    "TagName": ""
-                                },
-                                {
-                                    "TagName": ""
-                                }
-                            ]
-                        },
-                        "NumOccurrencesForScore": 0,
-                        "NumOccurrencesPermitted": 0,
-                        "ScoreAwarded": 0
+                      "TagName": ""
+                    },
+                    {
+                      "TagName": ""
+                    },
+                    {
+                      "TagName": ""
+                    },
+                    {
+                      "TagName": ""
                     }
-                ]
-            },
-            "WinConditionPlayersRemaining": 0,
-            "WinConditionType": "",
-            "NumWinningTeamsCN": {
-                "Value": 0
-            },
-            "bIsLargeTeamGame": false,
-            "bShouldSpreadTeams": false,
-            "bIgnoreDefaultQuests": false,
-            "bDisallowMultipleWeaponsOfType": false,
-            "bAllowEditingEnemyWalls": false,
-            "bIgnoreGameModeStartingInventory": false,
-            "ForceKickAfterDeathMode": "",
-            "QuickbarSelectionPreservationMode": "",
-            "LootDropRounds": 0,
-            "ForceKickAfterDeathTime": 0,
-            "AlwaysAllowedNativeActions": {
-                "GameplayTags": [
+                  ]
+                },
+                "NumOccurrencesForScore": 0,
+                "NumOccurrencesPermitted": 0,
+                "ScoreAwarded": 0
+              },
+              {
+                "ScoringEvent": 0,
+                "ScoreNameText": {
+                  "Category": "",
+                  "NativeCulture": "",
+                  "Namespace": "",
+                  "LocalizedStrings": {
+
+                  },
+                  "bIsMinimalPatch": false,
+                  "NativeString": "",
+                  "Key": ""
+                },
+                "EventInclusionTags": {
+                  "GameplayTags": [
                     {
-                        "TagName": ""
+                      "TagName": ""
                     },
                     {
-                        "TagName": ""
+                      "TagName": ""
+                    },
+                    {
+                      "TagName": ""
+                    },
+                    {
+                      "TagName": ""
                     }
-                ]
-            },
-            "PawnForcedCullDistance": {
-                "Value": 0
-            },
-            "TransientMatchStartBonusCurrency": {
-                "Value": 0
-            },
-            "InventoryItemsToGrant": [
-                {
-                    "Count": 0,
-                    "Item": "",
-                    "ItemVariantGuid": {
-                        "A": 0,
-                        "B": 0,
-                        "C": 0,
-                        "D": 0
-                    },
-                    "WeaponModSlots": [
-                        {
-                            "WeaponMod": "",
-                            "bIsDynamic": false
-                        }
-                    ],
-                    "StateValuesConstObject": {
-                        "StateType": {
-                            "TagName": ""
-                        },
-                        "ObjectData": ""
-                    }
-                }
-            ],
-            "InventorySystemConfiguration": "",
-            "MatchingQuestTags": {
-                "GameplayTags": [
+                  ]
+                },
+                "NumOccurrencesForScore": 0,
+                "NumOccurrencesPermitted": 0,
+                "ScoreAwarded": 0
+              },
+              {
+                "ScoringEvent": 0,
+                "ScoreNameText": {
+                  "Category": "",
+                  "NativeCulture": "",
+                  "Namespace": "",
+                  "LocalizedStrings": {
+
+                  },
+                  "bIsMinimalPatch": false,
+                  "NativeString": "",
+                  "Key": ""
+                },
+                "EventInclusionTags": {
+                  "GameplayTags": [
                     {
-                        "TagName": ""
+                      "TagName": ""
                     },
                     {
-                        "TagName": ""
-                    }
-                ]
-            },
-            "AllowInterrogationOnActorTags": {
-                "GameplayTags": [
-                    {
-                        "TagName": ""
+                      "TagName": ""
                     },
                     {
-                        "TagName": ""
+                      "TagName": ""
+                    },
+                    {
+                      "TagName": ""
                     }
-                ]
-            },
-            "bRequirePickaxeInStartingInventory": false,
-            "DestructedBuildingInGridTimeout": 0,
-            "bTeamFilterDestructedBuildingsInGrid": false,
-            "bOwnerFilterDestructedBuildingsInGrid": false,
-            "bEnableBuildingCreatedEvent": false,
-            "bVehiclesDestroyAllBuildingSMActorsOnContact": false,
-            "MaximumAspectRatio": 0,
-            "bAutoAcquireSpawnChip": false,
-            "MinTimeBeforeRespawnCameraFade": 0,
-            "RespawnHeight": {
-                "Value": 0
-            },
-            "MaxRespawnHeight": {
-                "Value": 0
-            },
-            "bUseMaxRespawnHeight": false,
-            "bForceCameraFadeOnRespawn": false,
-            "bRespawnInAir": false,
-            "bForceRespawnLocationInsideOfVolume": false,
-            "RespawnType": "",
-            "RespawnTime": {
-                "Value": 0
-            },
-            "RespawnLevelStreamDistanceToForceScreenFade": {
-                "Value": 0
-            },
-            "bSkipWarmup": false,
-            "bSkipAircraft": false,
-            "bAllowWarmupPlayerStartInSetupPhase": false,
-            "WarmupStartRequiredPlayerPercent": 0,
-            "WarmupEarlyRequiredPlayerPercent": 0,
-            "WarmupCountdownDuration": 0,
-            "WarmupEarlyCountdownDuration": 0,
-            "AirCraftBehavior": "",
-            "bUseCustomAircraftPathSelection": false,
-            "bUseSameDirectionForOpposingAircraft": false,
-            "bAircraftDropOnlyWithinSafeZone": false,
-            "AircraftSafetyMarginPct": {
-                "Value": 0
-            },
-            "AircraftPathOffsetFromMapCenterMin": 0,
-            "AircraftPathOffsetFromMapCenterMax": 0,
-            "AircraftPathMidpointSelectionRadiusMin": 0,
-            "AircraftPathMidpointSelectionRadiusMax": 0,
-            "LastStepPushAircraftCenterLine_Magnitude": 0,
-            "LastStepPushAircraftCenterLine_Direction": 0,
-            "bDisableAudioShapes": false,
-            "NonRenderedCharacterAnimationScale": 0,
-            "PlaylistMissionGen": "",
-            "LoadingScreenWidget": "",
-            "UIExtensions": [
-                {
-                    "Slot": 0,
-                    "WidgetClass": "",
-                    "RequiredCVar": "",
-                    "bUseRequiredCVar": false
-                }
-            ],
-            "MissionIcon": "",
-            "UIDisplaySubName": {
-                "Category": "",
-                "NativeCulture": "",
-                "Namespace": "",
-                "LocalizedStrings": [],
-                "bIsMinimalPatch": false,
-                "NativeString": "",
-                "Key": ""
-            },
-            "bForceLTMLoadingScreenBackground": false,
-            "bLimitedTimeMode": false,
-            "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
-            "bDisplayScoreInHUD": false,
-            "bDisplayRespawnWidget": false,
-            "bDisableMatchStatsDisplay": false,
-            "bEnforceFullSquadInUI": false,
-            "bShowEliminationIndicatorForSelf": false,
-            "SpecialActorInputActionDataTableRow": {
-                "DataTable": "",
-                "RowName": ""
-            },
-            "bShowEliminationIndicatorForSquadmates": false,
-            "bShowEliminationIndicatorForTeammates": false,
-            "bShowEliminationIndicatorForEnemies": false,
-            "bLeaderboardDisplaysIndividuals": false,
-            "EliminationIndicatorMaxDistance": {
-                "Value": 0
-            },
-            "bUsePointLeaderAsTeamLeaderInLeaderboard": false,
-            "TypeOfLeaderboard": "",
-            "OnlyRespectsGlobalSettingForReplayRecording": {
-                "Value": 0
-            },
-            "DisableReplays": {
-                "Value": 0
-            },
-            "EnableServerReplays": {
-                "Value": 0
-            },
-            "ReplayChunkTimeSeconds": 0,
-            "ShouldUseCustomGameChannel": {
-                "Value": 0
-            },
-            "ShouldRejectDefaultGameChat": {
-                "Value": 0
-            },
-            "CustomGameChannel": 0,
-            "ShouldRecommendCustomGameChannel": {
-                "Value": 0
-            },
-            "ForcePlayersToJoinGameChannel": {
-                "Value": 0
-            },
-            "bForceGameChannel": false,
-            "bForceDisableTeamOrSquadGameChannel": false,
-            "bForceEnableProximityVoiceChat": false,
-            "bEnableCustomProximityChatPriorityList": false,
-            "MapImageOverride": {
-                "TintColor": {
-                    "SpecifiedColor": {
-                        "R": 0,
-                        "G": 0,
-                        "B": 0,
-                        "A": 0
+                  ]
+                },
+                "NumOccurrencesForScore": 0,
+                "NumOccurrencesPermitted": 0,
+                "ScoreAwarded": 0
+              },
+              {
+                "ScoringEvent": 0,
+                "ScoreNameText": {
+                  "Category": "",
+                  "NativeCulture": "",
+                  "Namespace": "",
+                  "LocalizedStrings": {
+
+                  },
+                  "bIsMinimalPatch": false,
+                  "NativeString": "",
+                  "Key": ""
+                },
+                "EventInclusionTags": {
+                  "GameplayTags": [
+                    {
+                      "TagName": ""
                     },
-                    "ColorUseRule": 0
-                },
-                "DrawAs": 0,
-                "Tiling": 0,
-                "Mirroring": 0,
-                "ImageType": 0,
-                "ImageSize": {
-                    "X": 0,
-                    "Y": 0
-                },
-                "Margin": {
-                    "Left": 0,
-                    "Top": 0,
-                    "Right": 0,
-                    "Bottom": 0
-                },
-                "Tint": {
-                    "R": 0,
-                    "G": 0,
-                    "B": 0,
-                    "A": 0
-                },
-                "ResourceObject": "",
-                "OutlineSettings": {
-                    "CornerRadii": {
-                        "X": 0,
-                        "Y": 0,
-                        "Z": 0,
-                        "W": 0
+                    {
+                      "TagName": ""
                     },
-                    "Color": {
-                        "SpecifiedColor": {
-                            "R": 0,
-                            "G": 0,
-                            "B": 0,
-                            "A": 0
-                        },
-                        "ColorUseRule": 0
+                    {
+                      "TagName": ""
                     },
-                    "Width": 0,
-                    "RoundingType": 0,
-                    "bUseBrushTransparency": false
-                },
-                "UVRegion": {
-                    "Min": {
-                        "X": 0,
-                        "Y": 0
-                    },
-                    "Max": {
-                        "X": 0,
-                        "Y": 0
-                    },
-                    "bIsValid": false
-                },
-                "bIsDynamicallyLoaded": 0,
-                "bHasUObject": 0,
-                "ResourceName": ""
-            },
-            "MapScaleOverride": 0,
-            "MapManagerClass": "",
-            "FallbackMapInfoClass": "",
-            "ServerMaxTickRate": "",
-            "bDrawCreativeDynamicIslands": false,
-            "bUseAsyncPhysics": false,
-            "bShouldServerReplicateInactivePlayerStates": false,
-            "bOverrideServerPerClientMaxAI": false,
-            "ServerPerClientMaxAI": 0,
-            "ServerMaxInactivePlayers": 0,
-            "ServerInactivePlayerStateLifeSpan": 0,
-            "SafeZoneStartUp": "",
-            "StormEffectDelay": 0,
-            "bWarmUpInStorm": false,
-            "bDisplayFinalStormPosition": false,
-            "bDrawLineToStormCircleIfOutside": false,
-            "LastSafeZoneIndex": 0,
-            "SafeZoneLocationBlacklist": "",
-            "CreativeItemListSource": "",
-            "UpgradeBenchData": "",
-            "AILootOnDeathData": "",
-            "HeroStats": "",
-            "bUseDefaultSupplyDrops": false,
-            "SupplyDropModifierList": [
-                {
-                    "SupplyDropID": "",
-                    "ModifierList": [
-                        {
-                            "GamePhase": 0,
-                            "SubPhaseIndex": 0,
-                            "SpawnInPreviousZonePercentChance": 0
-                        }
-                    ]
-                }
-            ],
-            "SupplyDropInfoList": [],
-            "QueryNameToLootChanceScaleTables": [],
-            "QueryNameToLootCountScaleTables": [],
-            "ExitCraftInfo": "",
-            "bPlaylistUsesCustomCharacterParts": false,
-            "CharactersToPreload": [
-                {
-                    "bShouldGoInNPCBudget": false,
-                    "CID": ""
-                }
-            ],
-            "CharacterFallbackTagsToPreload": [
-                {
-                    "bShouldGoInNPCBudget": false,
-                    "FallbackTag": {
-                        "TagName": ""
+                    {
+                      "TagName": ""
                     }
-                }
-            ],
-            "AIPawnCustomizationFallbackTagsToPreload": [
+                  ]
+                },
+                "NumOccurrencesForScore": 0,
+                "NumOccurrencesPermitted": 0,
+                "ScoreAwarded": 0
+              }
+            ]
+          },
+          "WinConditionPlayersRemaining": 0,
+          "WinConditionType": "",
+          "NumWinningTeamsCN": {
+            "Value": 0
+          },
+          "bIsLargeTeamGame": false,
+          "bShouldSpreadTeams": false,
+          "bIgnoreDefaultQuests": false,
+          "bDisallowMultipleWeaponsOfType": false,
+          "bAllowEditingEnemyWalls": false,
+          "bIgnoreGameModeStartingInventory": false,
+          "ForceKickAfterDeathMode": "",
+          "QuickbarSelectionPreservationMode": "",
+          "LootDropRounds": 0,
+          "ForceKickAfterDeathTime": 0,
+          "AlwaysAllowedNativeActions": {
+            "GameplayTags": [
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              }
+            ]
+          },
+          "PawnForcedCullDistance": {
+            "Value": 0
+          },
+          "TransientMatchStartBonusCurrency": {
+            "Value": 0
+          },
+          "InventoryItemsToGrant": [
+            {
+              "Count": 0,
+              "Item": "",
+              "ItemVariantGuid": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+              },
+              "WeaponModSlots": [
                 {
-                    "TagName": ""
+                  "WeaponMod": "",
+                  "bIsDynamic": false
                 },
                 {
-                    "TagName": ""
+                  "WeaponMod": "",
+                  "bIsDynamic": false
+                },
+                {
+                  "WeaponMod": "",
+                  "bIsDynamic": false
+                },
+                {
+                  "WeaponMod": "",
+                  "bIsDynamic": false
                 }
-            ],
-            "SpawnActorInfoList": [],
-            "NetActorDiscoveryBudgetInKBytesPerSec": 0,
-            "NetDormancyNumFramesUntilObsolete": 0,
-            "bEnableCreativeMode": false,
-            "bEnableSpawningStartup": false,
-            "bAllowTeamSwitching": false,
-            "bShowTeamSelectButton": false,
-            "bAllowLayoutRequirementsFeature": false,
-            "bUseCreativeStarterIsland": false,
-            "bForceCustomMinigame": false,
-            "bPreloadAthenaMapsForMatchmaking": false,
-            "bUsesAnimationSharing": false,
-            "AnimationSharingSetups": [],
-            "FortSignificanceOptions": "",
-            "bAllowBroadcasting": false,
-            "bAllowSpectateAPartyMember": false,
-            "bActivateCurie": false,
-            "CurieSettings": "",
-            "CurieManagerConfigOverrides": [],
-            "PlaylistStatId": 0,
-            "bEnableStatsV2Stats": false,
-            "AISettings": "",
-            "DefaultCreativeTOD": "",
-            "MaxVehiclesCanSpawnWithTireMod": {
-                "Value": 0
+              ],
+              "StateValuesConstObject": {
+                "StateType": {
+                  "TagName": ""
+                },
+                "ObjectData": ""
+              }
+            }
+          ],
+          "InventorySystemConfiguration": "",
+          "MatchingQuestTags": {
+            "GameplayTags": [
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              }
+            ]
+          },
+          "AllowInterrogationOnActorTags": {
+            "GameplayTags": [
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              },
+              {
+                "TagName": ""
+              }
+            ]
+          },
+          "bRequirePickaxeInStartingInventory": false,
+          "DestructedBuildingInGridTimeout": 0,
+          "bTeamFilterDestructedBuildingsInGrid": false,
+          "bOwnerFilterDestructedBuildingsInGrid": false,
+          "bEnableBuildingCreatedEvent": false,
+          "bVehiclesDestroyAllBuildingSMActorsOnContact": false,
+          "MaximumAspectRatio": 0,
+          "bAutoAcquireSpawnChip": false,
+          "MinTimeBeforeRespawnCameraFade": 0,
+          "RespawnHeight": {
+            "Value": 0
+          },
+          "MaxRespawnHeight": {
+            "Value": 0
+          },
+          "bUseMaxRespawnHeight": false,
+          "bForceCameraFadeOnRespawn": false,
+          "bRespawnInAir": false,
+          "bForceRespawnLocationInsideOfVolume": false,
+          "RespawnType": "",
+          "RespawnTime": {
+            "Value": 0
+          },
+          "RespawnLevelStreamDistanceToForceScreenFade": {
+            "Value": 0
+          },
+          "bSkipWarmup": false,
+          "bSkipAircraft": false,
+          "bAllowWarmupPlayerStartInSetupPhase": false,
+          "WarmupStartRequiredPlayerPercent": 0,
+          "WarmupEarlyRequiredPlayerPercent": 0,
+          "WarmupCountdownDuration": 0,
+          "WarmupEarlyCountdownDuration": 0,
+          "AirCraftBehavior": "",
+          "bUseCustomAircraftPathSelection": false,
+          "bUseSameDirectionForOpposingAircraft": false,
+          "bAircraftDropOnlyWithinSafeZone": false,
+          "AircraftSafetyMarginPct": {
+            "Value": 0
+          },
+          "AircraftPathOffsetFromMapCenterMin": 0,
+          "AircraftPathOffsetFromMapCenterMax": 0,
+          "AircraftPathMidpointSelectionRadiusMin": 0,
+          "AircraftPathMidpointSelectionRadiusMax": 0,
+          "LastStepPushAircraftCenterLine_Magnitude": 0,
+          "LastStepPushAircraftCenterLine_Direction": 0,
+          "bDisableAudioShapes": false,
+          "NonRenderedCharacterAnimationScale": 0,
+          "PlaylistMissionGen": "",
+          "LoadingScreenWidget": "",
+          "UIExtensions": [
+            {
+              "Slot": 0,
+              "WidgetClass": "",
+              "RequiredCVar": "",
+              "bUseRequiredCVar": false
             },
-            "PercentChanceSpawnWithTireMod": {
-                "Value": 0
+            {
+              "Slot": 0,
+              "WidgetClass": "",
+              "RequiredCVar": "",
+              "bUseRequiredCVar": false
             },
-            "WaitForServerInitializationTimeoutSecondsOverride": 0
+            {
+              "Slot": 0,
+              "WidgetClass": "",
+              "RequiredCVar": "",
+              "bUseRequiredCVar": false
+            },
+            {
+              "Slot": 0,
+              "WidgetClass": "",
+              "RequiredCVar": "",
+              "bUseRequiredCVar": false
+            }
+          ],
+          "MissionIcon": "",
+          "UIDisplaySubName": {
+            "Category": "",
+            "NativeCulture": "",
+            "Namespace": "",
+            "LocalizedStrings": [],
+            "bIsMinimalPatch": false,
+            "NativeString": "",
+            "Key": ""
+          },
+          "bForceLTMLoadingScreenBackground": false,
+          "bLimitedTimeMode": false,
+          "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
+          "bDisplayScoreInHUD": false,
+          "bDisplayRespawnWidget": false,
+          "bDisableMatchStatsDisplay": false,
+          "bEnforceFullSquadInUI": false,
+          "bShowEliminationIndicatorForSelf": false,
+          "SpecialActorInputActionDataTableRow": {
+            "DataTable": "",
+            "RowName": ""
+          },
+          "bShowEliminationIndicatorForSquadmates": false,
+          "bShowEliminationIndicatorForTeammates": false,
+          "bShowEliminationIndicatorForEnemies": false,
+          "bLeaderboardDisplaysIndividuals": false,
+          "EliminationIndicatorMaxDistance": {
+            "Value": 0
+          },
+          "bUsePointLeaderAsTeamLeaderInLeaderboard": false,
+          "TypeOfLeaderboard": "",
+          "OnlyRespectsGlobalSettingForReplayRecording": {
+            "Value": 0
+          },
+          "DisableReplays": {
+            "Value": 0
+          },
+          "EnableServerReplays": {
+            "Value": 0
+          },
+          "ReplayChunkTimeSeconds": 0,
+          "ShouldUseCustomGameChannel": {
+            "Value": 0
+          },
+          "ShouldRejectDefaultGameChat": {
+            "Value": 0
+          },
+          "CustomGameChannel": "",
+          "ShouldRecommendCustomGameChannel": {
+            "Value": 0
+          },
+          "ForcePlayersToJoinGameChannel": {
+            "Value": 0
+          },
+          "bForceGameChannel": false,
+          "bForceDisableTeamOrSquadGameChannel": false,
+          "bForceEnableProximityVoiceChat": false,
+          "bEnableCustomProximityChatPriorityList": false,
+          "MapImageOverride": {
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 0,
+                "G": 0,
+                "B": 0,
+                "A": 0
+              },
+              "ColorUseRule": 0
+            },
+            "DrawAs": 0,
+            "Tiling": 0,
+            "Mirroring": 0,
+            "ImageType": 0,
+            "ImageSize": {
+              "X": 0,
+              "Y": 0
+            },
+            "Margin": {
+              "Left": 0,
+              "Top": 0,
+              "Right": 0,
+              "Bottom": 0
+            },
+            "Tint": {
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "A": 0
+            },
+            "ResourceObject": "",
+            "OutlineSettings": {
+              "CornerRadii": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0,
+                "W": 0
+              },
+              "Color": {
+                "SpecifiedColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0,
+                  "A": 0
+                },
+                "ColorUseRule": 0
+              },
+              "Width": 0,
+              "RoundingType": 0,
+              "bUseBrushTransparency": false
+            },
+            "UVRegion": {
+              "Min": {
+                "X": 0,
+                "Y": 0
+              },
+              "Max": {
+                "X": 0,
+                "Y": 0
+              },
+              "bIsValid": false
+            },
+            "bIsDynamicallyLoaded": 0,
+            "bHasUObject": 0,
+            "ResourceName": ""
+          },
+          "MapScaleOverride": 0,
+          "MapManagerClass": "",
+          "FallbackMapInfoClass": "",
+          "ServerMaxTickRate": "",
+          "bDrawCreativeDynamicIslands": false,
+          "bUseAsyncPhysics": false,
+          "bShouldServerReplicateInactivePlayerStates": false,
+          "bOverrideServerPerClientMaxAI": false,
+          "ServerPerClientMaxAI": 0,
+          "ServerMaxInactivePlayers": 0,
+          "ServerInactivePlayerStateLifeSpan": 0,
+          "SafeZoneStartUp": "",
+          "StormEffectDelay": 0,
+          "bWarmUpInStorm": false,
+          "bDisplayFinalStormPosition": false,
+          "bDrawLineToStormCircleIfOutside": false,
+          "LastSafeZoneIndex": 0,
+          "SafeZoneLocationBlacklist": "",
+          "CreativeItemListSource": "",
+          "UpgradeBenchData": "",
+          "AILootOnDeathData": "",
+          "HeroStats": "",
+          "bUseDefaultSupplyDrops": false,
+          "SupplyDropModifierList": [
+            {
+              "SupplyDropID": "",
+              "ModifierList": [
+                {
+                  "GamePhase": 0,
+                  "SubPhaseIndex": 0,
+                  "SpawnInPreviousZonePercentChance": 0
+                }
+              ]
+            },
+            {
+              "SupplyDropID": "",
+              "ModifierList": [
+                {
+                  "GamePhase": 0,
+                  "SubPhaseIndex": 0,
+                  "SpawnInPreviousZonePercentChance": 0
+                }
+              ]
+            },
+            {
+              "SupplyDropID": "",
+              "ModifierList": [
+                {
+                  "GamePhase": 0,
+                  "SubPhaseIndex": 0,
+                  "SpawnInPreviousZonePercentChance": 0
+                }
+              ]
+            },
+            {
+              "SupplyDropID": "",
+              "ModifierList": [
+                {
+                  "GamePhase": 0,
+                  "SubPhaseIndex": 0,
+                  "SpawnInPreviousZonePercentChance": 0
+                }
+              ]
+            }
+          ],
+          "SupplyDropInfoList": [],
+          "QueryNameToLootChanceScaleTables": [],
+          "QueryNameToLootCountScaleTables": [],
+          "ExitCraftInfo": "",
+          "bPlaylistUsesCustomCharacterParts": false,
+          "CharactersToPreload": [
+            {
+              "bShouldGoInNPCBudget": false,
+              "CID": ""
+            },
+            {
+              "bShouldGoInNPCBudget": false,
+              "CID": ""
+            },
+            {
+              "bShouldGoInNPCBudget": false,
+              "CID": ""
+            },
+            {
+              "bShouldGoInNPCBudget": false,
+              "CID": ""
+            }
+          ],
+          "CharacterFallbackTagsToPreload": [
+            {
+              "bShouldGoInNPCBudget": false,
+              "FallbackTag": {
+                "TagName": ""
+              }
+            },
+            {
+              "bShouldGoInNPCBudget": false,
+              "FallbackTag": {
+                "TagName": ""
+              }
+            },
+            {
+              "bShouldGoInNPCBudget": false,
+              "FallbackTag": {
+                "TagName": ""
+              }
+            }
+          ],
+          "AIPawnCustomizationFallbackTagsToPreload": [
+            {
+              "TagName": ""
+            },
+            {
+              "TagName": ""
+            },
+            {
+              "TagName": ""
+            },
+            {
+              "TagName": ""
+            }
+          ],
+          "SpawnActorInfoList": [],
+          "NetActorDiscoveryBudgetInKBytesPerSec": 0,
+          "NetDormancyNumFramesUntilObsolete": 0,
+          "bEnableCreativeMode": false,
+          "bEnableSpawningStartup": false,
+          "bAllowTeamSwitching": false,
+          "bShowTeamSelectButton": false,
+          "bAllowLayoutRequirementsFeature": false,
+          "bUseCreativeStarterIsland": false,
+          "bForceCustomMinigame": false,
+          "bPreloadAthenaMapsForMatchmaking": false,
+          "bUsesAnimationSharing": false,
+          "AnimationSharingSetups": [],
+          "FortSignificanceOptions": "",
+          "bAllowBroadcasting": false,
+          "bAllowSpectateAPartyMember": false,
+          "bActivateCurie": false,
+          "CurieSettings": "",
+          "CurieManagerConfigOverrides": [],
+          "PlaylistStatId": 0,
+          "bEnableStatsV2Stats": false,
+          "AISettings": "",
+          "DefaultCreativeTOD": "",
+          "MaxVehiclesCanSpawnWithTireMod": {
+            "Value": 0
+          },
+          "PercentChanceSpawnWithTireMod": {
+            "Value": 0
+          },
+          "WaitForServerInitializationTimeoutSecondsOverride": 0
         }
     }
 }
