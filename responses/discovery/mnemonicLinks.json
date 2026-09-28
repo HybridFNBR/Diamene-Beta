@@ -326,7 +326,8 @@
       "lobby_background_image_urls": {
         "url": "http://localhost:5595/cdn2-unrealengine/juno-lobby-2560x1440-b8beae672ffb.png"
       },
-      "frontend_plugin": "JunoFrontendUI",
+      "frontend_plugin" : "JunoFrontendUI",
+      "matchmaking_plugins" : [ "JunoReadyUpErrors", "JunoReadyUpErrorsUI", "JunoPlayButton", "JunoWorldManagementUI" ],
       "image_url": "https://cdn2.unrealengine.com/legofn-disco-1920-1920x1080-c5f52d11a179.jpg",
       "requiresArbitratedWorldId": true,
       "image_urls": {
@@ -338,6 +339,12 @@
       "matchmaking": {
         "override_playlist": "playlist_juno"
       },
+      "required_content" : {
+          "server" : { },
+          "client" : {
+            "verse_paths" : [ "/Fortnite.com/GameFeatures/JunoRoot" ]
+          }
+        },
       "title": "LEGO Fortnite",
       "alt_title": {
         "ar": "LEGO Fortnite",
@@ -379,6 +386,7 @@
     "created": "2022-08-11T20:17:42.128Z",
     "published": "2023-11-07T23:01:02.564Z",
     "descriptionTags": [],
+    "linkCategory" : "LEGO",
     "moderationStatus": "Unmoderated",
     "lastActivatedDate": "2022-08-11T20:17:42.132Z",
     "discoveryIntent": "PUBLIC"
