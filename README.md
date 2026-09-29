@@ -23,4 +23,5 @@ Config file:
 
 
 ## Experimental Custom Routes
-You can set up/add your own custom routes in "customRoutes/custom_routes.go" file note: that any duplicate routes that may already be in the backend will not currently work though i wouldnt mind some feedback on this even though it may be quite limiting currently 
+You can set up/add your own custom routes in "customRoutes/custom_routes.go" file note: that any duplicate routes that may already be in the backend will not currently work though i wouldnt mind some feedback on this even though it may be quite limiting currently.
+FYI: it uses the gin web framework https://github.com/gin-gonic/gin
