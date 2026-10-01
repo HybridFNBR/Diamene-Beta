@@ -22,14 +22,6 @@ Config file:
 - "ShopV4.json" | Chapter 5(30.10+)
 
 
-Now i know its kind of limiting to not be able to add your own routes so im also looking into [Goja](github.com/dop251/goja) as a solution for that as a sort of a javascript route plugins kind of thing
-as an example:
-
-```javascript
-route("GET", "/ping", function(req) {
-    return {
-        message: "pong"
-    };
-});
-```
-but as of right now mainly just need people to test this and make an issue if you have one on the repo and the fortnite version included aswell.
+## Experimental Custom Routes
+You can set up/add your own custom routes in "customRoutes/custom_routes.go" file note: that any duplicate routes that may already be in the backend will not currently work though i wouldnt mind some feedback on this even though it may be quite limiting currently.
+FYI: it uses the gin web framework https://github.com/gin-gonic/gin
