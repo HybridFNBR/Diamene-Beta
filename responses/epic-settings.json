@@ -342,7 +342,7 @@
         "parentLimitFromOrgLevel": true,
         "effectiveValue": "nobody",
         "effectiveSource": "preference",
-        "effectiveValueUpdatedAt": 1788648589236,
+        "effectiveValueUpdatedAt": 1764894186260,
         "isOrgLevel": false,
         "definition": {
           "orgId": "cc5b83aa-cb5c-4b4b-a800-a7dd64edacc0",
@@ -701,7 +701,7 @@
         "preferredValueFromOrgLevel": false,
         "effectiveValue": "Public",
         "effectiveSource": "preference",
-        "effectiveValueUpdatedAt": 1788472348124,
+        "effectiveValueUpdatedAt": 1775053362299,
         "isOrgLevel": false,
         "definition": {
           "orgId": "cc5b83aa-cb5c-4b4b-a800-a7dd64edacc0",
@@ -749,8 +749,8 @@
             "consentTypeRequired": "none",
             "consentType": "none",
             "applyConsentToEnforcedUsersOnly": false,
-            "defaultValue": "Private",
-            "defaultPreference": "Private",
+            "defaultValue": "Public",
+            "defaultPreference": "Public",
             "enforcedLimit": "Public"
           }
         }
@@ -3867,7 +3867,7 @@
     ]
   },
   "meta": {
-    "requestId": "EOS-kJ-EpfMfc0yCN7aMVoUu6g-jieDhWBWFkKJMIW4_aC7oQ",
-    "timestamp": "2026-10-01T15:37:19.465Z"
+    "requestId": "EOS-FqbP8X0pa0m3KXKZqdxtWg-fYJ7lmN3Dk6ahEXkIszO6w",
+    "timestamp": "2026-07-16T19:58:03.396Z"
   }
 }
