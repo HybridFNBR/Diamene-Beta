@@ -1,0 +1,54 @@
+{
+  "channels": {
+    "standalone-store": {},
+    "client-matchmaking": {},
+    "tk": {
+      "states": [
+        {
+          "validFrom": "2019-12-31T23:59:59.999Z",
+          "activeEvents": [],
+          "state": {
+            "k": []
+          }
+        }
+      ],
+      "cacheExpire": "2026-06-26T00:16:11.086Z"
+    },
+    "featured-islands": {},
+    "community-votes": {},
+    "client-events": {
+      "states": [
+        {
+          "validFrom": "2019-12-31T23:59:59.999Z",
+          "activeEvents": [
+            {
+              "eventType": "heard0stone78hole65stick178feet",
+              "activeUntil": "9999-12-31T23:59:59.999Z",
+              "activeSince": "2019-12-31T23:59:59.999Z"
+            }
+          ],
+          "state": {
+            "activeStorefronts": [],
+            "eventNamedWeights": {},
+            "activeEvents": [],
+            "seasonNumber": 26,
+            "seasonTemplateId": "AthenaSeason:athenaseason26",
+            "matchXpBonusPoints": 0,
+            "eventPunchCardTemplateId": "",
+            "seasonBegin": "2021-06-05T14:00:00Z",
+            "seasonEnd": "9999-12-31T23:59:59.999Z",
+            "seasonDisplayedEnd": "2021-09-30T04:00:00Z",
+            "dailyStoreEnd": "2026-06-26T00:16:11.086Z",
+            "weeklyStoreEnd": "2026-06-26T00:16:11.086Z",
+            "sectionStoreEnds": {},
+            "rmtPromotion": "melody"
+          }
+        }
+      ],
+      "cacheExpire": "2026-06-26T00:16:11.086Z"
+    }
+  },
+  "currentTime": "2026-06-26T00:15:41.086Z",
+  "cacheIntervalMins": 0,
+  "eventsTimeOffsetHrs": 0
+}
