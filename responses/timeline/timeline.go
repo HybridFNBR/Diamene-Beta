@@ -4789,7 +4789,7 @@ func Timeline(r *gin.Engine) {
 				calendar.Channels["client-events"].States[0].ActiveEvents =
 					append(calendar.Channels["client-events"].States[0].ActiveEvents,
 						types.FEventRecord{
-							EventType:   "GalRisky_001", // Mech Stage 1
+							EventType:   "GalRisky_001", // Star Wars Event Risky Buildup Stage 1
 							ActiveUntil: "9999-12-01T21:10:00.000Z",
 							ActiveSince: "2020-11-21T07:00:00.000Z",
 						},
@@ -4800,7 +4800,7 @@ func Timeline(r *gin.Engine) {
 				calendar.Channels["client-events"].States[0].ActiveEvents =
 					append(calendar.Channels["client-events"].States[0].ActiveEvents,
 						types.FEventRecord{
-							EventType:   "GalRisky_002", // Mech Stage 1
+							EventType:   "GalRisky_002", // Star Wars Event Risky Buildup Stage 2
 							ActiveUntil: "9999-12-01T21:10:00.000Z",
 							ActiveSince: "2020-11-21T07:00:00.000Z",
 						},
@@ -4811,7 +4811,7 @@ func Timeline(r *gin.Engine) {
 				calendar.Channels["client-events"].States[0].ActiveEvents =
 					append(calendar.Channels["client-events"].States[0].ActiveEvents,
 						types.FEventRecord{
-							EventType:   "GalRisky_003", // Mech Stage 1
+							EventType:   "GalRisky_003", // Star Wars Event Risky Buildup Stage 3
 							ActiveUntil: "9999-12-01T21:10:00.000Z",
 							ActiveSince: "2020-11-21T07:00:00.000Z",
 						},
