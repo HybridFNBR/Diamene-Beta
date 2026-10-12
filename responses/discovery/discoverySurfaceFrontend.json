@@ -331,6 +331,14 @@
                             "lockStatus": "UNLOCKED",
                             "lockStatusReason": "NONE",
                             "isVisible": true
+                        },
+                        {
+                            "linkCode": "playlist_blendheadedsolo",
+                            "isFavorite": false,
+                            "globalCCU": 0,
+                            "lockStatus": "UNLOCKED",
+                            "lockStatusReason": "NONE",
+                            "isVisible": true
                         }
                     ],
                     "hasMore": true,

@@ -326,8 +326,13 @@
       "lobby_background_image_urls": {
         "url": "http://localhost:5595/cdn2-unrealengine/juno-lobby-2560x1440-b8beae672ffb.png"
       },
-      "frontend_plugin" : "JunoFrontendUI",
-      "matchmaking_plugins" : [ "JunoReadyUpErrors", "JunoReadyUpErrorsUI", "JunoPlayButton", "JunoWorldManagementUI" ],
+      "frontend_plugin": "JunoFrontendUI",
+      "matchmaking_plugins": [
+        "JunoReadyUpErrors",
+        "JunoReadyUpErrorsUI",
+        "JunoPlayButton",
+        "JunoWorldManagementUI"
+      ],
       "image_url": "https://cdn2.unrealengine.com/legofn-disco-1920-1920x1080-c5f52d11a179.jpg",
       "requiresArbitratedWorldId": true,
       "image_urls": {
@@ -339,12 +344,14 @@
       "matchmaking": {
         "override_playlist": "playlist_juno"
       },
-      "required_content" : {
-          "server" : { },
-          "client" : {
-            "verse_paths" : [ "/Fortnite.com/GameFeatures/JunoRoot" ]
-          }
-        },
+      "required_content": {
+        "server": {},
+        "client": {
+          "verse_paths": [
+            "/Fortnite.com/GameFeatures/JunoRoot"
+          ]
+        }
+      },
       "title": "LEGO Fortnite",
       "alt_title": {
         "ar": "LEGO Fortnite",
@@ -386,7 +393,7 @@
     "created": "2022-08-11T20:17:42.128Z",
     "published": "2023-11-07T23:01:02.564Z",
     "descriptionTags": [],
-    "linkCategory" : "LEGO",
+    "linkCategory": "LEGO",
     "moderationStatus": "Unmoderated",
     "lastActivatedDate": "2022-08-11T20:17:42.132Z",
     "discoveryIntent": "PUBLIC"
@@ -2559,13 +2566,79 @@
       "image_url": "https://cdn2.unrealengine.com/links-admin-EN_FNBR_Reload_41-30_Ropesmile_KeyArt_DiscoverTile_1920x1080-885032bc.jpg",
       "product_tag": "Product.BlastBerry.Build",
       "image_urls": {
-            "url_s": "https://cdn2.unrealengine.com/links-admin-EN_FNBR_Reload_41-30_Ropesmile_KeyArt_DiscoverTile_480x270-f8d72718.jpg",
-            "url_m": "https://cdn2.unrealengine.com/links-admin-EN_FNBR_Reload_41-30_Ropesmile_KeyArt_DiscoverTile_640x360-bbbb83d1.jpg",
-            "url": "https://cdn2.unrealengine.com/links-admin-EN_FNBR_Reload_41-30_Ropesmile_KeyArt_DiscoverTile_1920x1080-885032bc.jpg"
-        },
+        "url_s": "https://cdn2.unrealengine.com/links-admin-EN_FNBR_Reload_41-30_Ropesmile_KeyArt_DiscoverTile_480x270-f8d72718.jpg",
+        "url_m": "https://cdn2.unrealengine.com/links-admin-EN_FNBR_Reload_41-30_Ropesmile_KeyArt_DiscoverTile_640x360-bbbb83d1.jpg",
+        "url": "https://cdn2.unrealengine.com/links-admin-EN_FNBR_Reload_41-30_Ropesmile_KeyArt_DiscoverTile_1920x1080-885032bc.jpg"
+      },
       "title": "Springfield",
       "matchmaking": {
         "override_playlist": "playlist_ropesmilesolo"
+      }
+    },
+    "version": 1,
+    "active": true,
+    "disabled": false,
+    "created": "2025-05-05T20:29:16.611Z",
+    "published": "2025-05-05T20:29:16.611Z",
+    "updated": "2025-08-26T20:32:22.689Z",
+    "descriptionTags": [],
+    "moderationStatus": "Unmoderated",
+    "lastActivatedDate": "2025-05-05T20:29:16.542Z",
+    "discoveryIntent": "PUBLIC",
+    "linkState": "LIVE"
+  },
+  {
+    "namespace": "fn",
+    "accountId": "epic",
+    "creatorName": "Epic",
+    "mnemonic": "playlist_blendheadedsolo",
+    "linkType": "BR:Playlist",
+    "metadata": {
+      "lobby_background_image_urls": {
+        "url": "http://localhost:5595/cdn2-unrealengine/blitz-38-11-strangerthings-lobbybackground-3840x2160-85bae20125fa.jpg"
+      },
+      "required_content": {
+        "verse_uris": [
+          "/Fortnite.com/GameFeatures/BRRoot",
+          "/Fortnite.com/GameFeatures/CreativeRoot"
+        ]
+      },
+      "predownload_link_codes": [
+        "2775-7679-6282"
+      ],
+      "alt_title": {
+        "de": "Stranger Things",
+        "ru": "\u041e\u0447\u0435\u043d\u044c \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0434\u0435\u043b\u0430",
+        "ko": "\uae30\ubb18\ud55c \uc774\uc57c\uae30",
+        "pt": "Stranger Things",
+        "zh-hant": "\u5947\u7269\u8a9e",
+        "zh-hans": "\u602a\u5947\u7269\u8bed",
+        "it": "Stranger Things",
+        "fr": "Stranger Things",
+        "es": "Stranger Things",
+        "ar": "Stranger Things",
+        "vi": "Stranger Things",
+        "th": "\u0e2a\u0e40\u0e15\u0e23\u0e19\u0e40\u0e08\u0e2d\u0e23\u0e4c \u0e18\u0e34\u0e07\u0e2a\u0e4c",
+        "ja": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30fb\u30b7\u30f3\u30b0\u30b9",
+        "id": "Stranger Things",
+        "pl": "Stranger Things",
+        "es-419": "Stranger Things",
+        "tr": "Stranger Things"
+      },
+      "favorite_override": "set_blastberry_playlists",
+      "parent_set": "set_blastberry_playlists",
+      "play_history_override": "set_blastberry_playlists",
+      "block_cascading_data": "true",
+      "image_url": "https://cdn2.unrealengine.com/links-admin-DE_FNBR_42-30_Reload_NitemareIsland_StrangerThings_DiscoverTile_1920x1080-d7d7c999.jpg",
+      "product_tag": "Product.BlastBerry.Build",
+      "image_urls": {
+        "url_s": "https://cdn2.unrealengine.com/links-admin-DE_FNBR_42-30_Reload_NitemareIsland_StrangerThings_DiscoverTile_480x270-d1525532.jpg",
+        "url_m": "https://cdn2.unrealengine.com/links-admin-DE_FNBR_42-30_Reload_NitemareIsland_StrangerThings_DiscoverTile_640x360-73eb0a13.jpg",
+        "url": "https://cdn2.unrealengine.com/links-admin-DE_FNBR_42-30_Reload_NitemareIsland_StrangerThings_DiscoverTile_1920x1080-d7d7c999.jpg"
+      },
+      "title": "Stranger Things",
+      "matchmaking": {
+        "override_playlist": "playlist_blendheadedsolo"
       }
     },
     "version": 1,
