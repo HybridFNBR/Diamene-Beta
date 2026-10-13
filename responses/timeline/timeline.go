@@ -1223,10 +1223,10 @@ func Timeline(r *gin.Engine) {
 			},
 
 			"42.10|42.20": { //assuming first stage is active for 2 versions
-				"DustyUpdate_A",
+				//"DustyUpdate_A",
 				//"DustyUpdate_B"
 				//"DustyUpdate_C"
-				//"DustyUpdate_D" //might make it a config but this is fine for now
+				//"DustyUpdate_D", //might make it a config but this is fine for now
 			},
 		}
 
@@ -3310,6 +3310,11 @@ func Timeline(r *gin.Engine) {
 					},
 					types.FEventRecord{
 						EventType:   "EventFlag.ProgressionTrack",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "DustyUpdate_D", //Fornite OG Dusty Divot(Stage 4)
 						ActiveUntil: "9999-12-01T21:10:00.000Z",
 						ActiveSince: "2020-11-21T07:00:00.000Z",
 					},
