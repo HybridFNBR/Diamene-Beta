@@ -207,6 +207,14 @@
             "Stage6": false,
             "Stage7": false
         },
+         "CH7S4": {
+            "NiceSharkTeaserStage1": true,
+            "NiceSharkTeaserStage2": false,
+            "NiceSharkTeaserStage3": false,
+            "NiceSharkTeaserStage4": false,
+            "NiceSharkTeaserStage5": false,
+            "NiceSharkTeaserStage6": false
+        },
         "TMNTTabStages": {
             "Stage1": true,
             "Stage2": false,

@@ -1223,10 +1223,10 @@ func Timeline(r *gin.Engine) {
 			},
 
 			"42.10|42.20": { //assuming first stage is active for 2 versions
-				//"DustyUpdate_A",
+				"DustyUpdate_A",
 				//"DustyUpdate_B"
 				//"DustyUpdate_C"
-				//"DustyUpdate_D", //might make it a config but this is fine for now
+				//"DustyUpdate_D" //might make it a config but this is fine for now
 			},
 		}
 
@@ -3313,11 +3313,6 @@ func Timeline(r *gin.Engine) {
 						ActiveUntil: "9999-12-01T21:10:00.000Z",
 						ActiveSince: "2020-11-21T07:00:00.000Z",
 					},
-					types.FEventRecord{
-						EventType:   "DustyUpdate_D", //Fornite OG Dusty Divot(Stage 4)
-						ActiveUntil: "9999-12-01T21:10:00.000Z",
-						ActiveSince: "2020-11-21T07:00:00.000Z",
-					},
 				)
 		}
 
@@ -4789,12 +4784,75 @@ func Timeline(r *gin.Engine) {
 			}
 		}
 
+		if versionInfo.Version == 42.40 {
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkTeaserStage1 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_Stage1", //NiceShark Stage 1
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkTeaserStage2 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_Stage2", //NiceShark Stage 2
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkTeaserStage3 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_Stage3", //NiceShark Stage 3
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkTeaserStage4 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_Stage4", //NiceShark Stage 4
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkTeaserStage5 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_Stage5", //NiceShark Stage 5
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkTeaserStage6 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_Stage6", //NiceShark Stage 6
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+		}
+
 		if versionInfo.VersionGlobal == 11 && versionInfo.Version < 11.30 {
 			if managers.Config.TimelineConfigs.RiskyReelsStarWarsBuildUpStages.Stage1 == true {
 				calendar.Channels["client-events"].States[0].ActiveEvents =
 					append(calendar.Channels["client-events"].States[0].ActiveEvents,
 						types.FEventRecord{
-							EventType:   "GalRisky_001", // Star Wars Event Risky Buildup Stage 1
+							EventType:   "GalRisky_001", // Mech Stage 1
 							ActiveUntil: "9999-12-01T21:10:00.000Z",
 							ActiveSince: "2020-11-21T07:00:00.000Z",
 						},
@@ -4805,7 +4863,7 @@ func Timeline(r *gin.Engine) {
 				calendar.Channels["client-events"].States[0].ActiveEvents =
 					append(calendar.Channels["client-events"].States[0].ActiveEvents,
 						types.FEventRecord{
-							EventType:   "GalRisky_002", // Star Wars Event Risky Buildup Stage 2
+							EventType:   "GalRisky_002", // Mech Stage 1
 							ActiveUntil: "9999-12-01T21:10:00.000Z",
 							ActiveSince: "2020-11-21T07:00:00.000Z",
 						},
@@ -4816,7 +4874,7 @@ func Timeline(r *gin.Engine) {
 				calendar.Channels["client-events"].States[0].ActiveEvents =
 					append(calendar.Channels["client-events"].States[0].ActiveEvents,
 						types.FEventRecord{
-							EventType:   "GalRisky_003", // Star Wars Event Risky Buildup Stage 3
+							EventType:   "GalRisky_003", // Mech Stage 1
 							ActiveUntil: "9999-12-01T21:10:00.000Z",
 							ActiveSince: "2020-11-21T07:00:00.000Z",
 						},
