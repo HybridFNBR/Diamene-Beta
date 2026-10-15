@@ -4845,6 +4845,67 @@ func Timeline(r *gin.Engine) {
 						},
 					)
 			}
+
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkMusicDay1 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_MusicDay1", //NiceShark Music Day 1
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+						types.FEventRecord{
+							EventType:   "NS_Stage6", //NiceShark Stage 6
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkMusicDay2 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_MusicDay2", //NiceShark Music Day 2
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+						types.FEventRecord{
+							EventType:   "NS_Stage6", //NiceShark Stage 6
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkMusicDay3 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_MusicDay3", //NiceShark NiceShark Music Day 3
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+						types.FEventRecord{
+							EventType:   "NS_Stage6", //NiceShark Stage 6
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+			if managers.Config.TimelineConfigs.CH7S4.NiceSharkMusicDay4 == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "NS_MusicDay3_2", //NiceShark Music Day 4
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+						types.FEventRecord{
+							EventType:   "NS_Stage6", //NiceShark Stage 6
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
 		}
 
 		if versionInfo.VersionGlobal == 11 && versionInfo.Version < 11.30 {
