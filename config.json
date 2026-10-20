@@ -244,6 +244,10 @@
     "bEnablePersistentResourceSettings": false,
     "bEnableActorSpawnerDataSettings": false,
     "bEnableAmmoDefinitionSettings": false,
+    "bEnableAthenaBackpackItemDefinitionSettings": false,
+    "bEnableAthenaBattleBusItemDefinitionSettings": false,
+    "bEnableAthenaCharacterItemDefinitionSettings": false,
+    "bEnableAthenaDanceItemDefinitionSettings": false,
     "PlaylistSettings": {
       "playlistId": "Playlist_DefaultSolo",
       "playlist_settings": {
@@ -1965,6 +1969,1044 @@
           ]
         },
         "WorldItemClassOverride": ""
+      }
+    },
+    "AthenaBackpackItemDefinitionSettings": {
+      "AthenaBackpackItemDefinition": "",
+      "athena_backpack_item_definition_settings": {
+        "Access": "Normal",
+        "AdditionalDataFields": [
+          ""
+        ],
+        "BaseCosmeticProperties": [
+          {
+            "ScriptStruct": {
+              "ChildProperties": "",
+              "Children": "",
+              "MinAlignment": 0,
+              "Next": "",
+              "PropertyWrappers": [
+                ""
+              ],
+              "ScriptAndPropertyObjectReferences": [
+                ""
+              ],
+              "Size": 0,
+              "SuperStruct": ""
+            },
+            "StructMemory": 0
+          }
+        ],
+        "BaseShotGridId": 0,
+        "BuiltInEmotes": [
+          ""
+        ],
+        "CharacterParts": [
+          ""
+        ],
+        "ConversionRecipes": [
+          {
+            "DataTable": "",
+            "RowName": ""
+          }
+        ],
+        "CosmeticGatingRules": [
+          ""
+        ],
+        "CosmeticOrderingID": 0,
+        "CosmeticSet": "",
+        "CosmeticSoundLibraries": [
+          ""
+        ],
+        "CosmeticSources": "",
+        "CosmeticTags": "",
+        "CustomExclusiveCallout": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "DataList": {},
+        "DefaultVariantPreviewOverrideTime": 0,
+        "DirectAquisitionStyleDisclaimerOverride": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "DisallowedCosmeticTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "DisplayAssetPath": {
+          "AssetPath": {
+            "AssetName": "",
+            "PackageName": ""
+          },
+          "SubPathString": ""
+        },
+        "DisplayAssetPrimaryAssetId": {
+          "PrimaryAssetName": "",
+          "PrimaryAssetType": {
+            "Name": ""
+          }
+        },
+        "ExclusiveIcon": "",
+        "ExclusiveRequiresOutfitTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "FilterOverride": "WeaponMelee",
+        "FortReleaseVersion": {
+          "VersionName": ""
+        },
+        "FrontendPreviewInitialRotation": {
+          "Pitch": 0,
+          "Roll": 0,
+          "Yaw": 0
+        },
+        "FrontendPreviewMeshOverride": "",
+        "FrontendPreviewPivotOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "FrontendPreviewScale": 0,
+        "FrontendPreviewSkeletalMeshOverride": "",
+        "GameplayTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "GrantToProfileType": "",
+        "HiResDisplayAssetPath": {
+          "AssetPath": {
+            "AssetName": "",
+            "PackageName": ""
+          },
+          "SubPathString": ""
+        },
+        "IPOwner": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "ItemDescription": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemName": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemObservedStatPreviews": [
+          {
+            "StatValues": [
+              {
+                "StatTag": {
+                  "TagName": ""
+                },
+                "StatValue": 0
+              }
+            ],
+            "UnlockCondition": {
+              "Category": "",
+              "Key": "",
+              "LocalizedStrings": [
+                {}
+              ],
+              "Namespace": "",
+              "NativeCulture": "",
+              "NativeString": ""
+            }
+          }
+        ],
+        "ItemPreviewActorClass": "",
+        "ItemPreviewHero": "",
+        "ItemPreviewMontage_Female": "",
+        "ItemPreviewMontage_Male": "",
+        "ItemPreviewParticleSystem": "",
+        "ItemSearchTags": [
+          {
+            "Category": "",
+            "Key": "",
+            "LocalizedStrings": [
+              {}
+            ],
+            "Namespace": "",
+            "NativeCulture": "",
+            "NativeString": ""
+          }
+        ],
+        "ItemShortDescription": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemType": "WorldItem",
+        "ItemTypeNameOverride": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemVariantPreviewGenerator": "",
+        "ItemVariantPreviews": [
+          {
+            "AdditionalItems": [
+              {
+                "Item": "",
+                "VariantOptions": [
+                  {
+                    "CustomData": "",
+                    "ItemVariantIsUsedFor": "",
+                    "OwnedVariantTags": {
+                      "GameplayTags": [
+                        {
+                          "TagName": ""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "PreviewTime": 0,
+            "UnlockCondition": {
+              "Category": "",
+              "Key": "",
+              "LocalizedStrings": [
+                {}
+              ],
+              "Namespace": "",
+              "NativeCulture": "",
+              "NativeString": ""
+            },
+            "VariantOptions": [
+              {
+                "CustomData": "",
+                "ItemVariantIsUsedFor": "",
+                "OwnedVariantTags": {
+                  "GameplayTags": [
+                    {
+                      "TagName": ""
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "ItemVariantUnlockRequirements": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemVariants": [
+          ""
+        ],
+        "LargePreviewImage": "",
+        "LevelToSacrificeXpHandle": {
+          "CurveTable": "",
+          "RowName": ""
+        },
+        "LevelToXpHandle": {
+          "CurveTable": "",
+          "RowName": ""
+        },
+        "MaterialOverrides": [
+          {
+            "ComponentName": "",
+            "MaterialOverrideIndex": 0,
+            "OverrideMaterial": ""
+          }
+        ],
+        "MaxLevel": 0,
+        "MaxStackSize": {
+          "Value": 0
+        },
+        "MaxTier": "No_Tier",
+        "MetaTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "MinLevel": 0,
+        "ObservedPlayerStats": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "PreviewPawnRotationOffset": {
+          "Pitch": 0,
+          "Roll": 0,
+          "Yaw": 0
+        },
+        "PrimaryAssetIdItemTypeOverride": "WorldItem",
+        "PrmParameterName": "",
+        "PrmReportUntil": {
+          "VersionName": ""
+        },
+        "PurchaseItemLimit": {
+          "Value": 0
+        },
+        "QuantityDisplayName": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "Rarity": "Common",
+        "RatingLookup": {
+          "CurveTable": "",
+          "RowName": ""
+        },
+        "ReactivePreviewDrivers": [
+          {
+            "ActiveVariantTag": {
+              "TagName": ""
+            },
+            "VariantChannelTag": {
+              "TagName": ""
+            }
+          }
+        ],
+        "SacrificeRecipe": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "SearchTags": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "SecondaryCategoryOverrideTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "Series": "",
+        "ShotGridIds": 0,
+        "SmallPreviewImage": "",
+        "StatList": "",
+        "TertiaryCategoryOverrideTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "Tier": "No_Tier",
+        "TooltipClass": "",
+        "TransmogSacrificeRow": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "UnlockRequirements": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "UnlockingItemDef": "",
+        "UpgradeRarityRecipeHandle": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "VariantChannelToUseForThumbnails": {
+          "TagName": ""
+        },
+        "VariantChannelsToNeverSendToMCP": [
+          {
+            "TagName": ""
+          }
+        ],
+        "VariantShotGridIds": [
+          0
+        ],
+        "VariantUnlockType": "UnlockAll",
+        "WidePreviewImage": ""
+      }
+    },
+    "AthenaBattleBusItemDefinitionSettings": {
+      "AthenaBattleBusItemDefinition": "",
+      "athena_battle_bus_item_definition_settings": {
+        "BusPrefabClass": "",
+        "FlightLoopingMusic": "",
+        "FlightLoopingSound": "",
+        "IgnitionSound": "",
+        "LobbyLoopingMusic": "",
+        "LobbyLoopingSound": ""
+      }
+    },
+    "AthenaCharacterItemDefinitionSettings": {
+      "AthenaCharacterItemDefinition": "",
+      "athena_character_item_definition_settings": {
+        "Access": "Normal",
+        "AdditionalDataFields": [
+          ""
+        ],
+        "BaseAssembledMeshSchemas": [
+          ""
+        ],
+        "BaseCharacterParts": [
+          ""
+        ],
+        "BaseCosmeticProperties": [
+          {
+            "ScriptStruct": {
+              "ChildProperties": "",
+              "Children": "",
+              "MinAlignment": 0,
+              "Next": "",
+              "PropertyWrappers": [
+                ""
+              ],
+              "ScriptAndPropertyObjectReferences": [
+                ""
+              ],
+              "Size": 0,
+              "SuperStruct": ""
+            },
+            "StructMemory": 0
+          }
+        ],
+        "BaseShotGridId": 0,
+        "BuiltInEmotes": [
+          ""
+        ],
+        "ConversionRecipes": [
+          {
+            "DataTable": "",
+            "RowName": ""
+          }
+        ],
+        "CosmeticGatingRules": [
+          ""
+        ],
+        "CosmeticOrderingID": 0,
+        "CosmeticSet": "",
+        "CosmeticSoundLibraries": [
+          ""
+        ],
+        "CosmeticSources": "",
+        "CosmeticTags": "",
+        "CustomExclusiveCallout": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "DataList": {},
+        "DefaultBackpack": "",
+        "DefaultMontageLookupTable": "",
+        "DefaultVariantPreviewOverrideTime": 0,
+        "DirectAquisitionStyleDisclaimerOverride": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "DisallowedCosmeticTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "DisplayAssetPath": {
+          "AssetPath": {
+            "AssetName": "",
+            "PackageName": ""
+          },
+          "SubPathString": ""
+        },
+        "DisplayAssetPrimaryAssetId": {
+          "PrimaryAssetName": "",
+          "PrimaryAssetType": {
+            "Name": ""
+          }
+        },
+        "ExclusiveIcon": "",
+        "ExclusiveRequiresOutfitTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "FeedbackBank": "",
+        "FilterOverride": "WeaponMelee",
+        "FortReleaseVersion": {
+          "VersionName": ""
+        },
+        "FrontEndBackPreviewRotationOffset": 0,
+        "FrontendAnimClass": "",
+        "FrontendAnimMontageIdleOverride": "",
+        "FrontendPreviewInitialRotation": {
+          "Pitch": 0,
+          "Roll": 0,
+          "Yaw": 0
+        },
+        "FrontendPreviewMeshOverride": "",
+        "FrontendPreviewPivotOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "FrontendPreviewScale": 0,
+        "FrontendPreviewSkeletalMeshOverride": "",
+        "GameplayTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "Gender": "Invalid",
+        "GrantToProfileType": "",
+        "HiResDisplayAssetPath": {
+          "AssetPath": {
+            "AssetName": "",
+            "PackageName": ""
+          },
+          "SubPathString": ""
+        },
+        "IPOwner": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "ItemDescription": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemName": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemObservedStatPreviews": [
+          {
+            "StatValues": [
+              {
+                "StatTag": {
+                  "TagName": ""
+                },
+                "StatValue": 0
+              }
+            ],
+            "UnlockCondition": {
+              "Category": "",
+              "Key": "",
+              "LocalizedStrings": [
+                {}
+              ],
+              "Namespace": "",
+              "NativeCulture": "",
+              "NativeString": ""
+            }
+          }
+        ],
+        "ItemPreviewActorClass": "",
+        "ItemPreviewHero": "",
+        "ItemPreviewMontage_Female": "",
+        "ItemPreviewMontage_Male": "",
+        "ItemPreviewParticleSystem": "",
+        "ItemSearchTags": [
+          {
+            "Category": "",
+            "Key": "",
+            "LocalizedStrings": [
+              {}
+            ],
+            "Namespace": "",
+            "NativeCulture": "",
+            "NativeString": ""
+          }
+        ],
+        "ItemShortDescription": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemType": "WorldItem",
+        "ItemTypeNameOverride": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemVariantPreviewGenerator": "",
+        "ItemVariantPreviews": [
+          {
+            "AdditionalItems": [
+              {
+                "Item": "",
+                "VariantOptions": [
+                  {
+                    "CustomData": "",
+                    "ItemVariantIsUsedFor": "",
+                    "OwnedVariantTags": {
+                      "GameplayTags": [
+                        {
+                          "TagName": ""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "PreviewTime": 0,
+            "UnlockCondition": {
+              "Category": "",
+              "Key": "",
+              "LocalizedStrings": [
+                {}
+              ],
+              "Namespace": "",
+              "NativeCulture": "",
+              "NativeString": ""
+            },
+            "VariantOptions": [
+              {
+                "CustomData": "",
+                "ItemVariantIsUsedFor": "",
+                "OwnedVariantTags": {
+                  "GameplayTags": [
+                    {
+                      "TagName": ""
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "ItemVariantUnlockRequirements": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "ItemVariants": [
+          ""
+        ],
+        "LargePreviewImage": "",
+        "LevelToSacrificeXpHandle": {
+          "CurveTable": "",
+          "RowName": ""
+        },
+        "LevelToXpHandle": {
+          "CurveTable": "",
+          "RowName": ""
+        },
+        "MaterialOverrides": [
+          {
+            "ComponentName": "",
+            "MaterialOverrideIndex": 0,
+            "OverrideMaterial": ""
+          }
+        ],
+        "MaxLevel": 0,
+        "MaxStackSize": {
+          "Value": 0
+        },
+        "MaxTier": "No_Tier",
+        "MetaTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "MinLevel": 0,
+        "ObservedPlayerStats": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "PreviewPawnRotationOffset": {
+          "Pitch": 0,
+          "Roll": 0,
+          "Yaw": 0
+        },
+        "PreviewPawnScale": 0,
+        "PrimaryAssetIdItemTypeOverride": "WorldItem",
+        "PrmParameterName": "",
+        "PrmReportUntil": {
+          "VersionName": ""
+        },
+        "PurchaseItemLimit": {
+          "Value": 0
+        },
+        "QuantityDisplayName": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "Rarity": "Common",
+        "RatingLookup": {
+          "CurveTable": "",
+          "RowName": ""
+        },
+        "ReactivePreviewDrivers": [
+          {
+            "ActiveVariantTag": {
+              "TagName": ""
+            },
+            "VariantChannelTag": {
+              "TagName": ""
+            }
+          }
+        ],
+        "RequiredCosmeticItems": [
+          ""
+        ],
+        "SacrificeRecipe": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "SearchTags": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "SecondaryCategoryOverrideTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "Series": "",
+        "ShotGridIds": 0,
+        "SmallPreviewImage": "",
+        "StatList": "",
+        "TaggedPartsOverride": {},
+        "TertiaryCategoryOverrideTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "Tier": "No_Tier",
+        "TooltipClass": "",
+        "TransmogSacrificeRow": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "UnlockRequirements": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "UnlockingItemDef": "",
+        "UpgradeRarityRecipeHandle": {
+          "DataTable": "",
+          "RowName": ""
+        },
+        "VariantChannelToUseForThumbnails": {
+          "TagName": ""
+        },
+        "VariantChannelsToNeverSendToMCP": [
+          {
+            "TagName": ""
+          }
+        ],
+        "VariantShotGridIds": [
+          0
+        ],
+        "VariantUnlockType": "UnlockAll",
+        "WidePreviewImage": ""
+      }
+    },
+    "AthenaDanceItemDefinitionSettings": {
+      "AthenaDanceItemDefinition": "",
+      "athena_dance_item_definition_settings": {
+        "AccessData": [
+          {
+            "AccessTag": {
+              "TagName": ""
+            },
+            "AccessToken": ""
+          }
+        ],
+        "AlternativeMontages": [
+          {
+            "RequiredQuery": {
+              "AutoDescription": "",
+              "QueryTokenStream": [
+                0
+              ],
+              "TagDictionary": [
+                {
+                  "TagName": ""
+                }
+              ],
+              "TokenStreamVersion": 0,
+              "UserDescription": ""
+            },
+            "SoftMontage": ""
+          }
+        ],
+        "Animation": "",
+        "AnimationFemaleOverride": "",
+        "AnimationOverrides": [
+          {
+            "BodyType": "NONE",
+            "EmoteMontage": "",
+            "Gender": "Invalid"
+          }
+        ],
+        "BHolsterWeapon": false,
+        "BHolsterWeaponIfDualWieldPickaxe": false,
+        "BIncludeAudioWithAnimDuration": false,
+        "BMontageContainsFacialAnimation": false,
+        "BPlayRandomSection": false,
+        "BSwitchToHarvestingToolOnUse": false,
+        "CancellationLeashLengthOverride": 0,
+        "ChatTriggerCommandName": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "CustomBuiltInExclusiveCallout": {
+          "Category": "",
+          "Key": "",
+          "LocalizedStrings": [
+            {}
+          ],
+          "Namespace": "",
+          "NativeCulture": "",
+          "NativeString": ""
+        },
+        "CustomDanceAbility": "",
+        "EmoteCooldownSecs": 0,
+        "EmoteParentVariants": [
+          {
+            "CustomData": "",
+            "ItemVariantIsUsedFor": "",
+            "OwnedVariantTags": {
+              "GameplayTags": [
+                {
+                  "TagName": ""
+                }
+              ]
+            }
+          }
+        ],
+        "EmoteWheelExclusiveTags": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "FrontEndAnimation": "",
+        "FrontEndAnimationFemaleOverride": "",
+        "FrontEndAnimationOverrides": [
+          {
+            "BodyType": "NONE",
+            "EmoteMontage": "",
+            "Gender": "Invalid"
+          }
+        ],
+        "GroupEmoteFollowDistance": 0,
+        "GroupEmoteFollowerRotationYawOffset": 0,
+        "GroupEmoteLeaderRotationYawOffset": 0,
+        "GroupEmotePositionOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "GroupEmotePositionOffsetTolerance": 0,
+        "GroupEmoteToStartFollower": "",
+        "GroupEmoteToStartFollowerIfBothOwn": "",
+        "GroupEmoteToStartLeader": "",
+        "GroupEmoteToStartLeaderIfBothOwn": "",
+        "GroupSyncAnimOffset": 0,
+        "MotageSelectionGroups": [
+          {
+            "EvaluationMode": "NotSet",
+            "MontageSectionName": "",
+            "PartRequirements": [
+              {
+                "Part": "",
+                "PartType": "Head"
+              }
+            ],
+            "SwapRequirements": [
+              {
+                "Item": "",
+                "VariantSelections": [
+                  {
+                    "CustomData": "",
+                    "ItemVariantIsUsedFor": "",
+                    "OwnedVariantTags": {
+                      "GameplayTags": [
+                        {
+                          "TagName": ""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "VariantMetaTagRequired": {
+              "TagName": ""
+            }
+          }
+        ],
+        "PlayRandomSectionByName": [
+          {
+            "SectionName": "",
+            "SectionWeight": 0
+          }
+        ],
+        "PreviewLength": 0,
+        "PreviewLoops": 0,
+        "RandomDataMaximum": 0,
+        "RequiredEmoteParent": "",
+        "StaticToTraversalBlendTime": 0,
+        "TagsWhichIndicateEmoteParent": {
+          "GameplayTags": [
+            {
+              "TagName": ""
+            }
+          ]
+        },
+        "TraversalToStaticBlendTime": 0,
+        "VisibilityData": [
+          {
+            "Item": "",
+            "Rule": "RequiredItem",
+            "TagQuery": {
+              "GameplayTags": [
+                {
+                  "TagName": ""
+                }
+              ]
+            }
+          }
+        ],
+        "WalkForwardSpeed": 0
       }
     }
   }
