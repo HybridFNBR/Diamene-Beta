@@ -344,7 +344,9 @@
               "TagName": ""
             }
           ],
-          "QueryTokenStream": "",
+          "QueryTokenStream": [
+            0
+          ],
           "UserDescription": "",
           "AutoDescription": ""
         },
@@ -376,7 +378,7 @@
           "Category": "",
           "NativeCulture": "",
           "Namespace": "",
-          "LocalizedStrings": {},
+          "LocalizedStrings": [],
           "bIsMinimalPatch": false,
           "NativeString": "Go it alone in a battle to be the last one standing.",
           "Key": "0C08C0CB4F22661348F7F08031BEFB01"
@@ -679,6 +681,39 @@
                 "Category": "",
                 "NativeCulture": "",
                 "Namespace": "",
+               "LocalizedStrings": [],
+                "bIsMinimalPatch": false,
+                "NativeString": "",
+                "Key": ""
+              },
+              "EventInclusionTags": {
+                "GameplayTags": [
+                  {
+                    "TagName": ""
+                  },
+                  {
+                    "TagName": ""
+                  },
+                  {
+                    "TagName": ""
+                  },
+                  {
+                    "TagName": ""
+                  }
+                ]
+              },
+              "NumOccurrencesForScore": 0,
+              "NumOccurrencesPermitted": 0,
+              "ScoreAwarded": {
+                "Value": 0
+              }
+            },
+            {
+              "ScoringEvent": 0,
+              "ScoreNameText": {
+                "Category": "",
+                "NativeCulture": "",
+                "Namespace": "",
                 "LocalizedStrings": [],
                 "bIsMinimalPatch": false,
                 "NativeString": "",
@@ -702,7 +737,9 @@
               },
               "NumOccurrencesForScore": 0,
               "NumOccurrencesPermitted": 0,
-              "ScoreAwarded": 0
+              "ScoreAwarded": {
+                "Value": 0
+              }
             },
             {
               "ScoringEvent": 0,
@@ -710,7 +747,7 @@
                 "Category": "",
                 "NativeCulture": "",
                 "Namespace": "",
-                "LocalizedStrings": {},
+                "LocalizedStrings": [],
                 "bIsMinimalPatch": false,
                 "NativeString": "",
                 "Key": ""
@@ -733,7 +770,9 @@
               },
               "NumOccurrencesForScore": 0,
               "NumOccurrencesPermitted": 0,
-              "ScoreAwarded": 0
+              "ScoreAwarded": {
+                "Value": 0
+              }
             },
             {
               "ScoringEvent": 0,
@@ -741,7 +780,7 @@
                 "Category": "",
                 "NativeCulture": "",
                 "Namespace": "",
-                "LocalizedStrings": {},
+                "LocalizedStrings": [],
                 "bIsMinimalPatch": false,
                 "NativeString": "",
                 "Key": ""
@@ -764,38 +803,9 @@
               },
               "NumOccurrencesForScore": 0,
               "NumOccurrencesPermitted": 0,
-              "ScoreAwarded": 0
-            },
-            {
-              "ScoringEvent": 0,
-              "ScoreNameText": {
-                "Category": "",
-                "NativeCulture": "",
-                "Namespace": "",
-                "LocalizedStrings": {},
-                "bIsMinimalPatch": false,
-                "NativeString": "",
-                "Key": ""
-              },
-              "EventInclusionTags": {
-                "GameplayTags": [
-                  {
-                    "TagName": ""
-                  },
-                  {
-                    "TagName": ""
-                  },
-                  {
-                    "TagName": ""
-                  },
-                  {
-                    "TagName": ""
-                  }
-                ]
-              },
-              "NumOccurrencesForScore": 0,
-              "NumOccurrencesPermitted": 0,
-              "ScoreAwarded": 0
+              "ScoreAwarded": {
+                "Value": 0
+              }
             }
           ]
         },
@@ -864,12 +874,14 @@
                 "bIsDynamic": false
               }
             ],
-            "StateValuesConstObject": {
-              "StateType": {
-                "TagName": ""
-              },
-              "ObjectData": ""
-            }
+            "StateValuesConstObject": [
+              {
+                "StateType": {
+                  "TagName": ""
+                },
+                "ObjectData": ""
+              }
+            ]
           }
         ],
         "InventorySystemConfiguration": "",
@@ -1433,9 +1445,7 @@
         "ItemDescription": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -1443,9 +1453,7 @@
         "ItemName": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -1453,9 +1461,7 @@
         "ItemShortDescription": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -1464,9 +1470,7 @@
         "ItemTypeNameOverride": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -1487,9 +1491,7 @@
         "QuantityDisplayName": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -1502,9 +1504,7 @@
         "SearchTags": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2023,9 +2023,7 @@
         "CustomExclusiveCallout": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2035,9 +2033,7 @@
         "DirectAquisitionStyleDisclaimerOverride": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2109,9 +2105,7 @@
         "ItemDescription": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2119,9 +2113,7 @@
         "ItemName": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2139,9 +2131,7 @@
             "UnlockCondition": {
               "Category": "",
               "Key": "",
-              "LocalizedStrings": [
-                {}
-              ],
+              "LocalizedStrings": [],
               "Namespace": "",
               "NativeCulture": "",
               "NativeString": ""
@@ -2157,9 +2147,7 @@
           {
             "Category": "",
             "Key": "",
-            "LocalizedStrings": [
-              {}
-            ],
+            "LocalizedStrings": [],
             "Namespace": "",
             "NativeCulture": "",
             "NativeString": ""
@@ -2168,9 +2156,7 @@
         "ItemShortDescription": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2179,9 +2165,7 @@
         "ItemTypeNameOverride": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2211,9 +2195,7 @@
             "UnlockCondition": {
               "Category": "",
               "Key": "",
-              "LocalizedStrings": [
-                {}
-              ],
+              "LocalizedStrings": [],
               "Namespace": "",
               "NativeCulture": "",
               "NativeString": ""
@@ -2236,9 +2218,7 @@
         "ItemVariantUnlockRequirements": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2298,9 +2278,7 @@
         "QuantityDisplayName": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2327,9 +2305,7 @@
         "SearchTags": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2361,9 +2337,7 @@
         "UnlockRequirements": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2454,9 +2428,7 @@
         "CustomExclusiveCallout": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2468,9 +2440,7 @@
         "DirectAquisitionStyleDisclaimerOverride": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2547,9 +2517,7 @@
         "ItemDescription": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2557,9 +2525,7 @@
         "ItemName": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2577,9 +2543,7 @@
             "UnlockCondition": {
               "Category": "",
               "Key": "",
-              "LocalizedStrings": [
-                {}
-              ],
+              "LocalizedStrings": [],
               "Namespace": "",
               "NativeCulture": "",
               "NativeString": ""
@@ -2595,9 +2559,7 @@
           {
             "Category": "",
             "Key": "",
-            "LocalizedStrings": [
-              {}
-            ],
+            "LocalizedStrings": [],
             "Namespace": "",
             "NativeCulture": "",
             "NativeString": ""
@@ -2606,9 +2568,7 @@
         "ItemShortDescription": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2617,9 +2577,7 @@
         "ItemTypeNameOverride": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2649,9 +2607,7 @@
             "UnlockCondition": {
               "Category": "",
               "Key": "",
-              "LocalizedStrings": [
-                {}
-              ],
+              "LocalizedStrings": [],
               "Namespace": "",
               "NativeCulture": "",
               "NativeString": ""
@@ -2674,9 +2630,7 @@
         "ItemVariantUnlockRequirements": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2737,9 +2691,7 @@
         "QuantityDisplayName": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2769,9 +2721,7 @@
         "SearchTags": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2804,9 +2754,7 @@
         "UnlockRequirements": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2879,9 +2827,7 @@
         "ChatTriggerCommandName": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
@@ -2889,9 +2835,7 @@
         "CustomBuiltInExclusiveCallout": {
           "Category": "",
           "Key": "",
-          "LocalizedStrings": [
-            {}
-          ],
+          "LocalizedStrings": [],
           "Namespace": "",
           "NativeCulture": "",
           "NativeString": ""
