@@ -1,0 +1,101 @@
+[
+    {
+        "id": "5b40995db7974934a0cc5ba1811d0a59",
+        "name": "Arena Duos",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Arena Duos"
+    },
+    {
+        "id": "1b97854fa83947d6ad337fcd50060787",
+        "name": "Arena Trios",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Arena Trios"
+    },
+    {
+        "id": "753e2ddee5b64c848ded0a8789122cdc",
+        "name": "Arena Zero Build - Trios",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Arena Zero Build - Trios"
+    },
+    {
+        "id": "904e391c96ce4e95b9b567dee396ea14",
+        "name": "Cash Cup",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Cash Cup"
+    },
+    {
+        "id": "593c49c1be594b3d999619231ebbc6c8",
+        "name": "Console Cup",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Console Cup"
+    },
+    {
+        "id": "d6dceed8e1dc487dbabef90911d576d5",
+        "name": "Cosmetic Cup",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Cosmetic Cup"
+    },
+    {
+        "id": "1abdaca45e0e4a43b81cbeaa884024fe",
+        "name": "FNCS",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "FNCS"
+    },
+    {
+        "id": "84b3f38cf80b492981a3922e4eb3171e",
+        "name": "Hype Cup",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Hype Cup"
+    },
+    {
+        "id": "e014a5295ef04afe841f7206a4353770",
+        "name": "Lightning Cup",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Lightning Cup"
+    },
+    {
+        "id": "851bfe2a78ca4175b52a75f2000db184",
+        "name": "Tournament Of Power",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Tournament Of Power"
+    },
+    {
+        "id": "044b64657fb54e4a9e1d563cdd882610",
+        "name": "Zero Build Cup",
+        "types": [
+            "Competitive"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Zero Build Cup"
+    }
+]

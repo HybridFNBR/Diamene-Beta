@@ -1,0 +1,317 @@
+[
+    {
+        "id": "d9e00ab236c343268ebc1fe479b960e6",
+        "name": "BR - Duos",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "BR - Duos"
+    },
+    {
+        "id": "c8eaf7c8365f478e99a20ff70a83e689",
+        "name": "BR - Trios",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "BR - Trios"
+    },
+    {
+        "id": "9614aa25267041ad8c7d6e17296fdc65",
+        "name": "BR - Squads",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "BR - Squads"
+    },
+    {
+        "id": "96af0573c00146968d1ad8ec1dbe4d3e",
+        "name": "Zero Build - Duos",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Zero Build - Duos"
+    },
+    {
+        "id": "c43fbe9ecc25419c96a40d2c7e1fc2f3",
+        "name": "Zero Build - Trios",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Zero Build - Trios"
+    },
+    {
+        "id": "690836e253b04c1a99272c3bd00e4164",
+        "name": "Zero Build - Squads",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Zero Build - Squads"
+    },
+    {
+        "id": "24af9a179cfb4f4eb97820ffb432c33c",
+        "name": "1v1",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "1v1"
+    },
+    {
+        "id": "9deabc36d8fb42b294cbc75f122747b0",
+        "name": "2v2",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "2v2"
+    },
+    {
+        "id": "cda31c0b76da48a28a15a04b1e77180b",
+        "name": "3v3v3v3",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "3v3v3v3"
+    },
+    {
+        "id": "ab8896735bfd49e3bd0bed446ea2bb34",
+        "name": "Box Fights",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Box Fights"
+    },
+    {
+        "id": "6d9b9ba02988435a994f21d48b3f2d68",
+        "name": "Build Battles",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Build Battles"
+    },
+    {
+        "id": "a3c237caa5c5421bbf8158f6e6a2e425",
+        "name": "City Games",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "City Games"
+    },
+    {
+        "id": "62e34995e8844bf284f0ae6100efdfa5",
+        "name": "Deathrun",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Deathrun"
+    },
+    {
+        "id": "c20c8e5f3ee5407da716653fe06ce3da",
+        "name": "Driving",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Driving"
+    },
+    {
+        "id": "d59e7e53f7024f13a2aa0ef0028bacfd",
+        "name": "Free For All",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Free For All"
+    },
+    {
+        "id": "e60319090b9a43af9c35460e91fa8468",
+        "name": "Gun Games",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Gun Games"
+    },
+    {
+        "id": "41ca504ab5dc43519021077f1cb93cf7",
+        "name": "Minigames",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Minigames"
+    },
+    {
+        "id": "9789369598ee45a59155cbf3aa0ede3b",
+        "name": "Mystery",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Mystery"
+    },
+    {
+        "id": "0128b872393e4e44a70f2f6f0730660f",
+        "name": "Open World",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Open World"
+    },
+    {
+        "id": "f81c58c36ed94fec911a05fa4b403047",
+        "name": "Parkour",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Parkour"
+    },
+    {
+        "id": "635ea2b607d148eb966b0227608ad0bd",
+        "name": "Practice",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Practice"
+    },
+    {
+        "id": "ec7d0c841b294040be0baed1af31cfaf",
+        "name": "Prop Hunt",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Prop Hunt"
+    },
+    {
+        "id": "1812de5b16ee4d0497601eb18696eb28",
+        "name": "PvP",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "PvP"
+    },
+    {
+        "id": "e51f265e0d6c4ca888f5345bed40a738",
+        "name": "Red vs Blue",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Red vs Blue"
+    },
+    {
+        "id": "f7ad3a444cd34f30bc44f2dfedd33b08",
+        "name": "Role Play",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Role Play"
+    },
+    {
+        "id": "bcdbc502685e47ed91caa5ce2de026ad",
+        "name": "Snipers",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Snipers"
+    },
+    {
+        "id": "c3bd0831551746a0ae11f30958d05358",
+        "name": "Survival",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Survival"
+    },
+    {
+        "id": "a246c63ea004489095c0bb004f0434db",
+        "name": "Tactical Defense",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Tactical Defense"
+    },
+    {
+        "id": "1f2809a275934a0a9576897de6971612",
+        "name": "Team Deathmatch",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Team Deathmatch"
+    },
+    {
+        "id": "4c0b3d3c769e46b79482bed8708f8c8a",
+        "name": "Tycoon",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Tycoon"
+    },
+    {
+        "id": "5b8e6a4999924925a2329bc7f3b60724",
+        "name": "Variety",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Variety"
+    },
+    {
+        "id": "677cf6b3ac334fd7ad41b46f14f529db",
+        "name": "Vehicle Battles",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Vehicle Battles"
+    },
+    {
+        "id": "8799c26beae64c4ab08b54bda6972ead",
+        "name": "Winter Games",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Winter Games"
+    },
+    {
+        "id": "60e2d10e379641bd9eb29cc12fb6b635",
+        "name": "Zombies",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Zombies"
+    },
+    {
+        "id": "074c65dfe7f14ce09a4ca2d831ecc50a",
+        "name": "Zone Wars",
+        "types": [
+            "Game Modes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Zone Wars"
+    }
+]

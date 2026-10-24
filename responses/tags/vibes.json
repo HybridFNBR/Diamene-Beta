@@ -1,0 +1,74 @@
+[
+    {
+        "id": "264035a70cba42a38536bbec4a22635e",
+        "name": "Chill",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Chill"
+    },
+    {
+        "id": "66a84d74902d4279b4f35c3a77e7d548",
+        "name": "Dragon Ball",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Dragon Ball"
+    },
+    {
+        "id": "c8a98a583e7a4c5b8590c95a3078bd2f",
+        "name": "Funny",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Funny"
+    },
+    {
+        "id": "5edfdbd6dfc84004addb144c91b012be",
+        "name": "Intense",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Intense"
+    },
+    {
+        "id": "d8dcaeca02cc44b88e7d43a57fb8a29f",
+        "name": "Make Friends",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Make Friends"
+    },
+    {
+        "id": "a57a7de8f04b4677ad9be9f2dda03d35",
+        "name": "Mic Off",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Mic Off"
+    },
+    {
+        "id": "c6b401af7f3e4214aa4a887f66f8e3fe",
+        "name": "Mic On",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Mic On"
+    },
+    {
+        "id": "69055509074c46a3af535b22dd3d1686",
+        "name": "Quests",
+        "types": [
+            "Vibes"
+        ],
+        "locale": "en-US",
+        "defaultLocaleName": "Quests"
+    }
+]
