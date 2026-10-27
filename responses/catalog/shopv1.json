@@ -7,9 +7,12 @@
             "name": "BRWeeklyStorefront",
             "catalogEntries": [
                 {
+                    "devName": "[VIRTUAL]1 x Prismatic Glider for 0 MtxCurrency",
                     "offerId": "v2:/accc90cbf0e0440e961e849c865c4831f074f7d21426e1c56954d40ea27bf584",
+                    "fulfillmentIds": [],
                     "dailyLimit": -1,
                     "weeklyLimit": -1,
+                    "monthlyLimit": -1,
                     "categories": [
                         "Panel 01"
                     ],
@@ -18,13 +21,14 @@
                             "currencyType": "MtxCurrency",
                             "currencySubType": "",
                             "regularPrice": 0,
-                            "dynamicRegularPrice": 0,
                             "finalPrice": 0,
                             "saleExpiration": "9999-12-31T23:59:59.999Z",
                             "basePrice": 0
                         }
                     ],
                     "meta": {},
+                    "matchFilter": "",
+                    "filterWeight": 0,
                     "appStoreId": [],
                     "requirements": [
                         {
@@ -34,96 +38,19 @@
                         }
                     ],
                     "offerType": "StaticPrice",
+                    "giftInfo": {},
+                    "refundable": true,
                     "metaInfo": [],
                     "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_GliderPrismatic.DA_Featured_GliderPrismatic",
                     "itemGrants": [
                         {
-                            "templateId": "AthenaGlider:Glider_Prismati",
-                            "quantity": 1
-                        }
-                    ],
-                    "sortPriority": -1,
-                    "catalogGroupPriority": 0
-                },
-                {
-                    "offerId": "v2:/acfc10cbf0e0440e961e449c865c4831f074f7d21426e1c56954d40ea27bf584",
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "categories": [
-                        "Panel 02"
-                    ],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 0,
-                            "dynamicRegularPrice": 0,
-                            "finalPrice": 0,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 0
-                        }
-                    ],
-                    "meta": {},
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "AthenaGlider:Glider_Voyager",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "metaInfo": [],
-                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_GliderVoyager.DA_Featured_GliderVoyager",
-                    "itemGrants": [
-                        {
-                            "templateId": "AthenaGlider:Glider_Voyager",
-                            "quantity": 1
-                        }
-                    ],
-                    "sortPriority": -1,
-                    "catalogGroupPriority": 0
-                },
-                {
-                    "offerId": "v2:/acfc10cbf0e0440e961e449c865c4831f074f7d21426e1c56954d40ea27bf584",
-                    "dailyLimit": -1,
-                    "weeklyLimit": -1,
-                    "categories": [
-                        "Panel 03"
-                    ],
-                    "prices": [
-                        {
-                            "currencyType": "MtxCurrency",
-                            "currencySubType": "",
-                            "regularPrice": 0,
-                            "dynamicRegularPrice": 0,
-                            "finalPrice": 0,
-                            "saleExpiration": "9999-12-31T23:59:59.999Z",
-                            "basePrice": 0
-                        }
-                    ],
-                    "meta": {},
-                    "appStoreId": [],
-                    "requirements": [
-                        {
-                            "requirementType": "DenyOnItemOwnership",
-                            "requiredId": "AthenaCharacter:CID_030_Athena_Commando_M_Halloween",
-                            "minQuantity": 1
-                        }
-                    ],
-                    "offerType": "StaticPrice",
-                    "metaInfo": [],
-                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_SMaleHalloween.DA_Featured_SMaleHalloween",
-                    "itemGrants": [
-                        {
-                            "templateId": "AthenaCharacter:CID_030_Athena_Commando_M_Halloween",
+                            "templateId": "AthenaGlider:Glider_Prismatic",
                             "quantity": 1
                         }
                     ],
                     "sortPriority": -1,
                     "catalogGroupPriority": 0
                 }
-                
             ]
         }
     ]
