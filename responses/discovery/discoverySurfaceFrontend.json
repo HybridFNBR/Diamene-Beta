@@ -255,11 +255,11 @@
                 "panelDisplayName": "Other Modes By Epic",
                 "panelSubtitle": null,
                 "featureTags": [
-                    "col:7",
+                    "col:6",
                     "horizontalScroll:false",
                     "hasViewAll:true",
                     "squareTiles:false",
-                    "grid:2"
+                    "grid:3"
                 ],
                 "firstPage": {
                     "results": [

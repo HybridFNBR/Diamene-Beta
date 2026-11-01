@@ -3316,6 +3316,77 @@ func Timeline(r *gin.Engine) {
 				)
 		}
 
+		if versionInfo.VersionGlobal == 43 {
+			calendar.Channels["client-events"].States[0].ActiveEvents =
+				append(calendar.Channels["client-events"].States[0].ActiveEvents,
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_S43_WeeklyQuests",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_BlastBerry_S43_FirstWin",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_S43_HabaneroQuests",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_S43_HabaneroQuests_Reload",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_S43_SpriteMastery_P01",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_S43_SpriteMastery_P02",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.S43_SpriteMasteryTrack",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_S43_TreasureHuntQuests",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_Sparks_Mini01_WeeklyQuests_W00",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_Sparks_Mini01_WeeklyChallenges",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "EventFlag.Event_S43_DelilahQuests",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "Event_DelilahTreasureHunt",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+					types.FEventRecord{
+						EventType:   "Event_Delilah_PostCaptain",
+						ActiveUntil: "9999-12-01T21:10:00.000Z",
+						ActiveSince: "2020-11-21T07:00:00.000Z",
+					},
+				)
+		}
+
 		if versionInfo.Version == 14.30 || versionInfo.Version == 14.40 {
 			calendar.Channels["client-events"].States[0].ActiveEvents =
 				append(calendar.Channels["client-events"].States[0].ActiveEvents,
