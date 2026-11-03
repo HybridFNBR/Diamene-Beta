@@ -84,10 +84,10 @@
                 "panelDisplayName": "By Epic",
                 "panelSubtitle": null,
                 "featureTags": [
-                    "col:4",
+                    "col:5",
                     "squareTiles:false",
                     "showIfEmpty:false",
-                    "grid:4",
+                    "grid:5",
                     "horizontalScroll:true",
                     "maxVisibleRows:1",
                     "hasViewAll:true",
@@ -257,7 +257,7 @@
                 "featureTags": [
                     "col:6",
                     "horizontalScroll:false",
-                    "hasViewAll:true",
+                    "hasViewAll:false",
                     "squareTiles:false",
                     "grid:3"
                 ],
