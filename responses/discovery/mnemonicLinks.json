@@ -2180,6 +2180,9 @@
     "mnemonic": "set_br_playlists",
     "linkType": "ModeSet",
     "metadata": {
+      "hero_background_image_urls": {
+        "url": "https://cdn2.unrealengine.com/cdn-uploader-FNBR_43-00_MSEE_HeroSpot_-1920x1080-01ee8de1.png"
+      },
       "image_url": "https://cdn2.unrealengine.com/fnbr-32-00-c5s5-kiln-discoverplaylist-tiles-br-1920x1080-1920x1080-cd1887394e2c.jpg",
       "image_urls": {
         "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-c5s5-kiln-discoverplaylist-tiles-br-480x270-480x270-5ea86e9c4723.jpg",
