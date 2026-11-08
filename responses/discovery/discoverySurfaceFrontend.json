@@ -65,6 +65,19 @@
                             "isVisible": true,
                             "favoriteStatus": "NONE",
                             "isBookmarked": false
+                        },
+                        {
+                            "lastVisited": null,
+                            "linkCode": "ref_settings_hero_20261421_21519252",
+                            "isFavorite": false,
+                            "globalCCU": -1,
+                            "refId": "playlist_forbiddenfruitnobuildbrsolo",
+                            "likePercent": null,
+                            "lockStatus": "UNLOCKED",
+                            "lockStatusReason": "RATING_THRESHOLD",
+                            "isVisible": true,
+                            "favoriteStatus": "NONE",
+                            "isBookmarked": false
                         }
                     ],
                     "hasMore": false,
@@ -272,7 +285,7 @@
                             "isVisible": true
                         },
                         {
-                            "linkCode": "set_forbiddenfruit_nobuild_playlists",
+                            "linkCode": "playlist_forbiddenfruitnobuildbrsolo",
                             "isFavorite": false,
                             "globalCCU": 0,
                             "lockStatus": "UNLOCKED",
@@ -379,6 +392,34 @@
                 },
                 "panelType": "AnalyticsList",
                 "playHistoryType": null
+            },
+            {
+                "panelName": "FigmentDoofy",
+                "panelDisplayName": "Fortnite OG: Unvaulting Event",
+                "panelSubtitle": "Fortnite OG: Unvaulting Event",
+                "featureTags": [
+                    "bannerItemRow"
+                ],
+                "firstPage": {
+                    "results": [
+                        {
+                            "lastVisited": null,
+                            "linkCode": "playlist_figment_doofy",
+                            "isFavorite": false,
+                            "globalCCU": 0,
+                            "lockStatus": "UNLOCKED",
+                            "lockStatusReason": "RATING_THRESHOLD",
+                            "isVisible": true,
+                            "favoriteStatus": "NONE"
+                        }
+                    ],
+                    "hasMore": false,
+                    "panelTargetName": null,
+                    "pageMarker": null
+                },
+                "panelType": "CuratedList",
+                "playHistoryType": null,
+                "panelContexts": {}
             },
             {
                 "panelName": "SmartTunaPre",

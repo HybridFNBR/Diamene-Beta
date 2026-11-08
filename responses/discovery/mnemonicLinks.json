@@ -37,6 +37,8 @@
       },
       "hero_tagline": "The battle is building!\r\nDrop into the Battle Royale. Loot, build, explore, and fight in a game of 100 players competing to be the last one standing.",
       "ref_type": "ExperienceLink",
+      "hero_video_vuid": "UUywYOPJKDpQQqVyeX",
+      "video_vuid": "UUywYOPJKDpQQqVyeX",
       "rating_override_link": "set_br_playlists",
       "alt_hero_tagline": {
         "de": "Überlebe allein in einer Schlacht bis auf den letzten Spieler.",
@@ -79,6 +81,8 @@
     "mnemonic": "ref_settings_hero_20261021_152083de",
     "linkType": "Reference",
     "metadata": {
+      "hero_video_vuid": "qXaZdMSokWKCZguVyg",
+      "video_vuid": "qXaZdMSokWKCZguVyg",
       "ref_id": "set_figment_playlists",
       "hero_background_image_urls": {
         "url": "https://cdn2.unrealengine.com/fnbr-32-00-c5s5-kiln-discoverplaylist-tiles-br-1920x1080-1920x1080-cd1887394e2c.jpg"
@@ -175,6 +179,55 @@
         "es": "Explora gigantescos mundos abiertos en los que la magia de la construcción de LEGO® se mezcla con Fortnite. ¡Descubre la aventura de supervivencia y construcción definitiva de LEGO en Fortnite!",
         "es-419": "Explora vastos mundos abiertos donde la magia de la construcción de LEGO® y Fortnite se fusionan. ¡Descubre la aventura de supervivencia y fabricación definitiva de LEGO® en Fortnite!",
         "tr": "Büyülü LEGO® yapılarının Fortnite ile buluştuğu muazzam açık dünyaları keşfet. Hayatta kalma ve üretim temalı muhteşem bir LEGO macerası şimdi Fortnite'ta!"
+      }
+    },
+    "version": 1,
+    "active": true,
+    "disabled": false,
+    "created": "2026-10-16T22:24:02.672Z",
+    "published": "2026-10-16T22:24:02.672Z",
+    "updated": "2026-10-19T12:55:00.643Z",
+    "descriptionTags": [
+      "dot-aspot",
+      "hero-generated"
+    ],
+    "moderationStatus": "Unmoderated",
+    "lastActivatedDate": "2026-10-16T22:24:02.678Z",
+    "discoveryIntent": "PUBLIC",
+    "linkState": "LIVE"
+  },
+  {
+    "namespace": "fn",
+    "accountId": "epic",
+    "creatorName": "Epic",
+    "mnemonic": "ref_settings_hero_20261421_21519252",
+    "linkType": "Reference",
+    "metadata": {
+      "ref_id": "playlist_forbiddenfruitnobuildbrsolo",
+      "hero_background_image_urls": {
+        "url": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg"
+      },
+      "hero_tagline": "32 Players. Small Map. Fast Games. Zero Build. Rack up eliminations and survive storm circles to increase your Blitz Level, which grants powerful loot as you level up!",
+      "ref_type": "ExperienceLink",
+      "rating_override_link": "playlist_forbiddenfruitnobuildbrsolo",
+      "alt_hero_tagline": {
+        "de": "32 Spieler. Kleine Karte. Schnelle Matches. Null Bauen. Sammle Eliminierungen und \u00fcberlebe Sturmphasen, um dein Blitzlevel zu steigern und dadurch starke Gegenst\u00e4nde zu erhalten!",
+        "ru": "32 \u0438\u0433\u0440\u043e\u043a\u0430. \u041d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u043a\u0430\u0440\u0442\u0430. \u0411\u044b\u0441\u0442\u0440\u044b\u0435 \u043c\u0430\u0442\u0447\u0438. \u0411\u0435\u0437 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430. \u0423\u0441\u0442\u0440\u0430\u043d\u044f\u0439\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0438 \u0432\u044b\u0436\u0438\u0432\u0430\u0439\u0442\u0435 \u0432 \u043a\u0440\u0443\u0433\u0430\u0445 \u0411\u0443\u0440\u0438, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0434\u043e\u0431\u043b\u0435\u0441\u0442\u0438 \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u043e\u043b\u0435\u0437\u043d\u0443\u044e \u0434\u043e\u0431\u044b\u0447\u0443!",
+        "ko": "32\uba85\uc758 \ud50c\ub808\uc774\uc5b4. \uc18c\uaddc\ubaa8 \ub9f5. \ube60\ub974\uac8c \uc9c4\ud589\ub418\ub294 \uac8c\uc784. \ube4c\ub4dc \uc81c\ub85c. \uacc4\uc18d \ucc98\uce58\ub97c \uae30\ub85d\ud558\uace0 \ud3ed\ud48d \uc6d0\uc5d0\uc11c \uc0b4\uc544\ub0a8\uc73c\uba74 \ube14\ub9ac\uce20 \ub808\ubca8\uc774 \uc0c1\uc2b9\ud569\ub2c8\ub2e4. \ub808\ubca8\uc744 \uc62c\ub9ac\uba74 \uac15\ub825\ud55c \uc804\ub9ac\ud488\uc744 \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+        "zh-hant": "32 \u540d\u73a9\u5bb6\u3002\u5c0f\u578b\u5730\u5716\u3002\u5feb\u7bc0\u594f\u904a\u6232\u3002\u96f6\u5efa\u9020\u3002- \u6dd8\u6c70\u6575\u4eba\u4e26\u5728\u98a8\u66b4\u5708\u4e2d\u5b58\u6d3b\uff0c\u4ee5\u63d0\u5347\u4f60\u7684 Blitz \u7b49\u7d1a\u3002\u7b49\u7d1a\u8d8a\u9ad8\uff0c\u7372\u5f97\u7684\u6230\u5229\u54c1\u8d8a\u5f37\u5927\uff01",
+        "pt-BR": "32 Participantes. Mapa Pequeno. Jogos R\u00e1pidos. Troca\u00e7\u00e3o. Acumule elimina\u00e7\u00f5es e sobreviva a c\u00edrculos da tempestade para aumentar seu N\u00edvel Blitz, que concede saques poderosos conforme voc\u00ea sobe de n\u00edvel!",
+        "zh-hans": "32\u540d\u73a9\u5bb6\u3002\u5c0f\u578b\u5730\u56fe\u3002\u6781\u901f\u5bf9\u5c40\u3002\u96f6\u5efa\u9020\u3002\u7d2f\u79ef\u6dd8\u6c70\u6570\u5e76\u5728\u98ce\u66b4\u5708\u4e2d\u5b58\u6d3b\u4e0b\u6765\uff0c\u4ee5\u63d0\u5347\u95ea\u7535\u7b49\u7ea7\u3002\u7b49\u7ea7\u8d8a\u9ad8\uff0c\u6218\u5229\u54c1\u8d8a\u5f3a\uff01",
+        "it": "32 giocatori. Una mappa piccola. Partite veloci. Zero costruzioni. Accumula eliminazioni e sopravvivi ai cerchi della Tempesta per aumentare il tuo livello Blitz, che ti conferisce incredibili bottini man mano che sali di livello!",
+        "fr": "32 joueurs. Une petite carte. Des parties rapides. Z\u00e9ro construction. Accumulez les \u00e9liminations et survivez \u00e0 des cercles de temp\u00eate pour augmenter votre niveau de Blitz et ainsi obtenir de puissants objets !",
+        "es": "32 jugadores. Un mapa peque\u00f1o. Partidas r\u00e1pidas. Cero construcci\u00f3n. Acumula eliminaciones y sobrevive a los c\u00edrculos de la tormenta para aumentar tu nivel de Blitz, que te proporcionar\u00e1 un bot\u00edn incre\u00edble cuando subas de nivel.",
+        "ar": "32 \u0644\u0627\u0639\u0628\u064b\u0627. \u062e\u0631\u064a\u0637\u0629 \u0635\u063a\u064a\u0631\u0629. \u0645\u0648\u0627\u062c\u0647\u0627\u062a \u0633\u0631\u064a\u0639\u0629 \u0627\u0644\u0648\u062a\u064a\u0631\u0629. \u0648\u0636\u0639 \u0628\u0644\u0627 \u0628\u0646\u0627\u0621. \u0646\u0641\u0651\u0630 \u0639\u0645\u0644\u064a\u0627\u062a \u062a\u0635\u0641\u064a\u0629 \u0643\u062b\u064a\u0631\u0629 \u0648\u0627\u0646\u062c\u064f \u0645\u0646 \u062f\u0648\u0627\u0626\u0631 \u0627\u0644\u0639\u0627\u0635\u0641\u0629 \u0644\u0632\u064a\u0627\u062f\u0629 \u0645\u0633\u062a\u0648\u0649 Blitz \u0627\u0644\u062e\u0627\u0635 \u0628\u0643\u060c \u0644\u062a\u062d\u0635\u0644 \u0639\u0644\u0649 \u0639\u0646\u0627\u0626\u0645 \u0642\u0648\u064a\u0629 \u0643\u0644\u0645\u0627 \u0627\u0631\u062a\u0641\u0639!",
+        "vi": "32 Ng\u01b0\u1eddi Ch\u01a1i. B\u1ea3n \u0110\u1ed3 Nh\u1ecf. Nh\u1ecbp Ch\u01a1i Nhanh. \u0110\u1ecd S\u00fang Thu\u1ea7n Ch\u1ea5t. H\u00e3y h\u1ea1 g\u1ee5c th\u1eadt nhi\u1ec1u \u0111\u1ed1i th\u1ee7 v\u00e0 s\u1ed1ng s\u00f3t qua c\u00e1c v\u00e0nh \u0111ai b\u00e3o \u0111\u1ec3 t\u0103ng C\u1ea5p Blitz c\u1ee7a b\u1ea1n, t\u1eeb \u0111\u00f3 nh\u1eadn \u0111\u01b0\u1ee3c nhi\u1ec1u chi\u1ebfn l\u1ee3i ph\u1ea9m quy\u1ec1n n\u0103ng khi l\u00ean c\u1ea5p!",
+        "th": "\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19 32 \u0e04\u0e19 \u0e41\u0e1c\u0e19\u0e17\u0e35\u0e48\u0e40\u0e25\u0e47\u0e01 \u0e40\u0e01\u0e21\u0e40\u0e23\u0e47\u0e27 \u0e0b\u0e35\u0e42\u0e23\u0e48\u0e1a\u0e34\u0e25\u0e14\u0e4c \u0e2a\u0e30\u0e2a\u0e21\u0e22\u0e2d\u0e14\u0e01\u0e32\u0e23\u0e01\u0e33\u0e08\u0e31\u0e14\u0e41\u0e25\u0e30\u0e40\u0e2d\u0e32\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e23\u0e2d\u0e14\u0e08\u0e32\u0e01\u0e27\u0e07\u0e1e\u0e32\u0e22\u0e38\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e25\u0e40\u0e27\u0e25\u0e1a\u0e25\u0e34\u0e17\u0e0b\u0e4c \u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e08\u0e30\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e02\u0e2d\u0e07\u0e25\u0e39\u0e17\u0e17\u0e35\u0e48\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07\u0e2b\u0e25\u0e31\u0e07\u0e2d\u0e31\u0e1b\u0e40\u0e25\u0e40\u0e27\u0e25\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08!",
+        "ja": "32\u4eba\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3002\u5c0f\u578b\u306e\u30de\u30c3\u30d7\u3002\u77ed\u671f\u6c7a\u6226\u3002\u30bc\u30ed\u30d3\u30eb\u30c9\u3002\u6483\u7834\u6570\u3092\u7a4d\u307f\u4e0a\u3052\u3001\u30b9\u30c8\u30fc\u30e0\u30d5\u30a7\u30fc\u30ba\u3092\u751f\u304d\u5ef6\u3073\u3066\u3001Blitz\u30ec\u30d9\u30eb\u3092\u4e0a\u3052\u3088\u3046\u3002\u30ec\u30d9\u30eb\u304c\u4e0a\u304c\u308b\u3068\u5f37\u529b\u306a\u6226\u5229\u54c1\u304c\u624b\u306b\u5165\u308b\uff01",
+        "id": "32 Pemain. Peta Kecil. Game Cepat. Zero Build. Perbanyak eliminasi dan bertahanlah di lingkaran badai untuk meningkatkan Level Blitz, yang akan memberikan jarahan luar biasa seiring kenaikan levelmu!",
+        "pl": "32\u00a0graczy. Ma\u0142a mapa. Szybkie gry. Zero Budowania. Zbieraj likwidacje i prze\u017cyj kr\u0119gi burzy, by zwi\u0119kszy\u0107 poziom B\u0142yskawicy, kt\u00f3ry po awansie zapewnia pot\u0119\u017cne \u0142upy!",
+        "es-419": "32 jugadores. Un mapa peque\u00f1o. Partidas r\u00e1pidas. Cero construcci\u00f3n. Obt\u00e9n eliminaciones y sobrevive a c\u00edrculos de la tormenta para aumentar tu nivel de Blitz, que te otorga un poderoso bot\u00edn a medida que subes de nivel.",
+        "tr": "32 Oyuncu. K\u00fc\u00e7\u00fck Harita. H\u0131zl\u0131 Oyunlar. S\u0131f\u0131r \u0130n\u015fa. Blitz Seviyesi'ni artt\u0131rmak i\u00e7in avlama yap ve f\u0131rt\u0131na \u00e7emberi atlat. Seviye atlad\u0131k\u00e7a g\u00fc\u00e7l\u00fc ganimetler al\u0131rs\u0131n!"
       }
     },
     "version": 1,
@@ -1604,7 +1657,7 @@
       "category_labels": [
         "Battle Royale"
       ],
-      "default_sub_link_code": "playlist_figmentsquad"
+      "default_sub_link_code": "playlist_figmentsolo"
     },
     "version": 1,
     "active": false,
@@ -2583,6 +2636,60 @@
     "namespace": "fn",
     "accountId": "epic",
     "creatorName": "Epic",
+    "mnemonic": "playlist_figment_doofy",
+    "linkType": "BR:Playlist",
+    "metadata": {
+      "frontend_plugin": "FigmentFrontend",
+      "aspot_title": "Fortnite OG: Unvaulting Event",
+      "pop_out_image_urls": {
+            "url": "https://cdn2.unrealengine.com/cdn-uploader-FN_OG_C1S8_40-10_DarkVoyager_ASpot_Foreground_%281%29-1096x384-07aef0ef.png"
+        },
+        "background_image_urls": {
+            "url": "https://cdn2.unrealengine.com/cdn-uploader-FN_OG_C1S8_40-10_DarkVoyager_ASpot_Background_(1)-1760x352-830aff73.png"
+        },
+      "lobby_background_image_urls": {
+            "url": "http://localhost:5595/cdn2-unrealengine/cdn-uploader-MKARTFNOGC1S8LobbyBG_ltg_v4.1-no-overlay_size-e7725d6c.jpg"
+        },
+      "matchmakingV2": {
+        "allowSquadFillOption": true,
+        "allowJoinInProgress": false,
+        "crossplayRequired": true,
+        "maxPlayers": 100,
+        "ratingType": "fun",
+        "maxSocialPartySize": 1,
+        "isRanked": false,
+        "maxTeamCount": 100,
+        "allowPrivateMatches": false,
+        "maxTeamSize": 1
+      },
+      "alt_title": {},
+      "image_url": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_C1S8_40-10_VaultOpening_DiscoverTile_1920x1080-ade1dba6.jpg",
+      "product_tag": "Product.Figment",
+      "image_urls": {
+        "url_s": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_C1S8_40-10_VaultOpening_DiscoverTile_480x270-e117dd65.jpg",
+        "url_m": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_C1S8_40-10_VaultOpening_DiscoverTile_640x360-6382774d.jpg",
+        "url": "https://cdn2.unrealengine.com/links-admin-EN_FN_OG_C1S8_40-10_VaultOpening_DiscoverTile_1920x1080-ade1dba6.jpg"
+      },
+      "matchmaking": {
+        "override_playlist": "playlist_figment_doofy"
+      },
+      "title": "Fortnite OG: Unvaulting Event"
+    },
+    "version": 1,
+    "active": false,
+    "disabled": true,
+    "created": "2024-10-28T22:28:35.306Z",
+    "published": "2024-10-28T22:28:35.306Z",
+    "descriptionTags": [],
+    "moderationStatus": "Unmoderated",
+    "lastActivatedDate": "2024-10-28T22:28:35.310Z",
+    "discoveryIntent": "PUBLIC",
+    "linkState": "LIVE"
+  },
+  {
+    "namespace": "fn",
+    "accountId": "epic",
+    "creatorName": "Epic",
     "mnemonic": "playlist_piperbootsolo",
     "linkType": "BR:Playlist",
     "metadata": {
@@ -2861,35 +2968,18 @@
     "namespace": "fn",
     "accountId": "epic",
     "creatorName": "Epic",
-    "mnemonic": "set_forbiddenfruit_nobuild_playlists",
-    "linkType": "ModeSet",
+    "mnemonic": "playlist_forbiddenfruitnobuildbrsolo",
+    "linkType": "BR:Playlist",
     "metadata": {
-      "lobby_background_image_urls": {
-        "url": "http://localhost:5595/cdn2-unrealengine/cdn-uploader-blitz_lobbybackground_2-9c8748aa.jpg"
-      },
-      "frontend_plugin": "ForbiddenFruitFrontEnd",
-      "pop_out_image_urls": {
-        "url": "https://cdn2.unrealengine.com/a-spot-foreground-1096x384-1096x384-a7b0e979ddb6.png"
-      },
-      "background_image_urls": {
-        "url": "https://cdn2.unrealengine.com/a-spot-background-1760x352-1760x352-2efae69b1d77.jpg"
-      },
-      "image_url": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg",
-      "genre_labels": [
-        "Team Deathmatch"
-      ],
-      "image_urls": {
-        "url_s": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg",
-        "url_m": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg",
-        "url": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg"
-      },
-      "title": "Blitz Royale",
       "predownload_link_codes": [
         "0689-7630-5479"
       ],
-      "sub_link_codes": [
-        "playlist_forbiddenfruitnobuildbrsolo"
-      ],
+      "lobby_background_image_urls": {
+        "url": "http://localhost:5595/cdn2-unrealengine/cdn-uploader-blitz_lobbybackground_2-9c8748aa.jpg"
+      },
+      "matchmakingV2": {
+        "crossplayRequired": false
+      },
       "alt_title": {
         "de": "Blitz Royale",
         "ru": "Blitz Royale",
@@ -2929,67 +3019,15 @@
         "es-419": "32 jugadores. Un mapa peque\u00f1o. Partidas r\u00e1pidas. Cero construcci\u00f3n. Obt\u00e9n eliminaciones y sobrevive a c\u00edrculos de la tormenta para aumentar tu nivel de Blitz, que te otorga un poderoso bot\u00edn a medida que subes de nivel.",
         "tr": "32 Oyuncu. K\u00fc\u00e7\u00fck Harita. H\u0131zl\u0131 Oyunlar. S\u0131f\u0131r \u0130n\u015fa. Blitz Seviyesi'ni artt\u0131rmak i\u00e7in avlama yap ve f\u0131rt\u0131na \u00e7emberi atlat. Seviye atlad\u0131k\u00e7a g\u00fc\u00e7l\u00fc ganimetler al\u0131rs\u0131n!"
       },
+      "image_url": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg",
       "product_tag": "Product.ForbiddenFruit.NoBuild",
       "tagline": "32 Players. Small Map. Fast Games. Zero Build. Rack up eliminations and survive storm circles to increase your Blitz Level, which grants powerful loot as you level up!",
-      "web_slug": "fortnite-blitz-royale",
-      "category_labels": [
-        "Combat"
-      ],
-      "default_sub_link_code": "playlist_forbiddenfruitnobuildbrsolo"
-    },
-    "version": 1,
-    "active": false,
-    "disabled": true,
-    "created": "2025-06-10T17:03:29.077Z",
-    "published": "2025-06-10T17:03:29.077Z",
-    "descriptionTags": [],
-    "moderationStatus": "Approved",
-    "lastActivatedDate": "2025-06-10T17:03:29.082Z",
-    "discoveryIntent": "PUBLIC",
-    "linkState": "LIVE"
-  },
-  {
-    "namespace": "fn",
-    "accountId": "epic",
-    "creatorName": "Epic",
-    "mnemonic": "playlist_forbiddenfruitnobuildbrsolo",
-    "linkType": "BR:Playlist",
-    "metadata": {
-      "matchmakingV2": {
-        "crossplayRequired": false
+       "image_urls": {
+        "url_s": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg",
+        "url_m": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg",
+        "url": "https://cdn2.unrealengine.com/cdn-uploader-FNECO_37-50_BR14_BrutalBulwark_Screenshot_DiscoverPlaylistTile_-1920x1080-43a8099c.jpg"
       },
-      "alt_title": {
-        "de": "Solo",
-        "ru": "\u0412 \u043e\u0434\u0438\u043d\u043e\u0447\u043a\u0443",
-        "ko": "\uc194\ub85c",
-        "pt-BR": "Solo",
-        "zh-hans": "\u5355\u4eba",
-        "en": "Solo",
-        "it": "Singolo",
-        "fr": "Solo",
-        "zh-CN": "",
-        "es": "En solitario",
-        "es-MX": "En solitario",
-        "zh": "",
-        "ar": "\u0641\u0631\u062f\u064a",
-        "zh-Hant": "",
-        "ja": "\u30bd\u30ed",
-        "pl": "Solo",
-        "es-419": "En solitario",
-        "tr": "Tekli"
-      },
-      "parent_set": "set_forbiddenfruit_nobuild_playlists",
-      "play_history_override": "set_forbiddenfruit_nobuild_playlists",
-      "block_cascading_data": "true",
-      "image_url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg",
-      "product_tag": "Product.ForbiddenFruit.NoBuild",
-      "image_urls": {
-        "url_s": "https://cdn2.unrealengine.com/solosize-480-480x270-bd71a8aecb8f.jpg",
-        "url_xs": "https://cdn2.unrealengine.com/solosize-256-256x144-9e4ba5075e53.jpg",
-        "url_m": "https://cdn2.unrealengine.com/solosize-640-640x360-0062a2e4e8b4.jpg",
-        "url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg"
-      },
-      "title": "Solo",
+      "title": "Blitz Royale",
       "matchmaking": {
         "override_playlist": "playlist_forbiddenfruitnobuildbrsolo"
       }
