@@ -357,12 +357,12 @@
           "FailedConnectionDelayMultiplier": 2.5,
           "ServerHeartbeatIntervalMilliseconds": 0,
           "FailedConnectionDelayMaxSeconds": 180,
-          "ClientHeartbeatIntervalMilliseconds": 30000,
+          "ClientHeartbeatIntervalMilliseconds": 300,
           "FailedConnectionDelayIntervalSeconds": 5,
-          "Url": "wss://connect.epicgames.dev"
+          "Url": "ws://localhost:80/V1EOS"
         },
         "MetricsClient": {
-          "HttpRetryLimit": 2
+          "HttpRetryLimit": 1
         },
         "RateLimiter.TitleStorageClient.Operations": {
           "MessageCount": 300,
@@ -385,7 +385,7 @@
         "Messaging.Stomp": {
           "ClientHeartbeatIntervalMs": 30000,
           "RequestedServerHeartbeatIntervalMs": 0,
-          "Url": "",
+          "Url": "ws://localhost:80/stompMessaging",
           "BlocklistMessageTypeFilters": [
             "lobbyinvite"
           ]

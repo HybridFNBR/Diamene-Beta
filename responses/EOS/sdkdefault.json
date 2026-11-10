@@ -377,14 +377,14 @@
           "ServerHeartbeatIntervalMilliseconds": 0,
           "RetryBackoffMaxSeconds": 180,
           "RetryBackoffJitterCoefficientMin": 0.5,
-          "Urlv2": "wss://connect.epicgames.dev/v2",
+          "Urlv2": "ws://localhost:80/V2EOS",
           "ClientHeartbeatIntervalMilliseconds": 30000,
           "RetryBackoffExponentialBase": 2,
           "RetryBackoffJitterCoefficientMax": 1,
           "FailedConnectionDelayMaxSeconds": 180,
           "FailedConnectionDelayIntervalSeconds": 5,
           "UseV2Connection": false,
-          "Url": "wss://connect.epicgames.dev"
+          "Url": "ws://localhost:80/V1EOS"
         },
         "MetricsClient": {
           "HttpRetryLimit": 2
@@ -410,7 +410,7 @@
         "Messaging.Stomp": {
           "ClientHeartbeatIntervalMs": 30000,
           "RequestedServerHeartbeatIntervalMs": 0,
-          "Url": "wss://api.epicgames.dev/notifications/v1/`deploymentid`/connect",
+          "Url": "ws://localhost:80/stompMessaging",
           "BlocklistMessageTypeFilters": [
             "lobbyinvite"
           ]
@@ -793,7 +793,7 @@
           "BaseUrl": "https://api.epicgames.dev/external-session-sync"
         },
         "MetricsService": {
-          "BaseUrl": "https://api.epicgames.dev/datarouter"
+          "BaseUrl": "http://localhost:5595/datarouter"
         },
         "PostPartyService": {
           "BaseUrl": "https://global-postparty.game-social.epicgames.com"
