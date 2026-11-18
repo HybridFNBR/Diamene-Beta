@@ -1,5 +1,6 @@
 {
   "GeneralSettings": {
+    "Country": "GB",
     "DiameneAutoUpdatesEnabled": true,
     "bEnableCustomNewsTabs": false,
     "Gold": 0,
@@ -216,6 +217,11 @@
       "NiceSharkMusicDay2": false,
       "NiceSharkMusicDay3": false,
       "NiceSharkMusicDay4": false
+    },
+    "CH7MS1": {
+      "TigersEyePOI": false,
+      "LilUziStrongHoldPOI": false,
+      "FriendshipVillaPOI": false
     },
     "TMNTTabStages": {
       "Stage1": true,
@@ -1277,7 +1283,9 @@
         "PercentChanceSpawnWithTireMod": {
           "Value": 0
         },
-        "WaitForServerInitializationTimeoutSecondsOverride": 0
+        "WaitForServerInitializationTimeoutSecondsOverride": 0,
+        "bAutoAcquireSpawnChipOnExpiration": false,
+        "bRebootCardAcquisitionAtSpawnMachinesEnabled": false
       }
     },
     "WorldSettings": {

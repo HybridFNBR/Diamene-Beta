@@ -4979,6 +4979,41 @@ func Timeline(r *gin.Engine) {
 			}
 		}
 
+		if versionInfo.VersionGlobal == 43 {
+			if managers.Config.TimelineConfigs.CH7MS1.TigersEyePOI == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "EventFlag.Event_OPS",
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+
+			if managers.Config.TimelineConfigs.CH7MS1.LilUziStrongHoldPOI == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "EventFlag.Event_RookGecko",
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+
+			if managers.Config.TimelineConfigs.CH7MS1.FriendshipVillaPOI == true {
+				calendar.Channels["client-events"].States[0].ActiveEvents =
+					append(calendar.Channels["client-events"].States[0].ActiveEvents,
+						types.FEventRecord{
+							EventType:   "EventFlag.Event_Peony_Pizza_Cactus_Bait",
+							ActiveUntil: "9999-12-01T21:10:00.000Z",
+							ActiveSince: "2020-11-21T07:00:00.000Z",
+						},
+					)
+			}
+		}
+
 		if versionInfo.VersionGlobal == 11 && versionInfo.Version < 11.30 {
 			if managers.Config.TimelineConfigs.RiskyReelsStarWarsBuildUpStages.Stage1 == true {
 				calendar.Channels["client-events"].States[0].ActiveEvents =
