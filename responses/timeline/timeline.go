@@ -1223,10 +1223,15 @@ func Timeline(r *gin.Engine) {
 			},
 
 			"42.10|42.20": { //assuming first stage is active for 2 versions
-				"DustyUpdate_A",
+				//"DustyUpdate_A",
 				//"DustyUpdate_B"
 				//"DustyUpdate_C"
-				//"DustyUpdate_D" //might make it a config but this is fine for now
+				"DustyUpdate_D", //might make it a config but this is fine for now
+			},
+
+			"43.11|43.12": {
+				"HW_Countdown", //Out of time Event Countcown
+				"NN1",          //Fortnite OG: End Event Countdown
 			},
 		}
 
