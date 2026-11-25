@@ -27,7 +27,6 @@ func Timeline(r *gin.Engine) {
 
 		clientEvents := calendar.Channels["client-events"]
 
-		managers.LoadConfig()
 		if managers.Config.GeneralSettings.BRefreshKeychainViaTimeline == true {
 			managers.CompareAndUpdateKeychain()
 		}
